@@ -34,11 +34,10 @@ AI-Chatbot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
-cd YOUR_REPOSITORY
+git clone https://github.com/Riham203/TopMentor_Coursework.git
+cd TopMentor_Coursework/projects/AI_ChatBot
 ```
 
-Replace `YOUR_USERNAME` and `YOUR_REPOSITORY` with your GitHub details.
 
 ### 2. Create a virtual environment
 
