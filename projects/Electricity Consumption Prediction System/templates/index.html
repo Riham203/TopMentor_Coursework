@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Electricity Consumption Predictor</title>
+    <style>
+        body { font-family: Arial, sans-serif; max-width: 650px; margin: 40px auto; padding: 20px; border: 1px solid #ddd; border-radius: 8px; }
+        .form-group { margin-bottom: 12px; }
+        label { display: inline-block; width: 220px; font-weight: bold; }
+        input, select { width: 350px; padding: 6px; }
+        button { background-color: #007bff; color: white; padding: 10px 20px; border: none; border-radius: 4px; cursor: pointer; width: 100%; margin-top: 15px; }
+        .result { margin-top: 25px; padding: 15px; background-color: #e9ecef; border-radius: 4px; font-size: 1.2em; text-align: center; }
+    </style>
+</head>
+<body>
+    <h2>⚡ Electricity Load Predictor</h2>
+    <form method="POST">
+        <div class="form-group"><label>Hour (0-23):</label><input type="number" name="hour" min="0" max="23" required></div>
+        <div class="form-group"><label>Day of Week (0=Mon, 6=Sun):</label><input type="number" name="dayofweek" min="0" max="6" required></div>
+        <div class="form-group"><label>Quarter (1-4):</label><input type="number" name="quarter" min="1" max="4" required></div>
+        <div class="form-group"><label>Month (1-12):</label><input type="number" name="month" min="1" max="12" required></div>
+        <div class="form-group"><label>Day of Year (1-365):</label><input type="number" name="dayofyear" min="1" max="365" required></div>
+        <div class="form-group"><label>Is Weekend (0/1):</label><input type="number" name="is_weekend" min="0" max="1" required></div>
+        <div class="form-group"><label>Consumption 1h Ago (MW):</label><input type="number" step="any" name="lag_1h" required></div>
+        <div class="form-group"><label>Consumption 24h Ago (MW):</label><input type="number" step="any" name="lag_24h" required></div>
+        <div class="form-group"><label>Consumption 7d Ago (MW):</label><input type="number" step="any" name="lag_168h" required></div>
+        <div class="form-group"><label>24h Rolling Mean (MW):</label><input type="number" step="any" name="rolling_mean_24h" required></div>
+        <div class="form-group"><label>24h Rolling Std (MW):</label><input type="number" step="any" name="rolling_std_24h" required></div>
+        <button type="submit">Predict Consumption</button>
+    </form>
+
+    {% if prediction is not none %}
+    <div class="result">
+        <strong>Predicted Consumption:</strong> {{ prediction }} MW
+    </div>
+    {% endif %}
+</body>
+</html>
