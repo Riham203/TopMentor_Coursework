@@ -1,0 +1,26 @@
+course_id,course_title,subject,level,price,rating,num_subscribers
+101,Complete Python Web Bootstrap Developer Course,Web Development,All Levels,50,4.6,12000
+102,Machine Learning A-Z: Hands-On Python & R In Data Science,Data Science,Intermediate,100,4.8,45000
+103,Deep Learning Specialization with TensorFlow,Data Science,Advanced,120,4.9,32000
+104,Web Development Bootcamp with React and Node,Web Development,Beginner,80,4.7,28000
+105,Data Science and Python for Beginners,Data Science,Beginner,40,4.5,15000
+106,Financial Analysis and Stock Market Trading,Finance,Intermediate,60,4.3,8000
+107,Graphic Design Masterclass - Learn Photoshop & Illustrator,Design,All Levels,45,4.6,11000
+108,Natural Language Processing with Python and spaCy,Data Science,Intermediate,90,4.7,14000
+109,SQL & PostgreSQL Tutorial: Complete Developer Guide,Database,Beginner,35,4.6,22000
+110,Data Visualization with Tableau and Power BI,Data Science,All Levels,55,4.5,19000
+111,Full Stack Web Development with Django & Angular,Web Development,Advanced,110,4.7,16000
+112,Artificial Intelligence & Neural Networks Masterclass,Data Science,Advanced,130,4.8,21000
+113,Java Programming Masterclass for Software Developers,Programming,All Levels,75,4.6,35000
+114,Docker & Kubernetes: The Practical Guide,DevOps,Intermediate,85,4.7,18000
+115,AWS Certified Solutions Architect Associate Training,Cloud Computing,Intermediate,95,4.8,29000
+116,User Experience (UX) & UI Design Fundamentals,Design,Beginner,50,4.5,13000
+117,Excel VBA and Data Analysis Masterclass,Finance,All Levels,40,4.4,17000
+118,Cyber Security Fundamentals & Ethical Hacking,Cyber Security,Beginner,70,4.6,24000
+119,DevOps Engineering: CI/CD Pipelines with Jenkins,DevOps,Advanced,105,4.7,15000
+120,Microservices Architecture with Node.js & Docker,Web Development,Advanced,115,4.8,12500
+121,R Programming for Data Science and Statistics,Data Science,Intermediate,65,4.4,9500
+122,Prompt Engineering and LLM Application Development,Data Science,Intermediate,125,4.9,31000
+123,iOS & Swift - The Complete App Development Bootcamp,Mobile Development,All Levels,85,4.7,20000
+124,Android App Development with Kotlin Masterclass,Mobile Development,Intermediate,80,4.6,18500
+125,Product Management Essentials & Agile Methodology,Management,Beginner,60,4.4,14500
