@@ -1,0 +1,1001 @@
+Patient_ID,Admission_Date,Discharge_Date,Branch,Department,Admission_Type,Gender,Age,Length_of_Stay,Billing_Amount,Satisfaction_Rating,Doctor_Name
+PAT-1000,2026-04-13,2026-04-23,Mumbai,Gastroenterology,Elective,Female,47,10,343127.8,3.6,Dr. Joshi
+PAT-1001,2026-06-29,2026-07-09,Bengaluru,Neurology,Emergency,Male,17,10,228711.07,4.1,Dr. Sharma
+PAT-1002,2026-04-03,2026-04-06,Bengaluru,Gastroenterology,Urgent,Female,17,3,52843.04,4.2,Dr. Kapoor
+PAT-1003,2026-01-15,2026-01-16,Mumbai,Pediatrics,Urgent,Female,13,1,28434.18,4.9,Dr. Reddy
+PAT-1004,2026-04-17,2026-04-22,New Delhi,Oncology,Urgent,Male,17,5,147930.98,4.5,Dr. Sharma
+PAT-1005,2026-03-13,2026-03-27,Kolkata,Pediatrics,Emergency,Female,38,14,371016.96,4.0,Dr. Reddy
+PAT-1006,2026-07-08,2026-07-17,Pune,Orthopedics,Elective,Male,81,9,172227.22,4.3,Dr. Mehta
+PAT-1007,2026-01-21,2026-02-04,Pune,Pediatrics,Emergency,Female,78,14,351247.66,3.6,Dr. Reddy
+PAT-1008,2026-04-13,2026-04-14,Kolkata,Cardiology,Emergency,Male,45,1,21243.79,5.0,Dr. Kapoor
+PAT-1009,2026-05-02,2026-05-05,Chennai,Orthopedics,Emergency,Female,6,3,70647.99,4.0,Dr. Sharma
+PAT-1010,2026-07-30,2026-08-12,Chennai,Gastroenterology,Elective,Female,35,13,362756.83,4.2,Dr. Iyer
+PAT-1011,2026-08-03,2026-08-16,Bengaluru,Orthopedics,Elective,Female,14,13,388755.83,4.0,Dr. Joshi
+PAT-1012,2026-03-16,2026-03-20,Bengaluru,Oncology,Emergency,Male,72,4,78577.98,4.5,Dr. Iyer
+PAT-1013,2026-07-22,2026-08-05,New Delhi,Neurology,Emergency,Male,61,14,323491.1,4.5,Dr. Kapoor
+PAT-1014,2026-03-29,2026-03-30,Hyderabad,Gastroenterology,Elective,Male,15,1,20383.23,4.6,Dr. Das
+PAT-1015,2026-04-27,2026-04-28,Mumbai,Orthopedics,Emergency,Male,54,1,18972.63,3.9,Dr. Kapoor
+PAT-1016,2026-04-10,2026-04-18,Bengaluru,Gastroenterology,Emergency,Female,27,8,245341.96,4.0,Dr. Das
+PAT-1017,2026-04-14,2026-04-16,Pune,Gastroenterology,Emergency,Female,13,2,66370.11,3.7,Dr. Sharma
+PAT-1018,2026-06-01,2026-06-13,New Delhi,Gastroenterology,Elective,Male,31,12,268855.72,4.5,Dr. Joshi
+PAT-1019,2026-05-11,2026-05-19,Mumbai,Neurology,Emergency,Male,35,8,240204.63,3.6,Dr. Kapoor
+PAT-1020,2026-05-30,2026-06-06,New Delhi,Pediatrics,Emergency,Male,60,7,230579.34,4.4,Dr. Iyer
+PAT-1021,2026-02-22,2026-03-04,Mumbai,Gastroenterology,Emergency,Female,6,10,319224.84,4.8,Dr. Das
+PAT-1022,2026-01-02,2026-01-12,Mumbai,Cardiology,Urgent,Male,69,10,186562.68,4.8,Dr. Joshi
+PAT-1023,2026-03-29,2026-03-31,Kolkata,Oncology,Elective,Male,58,2,68251.68,4.2,Dr. Rao
+PAT-1024,2026-08-24,2026-08-30,Bengaluru,Neurology,Elective,Female,49,6,135201.17,4.2,Dr. Rao
+PAT-1025,2026-06-07,2026-06-13,New Delhi,Orthopedics,Emergency,Female,23,6,130708.88,3.6,Dr. Rao
+PAT-1026,2026-02-07,2026-02-10,New Delhi,Neurology,Elective,Male,34,3,48745.88,4.5,Dr. Reddy
+PAT-1027,2026-05-10,2026-05-21,Kolkata,Orthopedics,Emergency,Female,26,11,271958.2,4.7,Dr. Kapoor
+PAT-1028,2026-07-11,2026-07-13,Pune,Neurology,Elective,Male,47,2,34360.54,3.9,Dr. Sharma
+PAT-1029,2026-07-07,2026-07-19,Pune,Orthopedics,Urgent,Female,5,12,239649.56,4.1,Dr. Iyer
+PAT-1030,2026-01-21,2026-01-22,Chennai,Gastroenterology,Elective,Male,20,1,21338.85,4.8,Dr. Sharma
+PAT-1031,2026-06-10,2026-06-16,Bengaluru,Pediatrics,Urgent,Male,6,6,187059.16,4.8,Dr. Reddy
+PAT-1032,2026-07-23,2026-08-04,Bengaluru,Orthopedics,Elective,Male,70,12,390117.28,3.9,Dr. Sharma
+PAT-1033,2026-02-27,2026-03-04,Hyderabad,Orthopedics,Emergency,Male,59,5,105246.63,4.3,Dr. Das
+PAT-1034,2026-01-22,2026-02-05,Kolkata,Cardiology,Urgent,Female,64,14,450435.47,3.8,Dr. Rao
+PAT-1035,2026-08-24,2026-09-07,Pune,Orthopedics,Emergency,Female,18,14,450024.66,3.7,Dr. Iyer
+PAT-1036,2026-03-30,2026-04-10,Mumbai,Cardiology,Elective,Female,4,11,333223.21,4.9,Dr. Kapoor
+PAT-1037,2026-02-18,2026-02-27,New Delhi,Oncology,Emergency,Female,17,9,161405.12,4.7,Dr. Sharma
+PAT-1038,2026-08-07,2026-08-08,Bengaluru,Gastroenterology,Emergency,Male,14,1,28806.46,4.6,Dr. Sharma
+PAT-1039,2026-02-28,2026-03-07,New Delhi,Cardiology,Emergency,Male,78,7,237303.37,3.6,Dr. Mehta
+PAT-1040,2026-06-19,2026-06-24,New Delhi,Pediatrics,Emergency,Female,13,5,143254.05,4.8,Dr. Mehta
+PAT-1041,2026-08-08,2026-08-13,Hyderabad,Gastroenterology,Elective,Female,7,5,108161.68,4.2,Dr. Mehta
+PAT-1042,2026-07-07,2026-07-21,Pune,Cardiology,Elective,Female,44,14,350162.21,4.0,Dr. Kapoor
+PAT-1043,2026-07-27,2026-07-29,Bengaluru,Gastroenterology,Emergency,Female,15,2,55829.0,4.3,Dr. Rao
+PAT-1044,2026-01-15,2026-01-26,New Delhi,Gastroenterology,Emergency,Female,19,11,277325.49,3.6,Dr. Joshi
+PAT-1045,2026-07-09,2026-07-12,Bengaluru,Gastroenterology,Elective,Male,63,3,52197.18,4.6,Dr. Rao
+PAT-1046,2026-07-09,2026-07-16,Mumbai,Oncology,Emergency,Male,35,7,148688.97,4.4,Dr. Iyer
+PAT-1047,2026-06-24,2026-06-30,Hyderabad,Pediatrics,Elective,Male,81,6,186287.52,3.8,Dr. Rao
+PAT-1048,2026-07-09,2026-07-21,Mumbai,Neurology,Elective,Female,35,12,386740.33,3.8,Dr. Kapoor
+PAT-1049,2026-02-20,2026-02-22,Bengaluru,Neurology,Urgent,Female,19,2,35492.0,3.8,Dr. Das
+PAT-1050,2026-04-18,2026-04-24,Chennai,Cardiology,Elective,Female,20,6,204286.41,3.6,Dr. Das
+PAT-1051,2026-02-24,2026-02-26,Bengaluru,Gastroenterology,Emergency,Female,35,2,43152.9,4.4,Dr. Kapoor
+PAT-1052,2026-03-05,2026-03-07,Pune,Cardiology,Elective,Male,32,2,56492.55,4.8,Dr. Mehta
+PAT-1053,2026-05-11,2026-05-13,New Delhi,Oncology,Emergency,Male,48,2,60073.01,3.5,Dr. Sharma
+PAT-1054,2026-08-17,2026-08-31,New Delhi,Oncology,Emergency,Female,44,14,437344.95,3.6,Dr. Reddy
+PAT-1055,2026-02-20,2026-03-03,Mumbai,Orthopedics,Elective,Male,24,11,373064.93,4.4,Dr. Reddy
+PAT-1056,2026-05-15,2026-05-18,Hyderabad,Oncology,Emergency,Male,61,3,63775.17,4.7,Dr. Joshi
+PAT-1057,2026-01-21,2026-01-23,Chennai,Orthopedics,Elective,Female,17,2,64340.26,4.0,Dr. Sharma
+PAT-1058,2026-03-14,2026-03-18,Kolkata,Pediatrics,Urgent,Female,71,4,70534.95,4.0,Dr. Joshi
+PAT-1059,2026-06-16,2026-06-25,New Delhi,Cardiology,Urgent,Female,50,9,261907.36,4.4,Dr. Mehta
+PAT-1060,2026-01-18,2026-01-24,Pune,Pediatrics,Urgent,Female,65,6,179037.33,3.9,Dr. Joshi
+PAT-1061,2026-05-12,2026-05-13,Mumbai,Oncology,Emergency,Female,32,1,28554.46,3.5,Dr. Sharma
+PAT-1062,2026-03-30,2026-04-07,Mumbai,Pediatrics,Emergency,Female,36,8,160370.36,4.6,Dr. Iyer
+PAT-1063,2026-03-01,2026-03-13,Kolkata,Pediatrics,Elective,Male,13,12,389530.36,4.4,Dr. Sharma
+PAT-1064,2026-01-14,2026-01-28,Pune,Pediatrics,Emergency,Male,70,14,257280.37,4.4,Dr. Reddy
+PAT-1065,2026-08-30,2026-09-06,Hyderabad,Oncology,Elective,Female,58,7,112508.87,4.6,Dr. Das
+PAT-1066,2026-01-09,2026-01-19,Pune,Gastroenterology,Elective,Male,14,10,293493.0,4.5,Dr. Mehta
+PAT-1067,2026-03-31,2026-04-03,Hyderabad,Pediatrics,Elective,Female,37,3,73528.54,3.8,Dr. Iyer
+PAT-1068,2026-02-22,2026-02-23,Pune,Orthopedics,Emergency,Female,79,1,31981.96,4.0,Dr. Kapoor
+PAT-1069,2026-05-10,2026-05-15,Pune,Oncology,Emergency,Female,68,5,113339.71,3.7,Dr. Iyer
+PAT-1070,2026-03-25,2026-04-07,Bengaluru,Pediatrics,Emergency,Female,40,13,238752.43,3.7,Dr. Iyer
+PAT-1071,2026-04-02,2026-04-06,Mumbai,Gastroenterology,Emergency,Male,59,4,126915.38,4.5,Dr. Joshi
+PAT-1072,2026-04-21,2026-05-01,Pune,Oncology,Urgent,Female,80,10,259781.93,4.8,Dr. Reddy
+PAT-1073,2026-07-07,2026-07-15,Kolkata,Neurology,Emergency,Male,16,8,150271.33,4.9,Dr. Joshi
+PAT-1074,2026-07-18,2026-07-19,Pune,Gastroenterology,Emergency,Female,62,1,29407.68,4.4,Dr. Joshi
+PAT-1075,2026-06-21,2026-07-01,New Delhi,Orthopedics,Emergency,Female,4,10,252222.73,3.8,Dr. Kapoor
+PAT-1076,2026-01-08,2026-01-09,Mumbai,Pediatrics,Elective,Female,45,1,27086.26,3.7,Dr. Mehta
+PAT-1077,2026-06-24,2026-07-06,New Delhi,Neurology,Elective,Male,28,12,290615.6,4.7,Dr. Sharma
+PAT-1078,2026-02-04,2026-02-08,Mumbai,Neurology,Emergency,Female,66,4,126296.72,4.4,Dr. Rao
+PAT-1079,2026-07-25,2026-08-02,New Delhi,Oncology,Emergency,Female,31,8,252730.03,4.4,Dr. Joshi
+PAT-1080,2026-03-22,2026-03-27,Pune,Neurology,Emergency,Female,3,5,145938.88,4.7,Dr. Rao
+PAT-1081,2026-06-13,2026-06-15,Pune,Orthopedics,Emergency,Male,8,2,34216.06,4.6,Dr. Mehta
+PAT-1082,2026-02-19,2026-02-25,Bengaluru,Orthopedics,Elective,Male,24,6,190662.46,4.8,Dr. Rao
+PAT-1083,2026-04-14,2026-04-19,Kolkata,Cardiology,Elective,Male,15,5,142101.3,3.6,Dr. Joshi
+PAT-1084,2026-05-12,2026-05-14,New Delhi,Orthopedics,Emergency,Female,43,2,57880.97,4.6,Dr. Kapoor
+PAT-1085,2026-01-02,2026-01-15,Hyderabad,Gastroenterology,Emergency,Male,31,13,289375.54,4.8,Dr. Rao
+PAT-1086,2026-05-14,2026-05-28,Bengaluru,Neurology,Urgent,Female,73,14,456198.28,3.9,Dr. Mehta
+PAT-1087,2026-02-23,2026-03-06,New Delhi,Orthopedics,Elective,Male,45,11,324581.75,4.5,Dr. Mehta
+PAT-1088,2026-04-16,2026-04-27,New Delhi,Oncology,Elective,Male,66,11,189769.9,4.0,Dr. Das
+PAT-1089,2026-01-04,2026-01-15,Bengaluru,Cardiology,Emergency,Female,8,11,254711.17,4.9,Dr. Das
+PAT-1090,2026-02-23,2026-02-26,Pune,Neurology,Elective,Male,71,3,98182.82,3.6,Dr. Kapoor
+PAT-1091,2026-08-09,2026-08-18,New Delhi,Cardiology,Emergency,Female,57,9,143495.41,4.4,Dr. Rao
+PAT-1092,2026-07-10,2026-07-17,Pune,Neurology,Elective,Female,80,7,239598.33,3.7,Dr. Rao
+PAT-1093,2026-05-26,2026-06-02,Bengaluru,Oncology,Urgent,Male,30,7,200082.76,4.6,Dr. Das
+PAT-1094,2026-08-06,2026-08-17,Pune,Cardiology,Emergency,Female,74,11,303902.72,3.8,Dr. Sharma
+PAT-1095,2026-02-13,2026-02-19,Mumbai,Pediatrics,Emergency,Female,18,6,122467.11,3.9,Dr. Reddy
+PAT-1096,2026-06-11,2026-06-19,Hyderabad,Gastroenterology,Emergency,Male,69,8,159806.69,4.2,Dr. Mehta
+PAT-1097,2026-07-21,2026-07-25,Chennai,Gastroenterology,Emergency,Male,39,4,135364.66,4.9,Dr. Sharma
+PAT-1098,2026-07-09,2026-07-17,New Delhi,Neurology,Emergency,Female,60,8,167723.59,3.8,Dr. Mehta
+PAT-1099,2026-08-16,2026-08-20,Kolkata,Pediatrics,Emergency,Male,43,4,122040.42,3.7,Dr. Iyer
+PAT-1100,2026-01-14,2026-01-22,Hyderabad,Cardiology,Elective,Female,45,8,182899.49,4.6,Dr. Iyer
+PAT-1101,2026-04-05,2026-04-14,Chennai,Pediatrics,Elective,Female,23,9,160065.73,4.3,Dr. Sharma
+PAT-1102,2026-02-17,2026-02-20,Pune,Pediatrics,Emergency,Male,69,3,45642.92,4.9,Dr. Iyer
+PAT-1103,2026-01-15,2026-01-18,New Delhi,Cardiology,Urgent,Male,6,3,77655.44,3.7,Dr. Das
+PAT-1104,2026-07-19,2026-07-30,Pune,Oncology,Emergency,Male,56,11,379671.34,4.5,Dr. Das
+PAT-1105,2026-07-25,2026-08-07,Mumbai,Pediatrics,Urgent,Male,4,13,290975.41,3.8,Dr. Reddy
+PAT-1106,2026-08-03,2026-08-05,Bengaluru,Pediatrics,Emergency,Female,23,2,44287.69,3.7,Dr. Sharma
+PAT-1107,2026-07-09,2026-07-22,New Delhi,Oncology,Urgent,Female,6,13,284463.82,4.5,Dr. Mehta
+PAT-1108,2026-02-09,2026-02-19,Chennai,Pediatrics,Elective,Male,32,10,254108.77,4.4,Dr. Rao
+PAT-1109,2026-08-01,2026-08-04,Chennai,Pediatrics,Urgent,Male,18,3,71439.89,4.6,Dr. Mehta
+PAT-1110,2026-07-27,2026-07-30,Mumbai,Pediatrics,Urgent,Female,15,3,97794.88,4.0,Dr. Joshi
+PAT-1111,2026-08-25,2026-08-30,Mumbai,Gastroenterology,Emergency,Female,40,5,125552.08,4.2,Dr. Das
+PAT-1112,2026-03-23,2026-03-28,New Delhi,Orthopedics,Urgent,Female,73,5,125775.78,4.1,Dr. Kapoor
+PAT-1113,2026-04-21,2026-04-23,Pune,Oncology,Emergency,Female,74,2,35534.86,5.0,Dr. Kapoor
+PAT-1114,2026-02-22,2026-03-06,Kolkata,Pediatrics,Emergency,Male,84,12,415857.49,3.9,Dr. Das
+PAT-1115,2026-01-24,2026-02-03,Chennai,Gastroenterology,Emergency,Female,6,10,199994.58,3.9,Dr. Joshi
+PAT-1116,2026-06-03,2026-06-16,Chennai,Oncology,Elective,Female,63,13,214074.66,4.0,Dr. Kapoor
+PAT-1117,2026-08-05,2026-08-11,Mumbai,Neurology,Emergency,Male,67,6,169577.55,4.3,Dr. Iyer
+PAT-1118,2026-07-07,2026-07-12,Hyderabad,Neurology,Elective,Female,11,5,134536.64,3.9,Dr. Das
+PAT-1119,2026-05-04,2026-05-10,Mumbai,Pediatrics,Elective,Female,43,6,139817.48,4.9,Dr. Kapoor
+PAT-1120,2026-08-25,2026-08-26,Kolkata,Gastroenterology,Elective,Male,17,1,23443.84,3.9,Dr. Das
+PAT-1121,2026-02-10,2026-02-15,Pune,Gastroenterology,Urgent,Male,4,5,153506.39,4.8,Dr. Reddy
+PAT-1122,2026-06-06,2026-06-15,Pune,Oncology,Emergency,Male,63,9,170228.28,3.7,Dr. Rao
+PAT-1123,2026-01-15,2026-01-27,Hyderabad,Oncology,Emergency,Female,68,12,376860.8,4.5,Dr. Rao
+PAT-1124,2026-02-14,2026-02-24,Chennai,Gastroenterology,Emergency,Female,81,10,279749.42,4.9,Dr. Mehta
+PAT-1125,2026-03-06,2026-03-20,Mumbai,Oncology,Emergency,Male,41,14,327311.54,3.8,Dr. Joshi
+PAT-1126,2026-03-30,2026-04-01,Pune,Gastroenterology,Emergency,Male,83,2,48321.14,5.0,Dr. Das
+PAT-1127,2026-03-12,2026-03-13,Kolkata,Orthopedics,Emergency,Female,5,1,20132.94,4.2,Dr. Sharma
+PAT-1128,2026-01-09,2026-01-23,New Delhi,Gastroenterology,Emergency,Male,32,14,420592.01,4.9,Dr. Mehta
+PAT-1129,2026-03-29,2026-04-08,Bengaluru,Neurology,Urgent,Male,70,10,252574.95,4.5,Dr. Mehta
+PAT-1130,2026-05-09,2026-05-22,Bengaluru,Oncology,Elective,Male,35,13,278422.18,4.0,Dr. Das
+PAT-1131,2026-08-24,2026-09-04,Bengaluru,Gastroenterology,Emergency,Female,22,11,296131.03,3.8,Dr. Das
+PAT-1132,2026-05-16,2026-05-25,Chennai,Gastroenterology,Elective,Female,65,9,314232.2,4.0,Dr. Mehta
+PAT-1133,2026-08-04,2026-08-14,Mumbai,Oncology,Emergency,Female,84,10,237052.46,3.6,Dr. Mehta
+PAT-1134,2026-03-04,2026-03-13,Hyderabad,Orthopedics,Emergency,Female,22,9,300724.45,3.7,Dr. Rao
+PAT-1135,2026-05-19,2026-05-28,Pune,Orthopedics,Elective,Female,11,9,197103.03,3.7,Dr. Sharma
+PAT-1136,2026-08-31,2026-09-06,New Delhi,Oncology,Elective,Female,77,6,96567.92,4.1,Dr. Iyer
+PAT-1137,2026-03-22,2026-03-30,Kolkata,Cardiology,Emergency,Male,3,8,152678.74,4.7,Dr. Mehta
+PAT-1138,2026-05-16,2026-05-30,New Delhi,Oncology,Urgent,Female,9,14,327234.64,3.7,Dr. Iyer
+PAT-1139,2026-06-12,2026-06-23,Kolkata,Oncology,Urgent,Female,60,11,213319.68,3.7,Dr. Rao
+PAT-1140,2026-06-12,2026-06-25,Chennai,Orthopedics,Elective,Male,76,13,195059.03,4.5,Dr. Mehta
+PAT-1141,2026-02-02,2026-02-03,Mumbai,Orthopedics,Elective,Female,14,1,33300.03,3.8,Dr. Kapoor
+PAT-1142,2026-05-03,2026-05-13,Bengaluru,Oncology,Elective,Female,18,10,318775.88,3.6,Dr. Mehta
+PAT-1143,2026-01-05,2026-01-09,Mumbai,Oncology,Emergency,Male,73,4,119383.38,3.8,Dr. Das
+PAT-1144,2026-08-22,2026-08-23,Chennai,Oncology,Emergency,Male,23,1,18356.29,4.9,Dr. Joshi
+PAT-1145,2026-08-19,2026-08-27,Hyderabad,Orthopedics,Emergency,Male,74,8,139258.17,4.7,Dr. Joshi
+PAT-1146,2026-02-10,2026-02-11,Hyderabad,Oncology,Elective,Female,83,1,16352.09,4.0,Dr. Mehta
+PAT-1147,2026-01-28,2026-01-31,Chennai,Oncology,Elective,Male,47,3,88441.75,4.5,Dr. Reddy
+PAT-1148,2026-05-15,2026-05-28,Kolkata,Pediatrics,Emergency,Female,69,13,436490.07,4.3,Dr. Kapoor
+PAT-1149,2026-07-20,2026-07-24,Pune,Cardiology,Urgent,Female,47,4,94442.87,4.5,Dr. Sharma
+PAT-1150,2026-03-13,2026-03-21,Pune,Neurology,Urgent,Female,30,8,139062.51,4.5,Dr. Mehta
+PAT-1151,2026-01-12,2026-01-18,Kolkata,Cardiology,Elective,Female,25,6,151487.14,4.4,Dr. Iyer
+PAT-1152,2026-06-11,2026-06-25,Hyderabad,Pediatrics,Elective,Male,28,14,307672.93,3.9,Dr. Sharma
+PAT-1153,2026-02-02,2026-02-12,Hyderabad,Neurology,Urgent,Male,25,10,224964.98,3.6,Dr. Kapoor
+PAT-1154,2026-02-17,2026-03-01,Hyderabad,Oncology,Emergency,Female,74,12,329119.35,4.2,Dr. Mehta
+PAT-1155,2026-05-31,2026-06-07,Mumbai,Pediatrics,Elective,Male,78,7,205620.54,4.8,Dr. Reddy
+PAT-1156,2026-03-03,2026-03-17,Hyderabad,Oncology,Emergency,Female,58,14,240969.01,4.4,Dr. Rao
+PAT-1157,2026-08-04,2026-08-12,New Delhi,Orthopedics,Elective,Female,41,8,125694.44,4.7,Dr. Reddy
+PAT-1158,2026-02-06,2026-02-08,Bengaluru,Gastroenterology,Emergency,Female,25,2,69773.21,5.0,Dr. Das
+PAT-1159,2026-04-09,2026-04-22,Hyderabad,Pediatrics,Urgent,Male,78,13,255509.37,3.7,Dr. Reddy
+PAT-1160,2026-06-21,2026-07-01,Kolkata,Orthopedics,Urgent,Female,48,10,160766.1,4.5,Dr. Iyer
+PAT-1161,2026-04-14,2026-04-28,Bengaluru,Pediatrics,Emergency,Female,10,14,263165.09,4.5,Dr. Rao
+PAT-1162,2026-08-02,2026-08-13,Mumbai,Pediatrics,Elective,Male,75,11,173570.73,5.0,Dr. Das
+PAT-1163,2026-08-07,2026-08-15,Kolkata,Orthopedics,Urgent,Male,11,8,182689.74,5.0,Dr. Rao
+PAT-1164,2026-02-04,2026-02-07,Bengaluru,Neurology,Elective,Male,21,3,93144.11,4.5,Dr. Joshi
+PAT-1165,2026-07-12,2026-07-19,Kolkata,Cardiology,Urgent,Male,45,7,152774.22,3.9,Dr. Rao
+PAT-1166,2026-08-15,2026-08-18,Mumbai,Oncology,Elective,Female,7,3,71651.0,4.7,Dr. Mehta
+PAT-1167,2026-04-11,2026-04-18,New Delhi,Pediatrics,Emergency,Male,81,7,199582.15,3.7,Dr. Sharma
+PAT-1168,2026-06-24,2026-07-08,Mumbai,Oncology,Emergency,Female,64,14,352490.34,4.7,Dr. Joshi
+PAT-1169,2026-07-25,2026-08-05,Mumbai,Gastroenterology,Emergency,Male,64,11,354518.05,4.9,Dr. Joshi
+PAT-1170,2026-05-11,2026-05-23,Kolkata,Orthopedics,Elective,Male,2,12,387848.56,4.1,Dr. Sharma
+PAT-1171,2026-01-01,2026-01-14,Chennai,Oncology,Emergency,Male,76,13,197576.78,4.4,Dr. Iyer
+PAT-1172,2026-01-05,2026-01-07,Pune,Orthopedics,Elective,Male,42,2,61121.85,4.1,Dr. Joshi
+PAT-1173,2026-08-06,2026-08-16,Hyderabad,Oncology,Elective,Male,82,10,242146.72,4.2,Dr. Rao
+PAT-1174,2026-05-22,2026-05-28,Hyderabad,Cardiology,Elective,Male,54,6,208660.86,4.0,Dr. Reddy
+PAT-1175,2026-04-13,2026-04-16,New Delhi,Cardiology,Urgent,Female,75,3,73993.92,4.6,Dr. Kapoor
+PAT-1176,2026-01-27,2026-01-30,New Delhi,Cardiology,Urgent,Male,16,3,104213.76,4.9,Dr. Iyer
+PAT-1177,2026-05-17,2026-05-26,Hyderabad,Cardiology,Emergency,Male,18,9,270822.49,4.9,Dr. Rao
+PAT-1178,2026-07-26,2026-08-02,Pune,Cardiology,Urgent,Male,59,7,139804.68,3.8,Dr. Das
+PAT-1179,2026-01-15,2026-01-20,Hyderabad,Cardiology,Elective,Male,16,5,128839.5,4.8,Dr. Das
+PAT-1180,2026-03-31,2026-04-12,Chennai,Orthopedics,Elective,Female,6,12,418112.55,4.6,Dr. Reddy
+PAT-1181,2026-02-11,2026-02-21,Pune,Pediatrics,Urgent,Male,57,10,321506.12,3.9,Dr. Iyer
+PAT-1182,2026-05-04,2026-05-11,New Delhi,Oncology,Emergency,Male,47,7,118631.37,3.6,Dr. Iyer
+PAT-1183,2026-07-24,2026-08-02,Bengaluru,Cardiology,Emergency,Male,48,9,262146.96,3.9,Dr. Reddy
+PAT-1184,2026-06-28,2026-06-29,Kolkata,Orthopedics,Urgent,Male,42,1,21911.59,4.9,Dr. Iyer
+PAT-1185,2026-03-04,2026-03-11,Chennai,Orthopedics,Emergency,Female,76,7,105977.52,4.4,Dr. Joshi
+PAT-1186,2026-04-06,2026-04-12,Chennai,Orthopedics,Urgent,Male,60,6,138417.72,4.6,Dr. Mehta
+PAT-1187,2026-08-19,2026-08-29,New Delhi,Pediatrics,Urgent,Female,77,10,196950.88,3.9,Dr. Mehta
+PAT-1188,2026-08-29,2026-09-12,New Delhi,Oncology,Emergency,Male,4,14,439283.4,4.6,Dr. Iyer
+PAT-1189,2026-02-21,2026-03-05,Mumbai,Pediatrics,Urgent,Female,2,12,260959.35,3.5,Dr. Joshi
+PAT-1190,2026-04-06,2026-04-15,Chennai,Neurology,Emergency,Female,59,9,283954.26,4.1,Dr. Joshi
+PAT-1191,2026-05-12,2026-05-13,Mumbai,Orthopedics,Elective,Male,27,1,15011.96,4.4,Dr. Sharma
+PAT-1192,2026-08-10,2026-08-23,Mumbai,Neurology,Elective,Male,27,13,275032.98,3.7,Dr. Sharma
+PAT-1193,2026-08-17,2026-08-21,Kolkata,Gastroenterology,Urgent,Female,79,4,79293.22,4.7,Dr. Kapoor
+PAT-1194,2026-05-31,2026-06-09,Mumbai,Cardiology,Emergency,Female,72,9,177042.12,3.9,Dr. Kapoor
+PAT-1195,2026-08-19,2026-08-23,Pune,Cardiology,Elective,Male,7,4,65454.93,4.5,Dr. Kapoor
+PAT-1196,2026-08-25,2026-09-04,Hyderabad,Pediatrics,Elective,Female,63,10,187424.85,4.1,Dr. Kapoor
+PAT-1197,2026-05-23,2026-05-26,Bengaluru,Oncology,Elective,Female,46,3,78332.97,4.4,Dr. Reddy
+PAT-1198,2026-06-20,2026-06-29,New Delhi,Neurology,Elective,Female,63,9,187444.99,3.7,Dr. Reddy
+PAT-1199,2026-01-29,2026-02-11,Pune,Oncology,Emergency,Male,12,13,303522.64,3.5,Dr. Sharma
+PAT-1200,2026-02-05,2026-02-07,Bengaluru,Pediatrics,Emergency,Female,13,2,45074.68,4.9,Dr. Mehta
+PAT-1201,2026-01-13,2026-01-17,Chennai,Cardiology,Emergency,Female,43,4,130072.39,3.9,Dr. Joshi
+PAT-1202,2026-06-09,2026-06-15,Chennai,Oncology,Urgent,Female,17,6,198635.88,4.7,Dr. Das
+PAT-1203,2026-03-12,2026-03-14,Chennai,Oncology,Emergency,Male,63,2,49718.28,5.0,Dr. Mehta
+PAT-1204,2026-07-06,2026-07-14,Pune,Cardiology,Emergency,Male,81,8,172824.95,3.8,Dr. Rao
+PAT-1205,2026-08-31,2026-09-08,Pune,Neurology,Urgent,Female,36,8,137088.11,3.9,Dr. Reddy
+PAT-1206,2026-03-27,2026-03-28,New Delhi,Cardiology,Emergency,Male,8,1,34068.06,4.5,Dr. Kapoor
+PAT-1207,2026-01-28,2026-02-09,Hyderabad,Oncology,Urgent,Female,69,12,194454.47,4.9,Dr. Kapoor
+PAT-1208,2026-03-07,2026-03-10,Mumbai,Neurology,Elective,Male,80,3,62859.02,4.9,Dr. Rao
+PAT-1209,2026-06-19,2026-06-29,Chennai,Neurology,Urgent,Male,36,10,209613.24,4.3,Dr. Mehta
+PAT-1210,2026-02-14,2026-02-23,Kolkata,Cardiology,Emergency,Female,28,9,192672.23,4.7,Dr. Kapoor
+PAT-1211,2026-03-03,2026-03-08,Hyderabad,Oncology,Emergency,Male,47,5,91428.68,3.7,Dr. Mehta
+PAT-1212,2026-07-04,2026-07-10,Kolkata,Pediatrics,Elective,Male,76,6,183979.37,5.0,Dr. Joshi
+PAT-1213,2026-05-14,2026-05-18,New Delhi,Oncology,Urgent,Male,30,4,69799.83,4.9,Dr. Rao
+PAT-1214,2026-01-28,2026-02-07,New Delhi,Orthopedics,Elective,Female,23,10,276981.33,3.7,Dr. Das
+PAT-1215,2026-01-28,2026-01-30,New Delhi,Gastroenterology,Emergency,Male,16,2,34953.84,3.9,Dr. Mehta
+PAT-1216,2026-04-18,2026-04-29,Bengaluru,Pediatrics,Elective,Male,14,11,180517.84,3.7,Dr. Joshi
+PAT-1217,2026-02-13,2026-02-21,Kolkata,Neurology,Elective,Female,74,8,265508.72,3.9,Dr. Iyer
+PAT-1218,2026-03-25,2026-04-05,Hyderabad,Pediatrics,Elective,Male,71,11,206828.33,4.7,Dr. Iyer
+PAT-1219,2026-01-30,2026-02-12,Hyderabad,Neurology,Elective,Male,52,13,408525.04,4.1,Dr. Mehta
+PAT-1220,2026-07-09,2026-07-15,Pune,Neurology,Urgent,Male,37,6,155355.7,3.6,Dr. Iyer
+PAT-1221,2026-03-16,2026-03-21,Pune,Pediatrics,Elective,Male,29,5,82785.65,4.0,Dr. Mehta
+PAT-1222,2026-05-08,2026-05-17,Chennai,Neurology,Emergency,Male,67,9,306980.67,5.0,Dr. Kapoor
+PAT-1223,2026-04-02,2026-04-03,Pune,Neurology,Elective,Female,15,1,19939.22,4.4,Dr. Sharma
+PAT-1224,2026-08-05,2026-08-10,New Delhi,Orthopedics,Emergency,Female,47,5,160964.53,4.1,Dr. Iyer
+PAT-1225,2026-08-19,2026-08-25,Hyderabad,Oncology,Emergency,Male,46,6,110257.2,3.7,Dr. Reddy
+PAT-1226,2026-07-09,2026-07-14,Kolkata,Oncology,Emergency,Male,52,5,160394.29,5.0,Dr. Mehta
+PAT-1227,2026-08-13,2026-08-19,New Delhi,Gastroenterology,Emergency,Male,19,6,91587.46,4.7,Dr. Mehta
+PAT-1228,2026-05-09,2026-05-15,Bengaluru,Gastroenterology,Emergency,Female,77,6,151413.65,3.9,Dr. Mehta
+PAT-1229,2026-05-01,2026-05-08,Pune,Orthopedics,Emergency,Female,21,7,212721.96,3.6,Dr. Sharma
+PAT-1230,2026-01-27,2026-01-31,New Delhi,Gastroenterology,Urgent,Male,64,4,134783.64,3.6,Dr. Joshi
+PAT-1231,2026-07-09,2026-07-23,New Delhi,Pediatrics,Urgent,Male,37,14,464576.6,3.7,Dr. Iyer
+PAT-1232,2026-05-01,2026-05-12,Bengaluru,Cardiology,Emergency,Female,27,11,345317.47,4.4,Dr. Das
+PAT-1233,2026-04-26,2026-05-10,Mumbai,Cardiology,Urgent,Male,55,14,458693.58,4.9,Dr. Das
+PAT-1234,2026-07-24,2026-08-07,Hyderabad,Cardiology,Elective,Female,29,14,265781.51,4.2,Dr. Rao
+PAT-1235,2026-08-21,2026-09-04,Kolkata,Orthopedics,Emergency,Female,20,14,289571.6,4.8,Dr. Kapoor
+PAT-1236,2026-01-03,2026-01-11,Chennai,Orthopedics,Emergency,Male,25,8,166234.96,4.2,Dr. Sharma
+PAT-1237,2026-04-13,2026-04-20,Mumbai,Neurology,Elective,Female,70,7,157787.55,4.6,Dr. Joshi
+PAT-1238,2026-07-17,2026-07-26,Pune,Cardiology,Elective,Male,63,9,205797.72,4.6,Dr. Mehta
+PAT-1239,2026-07-19,2026-07-26,New Delhi,Pediatrics,Elective,Male,36,7,181237.75,3.8,Dr. Joshi
+PAT-1240,2026-06-04,2026-06-07,Bengaluru,Gastroenterology,Emergency,Male,2,3,54592.79,4.0,Dr. Sharma
+PAT-1241,2026-05-17,2026-05-20,Bengaluru,Pediatrics,Emergency,Male,22,3,86474.8,4.5,Dr. Sharma
+PAT-1242,2026-03-03,2026-03-11,Hyderabad,Gastroenterology,Emergency,Male,16,8,146810.65,3.6,Dr. Sharma
+PAT-1243,2026-06-14,2026-06-19,Mumbai,Cardiology,Emergency,Male,18,5,106030.85,4.0,Dr. Rao
+PAT-1244,2026-08-13,2026-08-17,Chennai,Cardiology,Emergency,Female,69,4,100267.61,4.3,Dr. Reddy
+PAT-1245,2026-02-20,2026-02-28,Hyderabad,Cardiology,Emergency,Female,54,8,247430.49,5.0,Dr. Kapoor
+PAT-1246,2026-08-22,2026-08-28,New Delhi,Orthopedics,Urgent,Female,30,6,178736.31,4.2,Dr. Rao
+PAT-1247,2026-06-21,2026-06-23,Hyderabad,Gastroenterology,Urgent,Female,45,2,55821.37,4.7,Dr. Rao
+PAT-1248,2026-06-01,2026-06-05,Kolkata,Orthopedics,Emergency,Male,19,4,72461.86,4.1,Dr. Iyer
+PAT-1249,2026-07-26,2026-08-07,Bengaluru,Orthopedics,Urgent,Female,34,12,311290.88,4.7,Dr. Reddy
+PAT-1250,2026-02-28,2026-03-11,Bengaluru,Oncology,Emergency,Female,13,11,184238.23,4.4,Dr. Rao
+PAT-1251,2026-04-28,2026-05-02,Pune,Pediatrics,Elective,Female,43,4,90189.05,4.8,Dr. Sharma
+PAT-1252,2026-06-09,2026-06-15,Pune,Pediatrics,Emergency,Male,62,6,139621.98,4.1,Dr. Sharma
+PAT-1253,2026-04-06,2026-04-12,Chennai,Neurology,Elective,Female,22,6,94777.37,4.4,Dr. Iyer
+PAT-1254,2026-08-04,2026-08-05,New Delhi,Orthopedics,Urgent,Male,52,1,20479.76,4.4,Dr. Joshi
+PAT-1255,2026-08-21,2026-09-04,Kolkata,Gastroenterology,Elective,Female,52,14,477581.85,4.1,Dr. Mehta
+PAT-1256,2026-06-29,2026-07-07,Mumbai,Oncology,Emergency,Male,36,8,272581.22,3.7,Dr. Rao
+PAT-1257,2026-04-23,2026-04-29,Hyderabad,Oncology,Elective,Male,73,6,132279.25,3.6,Dr. Mehta
+PAT-1258,2026-03-03,2026-03-06,Chennai,Pediatrics,Emergency,Female,19,3,47586.01,3.5,Dr. Kapoor
+PAT-1259,2026-08-29,2026-09-12,New Delhi,Orthopedics,Urgent,Male,38,14,260146.58,4.8,Dr. Das
+PAT-1260,2026-07-05,2026-07-14,Pune,Neurology,Elective,Male,70,9,205599.2,3.9,Dr. Sharma
+PAT-1261,2026-02-21,2026-02-23,Hyderabad,Orthopedics,Emergency,Female,79,2,67911.19,3.8,Dr. Joshi
+PAT-1262,2026-01-12,2026-01-23,Pune,Cardiology,Elective,Female,57,11,196063.79,4.6,Dr. Kapoor
+PAT-1263,2026-02-08,2026-02-16,Hyderabad,Orthopedics,Elective,Female,20,8,242162.53,4.0,Dr. Iyer
+PAT-1264,2026-05-10,2026-05-20,Mumbai,Cardiology,Emergency,Male,9,10,171736.51,4.3,Dr. Joshi
+PAT-1265,2026-05-11,2026-05-14,New Delhi,Cardiology,Elective,Male,32,3,103875.45,3.7,Dr. Das
+PAT-1266,2026-04-23,2026-05-06,Hyderabad,Neurology,Emergency,Male,4,13,294220.29,4.9,Dr. Das
+PAT-1267,2026-04-11,2026-04-23,Kolkata,Gastroenterology,Elective,Female,50,12,366056.29,4.8,Dr. Iyer
+PAT-1268,2026-04-23,2026-04-28,Chennai,Pediatrics,Urgent,Male,82,5,109259.11,4.8,Dr. Reddy
+PAT-1269,2026-07-03,2026-07-09,Bengaluru,Orthopedics,Urgent,Male,5,6,165320.27,4.1,Dr. Iyer
+PAT-1270,2026-03-22,2026-04-01,Kolkata,Cardiology,Elective,Male,20,10,188403.22,4.6,Dr. Sharma
+PAT-1271,2026-07-06,2026-07-12,Kolkata,Orthopedics,Elective,Male,75,6,107522.52,3.7,Dr. Kapoor
+PAT-1272,2026-04-23,2026-04-27,Chennai,Gastroenterology,Emergency,Male,37,4,135045.13,3.5,Dr. Reddy
+PAT-1273,2026-01-02,2026-01-05,Bengaluru,Pediatrics,Elective,Male,22,3,100058.84,3.5,Dr. Das
+PAT-1274,2026-05-10,2026-05-14,Kolkata,Gastroenterology,Emergency,Male,58,4,130997.52,4.4,Dr. Kapoor
+PAT-1275,2026-08-08,2026-08-09,Hyderabad,Pediatrics,Elective,Female,68,1,27508.67,4.2,Dr. Joshi
+PAT-1276,2026-02-23,2026-02-27,Hyderabad,Oncology,Emergency,Female,44,4,124661.46,4.3,Dr. Reddy
+PAT-1277,2026-03-28,2026-03-29,Hyderabad,Pediatrics,Emergency,Female,34,1,16380.74,3.5,Dr. Reddy
+PAT-1278,2026-08-17,2026-08-29,Bengaluru,Neurology,Elective,Male,77,12,260349.37,4.1,Dr. Sharma
+PAT-1279,2026-08-12,2026-08-13,Kolkata,Gastroenterology,Emergency,Male,42,1,21274.06,4.6,Dr. Iyer
+PAT-1280,2026-08-13,2026-08-23,Bengaluru,Cardiology,Elective,Female,9,10,277129.06,4.2,Dr. Mehta
+PAT-1281,2026-05-09,2026-05-23,Hyderabad,Oncology,Emergency,Male,7,14,309668.18,4.6,Dr. Joshi
+PAT-1282,2026-05-27,2026-06-02,Chennai,Neurology,Emergency,Female,68,6,107820.81,3.8,Dr. Joshi
+PAT-1283,2026-05-06,2026-05-11,Kolkata,Orthopedics,Elective,Male,19,5,134646.71,4.7,Dr. Iyer
+PAT-1284,2026-05-10,2026-05-24,Kolkata,Gastroenterology,Emergency,Male,31,14,438027.5,4.4,Dr. Reddy
+PAT-1285,2026-02-22,2026-03-05,Pune,Cardiology,Emergency,Female,35,11,249067.17,3.8,Dr. Reddy
+PAT-1286,2026-06-21,2026-06-25,Pune,Pediatrics,Elective,Female,57,4,70581.5,3.9,Dr. Sharma
+PAT-1287,2026-08-06,2026-08-19,Mumbai,Cardiology,Emergency,Female,61,13,246138.93,4.4,Dr. Mehta
+PAT-1288,2026-06-09,2026-06-20,New Delhi,Orthopedics,Urgent,Female,31,11,217246.33,4.7,Dr. Joshi
+PAT-1289,2026-07-17,2026-07-20,Pune,Oncology,Emergency,Female,83,3,62993.86,4.1,Dr. Das
+PAT-1290,2026-06-09,2026-06-10,Bengaluru,Oncology,Emergency,Male,53,1,27855.9,3.9,Dr. Rao
+PAT-1291,2026-03-09,2026-03-15,Pune,Gastroenterology,Elective,Male,32,6,162113.46,4.8,Dr. Rao
+PAT-1292,2026-07-02,2026-07-04,Mumbai,Oncology,Emergency,Male,66,2,57843.19,4.5,Dr. Mehta
+PAT-1293,2026-07-22,2026-07-30,Kolkata,Gastroenterology,Emergency,Female,59,8,178000.32,4.2,Dr. Kapoor
+PAT-1294,2026-07-03,2026-07-13,Mumbai,Gastroenterology,Emergency,Female,10,10,314799.53,4.2,Dr. Sharma
+PAT-1295,2026-05-03,2026-05-08,Kolkata,Gastroenterology,Emergency,Female,2,5,95408.77,3.8,Dr. Mehta
+PAT-1296,2026-05-25,2026-06-01,Chennai,Pediatrics,Urgent,Female,66,7,170665.7,4.4,Dr. Iyer
+PAT-1297,2026-02-07,2026-02-17,Chennai,Neurology,Emergency,Female,60,10,310187.74,4.0,Dr. Iyer
+PAT-1298,2026-01-24,2026-02-05,Kolkata,Gastroenterology,Elective,Female,17,12,223238.08,5.0,Dr. Rao
+PAT-1299,2026-03-10,2026-03-12,New Delhi,Gastroenterology,Urgent,Male,16,2,34394.52,4.2,Dr. Reddy
+PAT-1300,2026-04-26,2026-05-09,Pune,Neurology,Emergency,Male,16,13,424757.83,4.2,Dr. Rao
+PAT-1301,2026-04-08,2026-04-16,Bengaluru,Cardiology,Urgent,Male,46,8,174868.75,4.3,Dr. Reddy
+PAT-1302,2026-07-17,2026-07-19,Bengaluru,Gastroenterology,Emergency,Male,39,2,57354.8,4.9,Dr. Sharma
+PAT-1303,2026-08-02,2026-08-06,Hyderabad,Pediatrics,Urgent,Male,31,4,62027.89,4.7,Dr. Reddy
+PAT-1304,2026-05-19,2026-05-20,Kolkata,Oncology,Emergency,Female,1,1,28800.94,4.2,Dr. Mehta
+PAT-1305,2026-08-28,2026-09-02,Bengaluru,Oncology,Elective,Female,11,5,106610.13,4.6,Dr. Reddy
+PAT-1306,2026-05-24,2026-06-02,New Delhi,Orthopedics,Elective,Female,4,9,145033.35,4.4,Dr. Kapoor
+PAT-1307,2026-04-07,2026-04-08,Kolkata,Orthopedics,Emergency,Female,71,1,27196.26,4.2,Dr. Iyer
+PAT-1308,2026-07-20,2026-07-29,New Delhi,Oncology,Elective,Female,26,9,178344.69,3.8,Dr. Mehta
+PAT-1309,2026-05-04,2026-05-15,Bengaluru,Oncology,Elective,Female,50,11,250097.59,4.2,Dr. Iyer
+PAT-1310,2026-07-06,2026-07-14,Bengaluru,Pediatrics,Emergency,Male,12,8,132892.93,3.9,Dr. Sharma
+PAT-1311,2026-03-11,2026-03-17,Hyderabad,Neurology,Emergency,Female,81,6,107659.59,4.9,Dr. Mehta
+PAT-1312,2026-07-27,2026-08-03,Bengaluru,Orthopedics,Elective,Female,75,7,146716.81,4.0,Dr. Kapoor
+PAT-1313,2026-04-03,2026-04-06,Kolkata,Neurology,Elective,Female,65,3,50385.57,4.9,Dr. Sharma
+PAT-1314,2026-01-03,2026-01-17,Chennai,Pediatrics,Urgent,Female,47,14,465031.35,4.3,Dr. Rao
+PAT-1315,2026-05-28,2026-05-29,Kolkata,Oncology,Elective,Male,53,1,15120.94,4.4,Dr. Kapoor
+PAT-1316,2026-07-06,2026-07-11,Kolkata,Gastroenterology,Urgent,Male,71,5,123386.02,4.3,Dr. Sharma
+PAT-1317,2026-06-13,2026-06-27,Hyderabad,Neurology,Elective,Female,2,14,244509.29,3.7,Dr. Das
+PAT-1318,2026-05-27,2026-06-08,Hyderabad,Oncology,Emergency,Male,24,12,253842.98,4.1,Dr. Reddy
+PAT-1319,2026-03-31,2026-04-12,Bengaluru,Oncology,Emergency,Male,4,12,402254.29,3.6,Dr. Mehta
+PAT-1320,2026-07-14,2026-07-16,Mumbai,Cardiology,Elective,Female,19,2,36467.78,4.4,Dr. Sharma
+PAT-1321,2026-05-27,2026-06-10,Mumbai,Neurology,Elective,Female,26,14,480433.05,4.2,Dr. Mehta
+PAT-1322,2026-05-28,2026-06-02,Hyderabad,Gastroenterology,Emergency,Female,75,5,95579.44,4.7,Dr. Reddy
+PAT-1323,2026-04-06,2026-04-14,Bengaluru,Neurology,Emergency,Female,40,8,238650.58,3.8,Dr. Sharma
+PAT-1324,2026-07-18,2026-07-29,Mumbai,Oncology,Urgent,Female,50,11,285269.0,3.7,Dr. Rao
+PAT-1325,2026-02-21,2026-03-02,Bengaluru,Gastroenterology,Elective,Male,43,9,294206.17,4.1,Dr. Das
+PAT-1326,2026-08-21,2026-08-23,Bengaluru,Pediatrics,Emergency,Female,75,2,52159.73,4.9,Dr. Das
+PAT-1327,2026-06-10,2026-06-22,Bengaluru,Cardiology,Elective,Female,67,12,308294.21,4.6,Dr. Kapoor
+PAT-1328,2026-06-17,2026-06-20,Pune,Oncology,Emergency,Female,12,3,56727.48,4.1,Dr. Sharma
+PAT-1329,2026-05-08,2026-05-11,Kolkata,Orthopedics,Emergency,Male,67,3,54973.76,4.3,Dr. Reddy
+PAT-1330,2026-02-08,2026-02-09,Bengaluru,Orthopedics,Emergency,Female,27,1,33329.78,3.6,Dr. Sharma
+PAT-1331,2026-03-23,2026-03-31,Pune,Cardiology,Emergency,Female,54,8,172454.11,5.0,Dr. Mehta
+PAT-1332,2026-04-14,2026-04-20,Hyderabad,Pediatrics,Elective,Female,66,6,134649.87,4.5,Dr. Joshi
+PAT-1333,2026-05-09,2026-05-21,Mumbai,Oncology,Emergency,Male,49,12,362357.68,3.9,Dr. Iyer
+PAT-1334,2026-01-11,2026-01-24,Kolkata,Neurology,Urgent,Female,16,13,283094.11,4.4,Dr. Sharma
+PAT-1335,2026-08-08,2026-08-16,Chennai,Cardiology,Urgent,Female,2,8,272329.99,3.7,Dr. Das
+PAT-1336,2026-07-04,2026-07-15,Mumbai,Pediatrics,Emergency,Female,60,11,327344.11,4.9,Dr. Das
+PAT-1337,2026-08-05,2026-08-14,Kolkata,Neurology,Elective,Male,54,9,242537.26,3.8,Dr. Iyer
+PAT-1338,2026-06-27,2026-07-02,Chennai,Orthopedics,Elective,Female,30,5,163089.52,4.5,Dr. Das
+PAT-1339,2026-05-31,2026-06-14,Mumbai,Orthopedics,Urgent,Female,84,14,223889.65,3.9,Dr. Rao
+PAT-1340,2026-06-08,2026-06-20,Kolkata,Neurology,Emergency,Female,38,12,241695.05,4.6,Dr. Sharma
+PAT-1341,2026-08-10,2026-08-24,Mumbai,Cardiology,Elective,Male,28,14,340210.17,4.7,Dr. Kapoor
+PAT-1342,2026-02-11,2026-02-14,Mumbai,Orthopedics,Elective,Female,25,3,58618.71,4.5,Dr. Sharma
+PAT-1343,2026-04-09,2026-04-14,Chennai,Oncology,Emergency,Female,10,5,149390.52,4.4,Dr. Joshi
+PAT-1344,2026-01-07,2026-01-12,Mumbai,Gastroenterology,Emergency,Female,60,5,166920.8,4.8,Dr. Das
+PAT-1345,2026-05-24,2026-05-29,Mumbai,Neurology,Elective,Male,42,5,117377.01,3.6,Dr. Mehta
+PAT-1346,2026-03-31,2026-04-03,Chennai,Neurology,Elective,Male,40,3,65527.96,4.0,Dr. Das
+PAT-1347,2026-04-22,2026-05-03,Hyderabad,Orthopedics,Emergency,Female,77,11,376541.16,3.9,Dr. Sharma
+PAT-1348,2026-03-01,2026-03-15,Bengaluru,Cardiology,Elective,Male,42,14,334558.68,5.0,Dr. Rao
+PAT-1349,2026-04-23,2026-05-03,New Delhi,Oncology,Emergency,Male,47,10,247809.68,4.1,Dr. Reddy
+PAT-1350,2026-01-02,2026-01-16,Pune,Cardiology,Elective,Male,37,14,308461.96,4.6,Dr. Sharma
+PAT-1351,2026-05-09,2026-05-13,New Delhi,Pediatrics,Emergency,Female,80,4,132763.88,4.5,Dr. Sharma
+PAT-1352,2026-02-17,2026-02-26,New Delhi,Pediatrics,Urgent,Female,22,9,237411.99,3.8,Dr. Kapoor
+PAT-1353,2026-05-20,2026-06-02,Kolkata,Gastroenterology,Emergency,Male,57,13,393165.39,3.9,Dr. Rao
+PAT-1354,2026-07-16,2026-07-26,Bengaluru,Orthopedics,Emergency,Male,84,10,312361.34,3.9,Dr. Joshi
+PAT-1355,2026-02-06,2026-02-15,Kolkata,Orthopedics,Emergency,Male,27,9,196532.83,4.1,Dr. Reddy
+PAT-1356,2026-06-09,2026-06-11,Bengaluru,Orthopedics,Emergency,Female,41,2,47347.77,3.9,Dr. Das
+PAT-1357,2026-01-09,2026-01-17,Chennai,Gastroenterology,Elective,Female,80,8,255755.48,3.5,Dr. Mehta
+PAT-1358,2026-08-21,2026-08-29,Chennai,Pediatrics,Emergency,Male,34,8,178120.86,4.8,Dr. Sharma
+PAT-1359,2026-04-09,2026-04-16,Bengaluru,Cardiology,Urgent,Male,32,7,216150.92,4.9,Dr. Joshi
+PAT-1360,2026-05-27,2026-06-04,Mumbai,Gastroenterology,Emergency,Male,66,8,270558.77,4.0,Dr. Reddy
+PAT-1361,2026-02-17,2026-03-03,Hyderabad,Gastroenterology,Emergency,Male,12,14,384498.9,4.0,Dr. Mehta
+PAT-1362,2026-07-27,2026-07-30,Mumbai,Cardiology,Emergency,Female,40,3,89497.64,3.5,Dr. Joshi
+PAT-1363,2026-05-11,2026-05-24,Hyderabad,Orthopedics,Emergency,Male,73,13,404325.3,4.5,Dr. Rao
+PAT-1364,2026-05-28,2026-06-03,Kolkata,Oncology,Emergency,Female,76,6,191404.76,4.7,Dr. Rao
+PAT-1365,2026-06-01,2026-06-02,Hyderabad,Cardiology,Emergency,Male,73,1,22901.07,3.7,Dr. Reddy
+PAT-1366,2026-02-23,2026-03-02,Kolkata,Pediatrics,Elective,Male,10,7,112176.88,3.7,Dr. Das
+PAT-1367,2026-04-30,2026-05-01,Chennai,Neurology,Emergency,Male,48,1,23037.53,4.7,Dr. Iyer
+PAT-1368,2026-06-10,2026-06-19,New Delhi,Neurology,Elective,Male,20,9,256276.12,4.4,Dr. Mehta
+PAT-1369,2026-06-01,2026-06-02,Chennai,Gastroenterology,Elective,Male,39,1,24007.01,3.6,Dr. Rao
+PAT-1370,2026-04-26,2026-04-27,Chennai,Neurology,Emergency,Female,60,1,29979.26,4.4,Dr. Iyer
+PAT-1371,2026-03-16,2026-03-23,New Delhi,Oncology,Elective,Male,66,7,154977.54,4.0,Dr. Reddy
+PAT-1372,2026-04-23,2026-04-25,Hyderabad,Orthopedics,Urgent,Male,65,2,55389.77,4.1,Dr. Rao
+PAT-1373,2026-07-19,2026-08-02,Hyderabad,Pediatrics,Elective,Male,51,14,262197.55,4.7,Dr. Rao
+PAT-1374,2026-06-13,2026-06-18,Kolkata,Oncology,Elective,Female,36,5,149936.94,4.7,Dr. Joshi
+PAT-1375,2026-06-15,2026-06-23,Mumbai,Pediatrics,Emergency,Female,24,8,207311.36,4.1,Dr. Iyer
+PAT-1376,2026-04-14,2026-04-22,Kolkata,Pediatrics,Elective,Female,27,8,152650.3,4.9,Dr. Joshi
+PAT-1377,2026-03-25,2026-03-28,Mumbai,Orthopedics,Elective,Female,2,3,62514.67,4.1,Dr. Rao
+PAT-1378,2026-08-15,2026-08-22,Chennai,Gastroenterology,Elective,Male,31,7,209805.22,4.7,Dr. Iyer
+PAT-1379,2026-04-22,2026-04-25,New Delhi,Neurology,Urgent,Male,57,3,73956.07,4.2,Dr. Kapoor
+PAT-1380,2026-08-05,2026-08-11,Chennai,Orthopedics,Emergency,Male,78,6,115923.77,4.8,Dr. Iyer
+PAT-1381,2026-04-09,2026-04-15,Bengaluru,Oncology,Emergency,Female,66,6,206072.54,4.9,Dr. Joshi
+PAT-1382,2026-06-02,2026-06-05,Hyderabad,Gastroenterology,Elective,Male,29,3,87907.5,3.6,Dr. Mehta
+PAT-1383,2026-04-03,2026-04-10,Mumbai,Oncology,Urgent,Male,15,7,238998.88,4.9,Dr. Reddy
+PAT-1384,2026-05-26,2026-05-29,Kolkata,Gastroenterology,Emergency,Female,12,3,70626.3,4.7,Dr. Reddy
+PAT-1385,2026-05-08,2026-05-16,New Delhi,Oncology,Emergency,Female,28,8,196016.05,4.7,Dr. Das
+PAT-1386,2026-04-20,2026-04-30,Mumbai,Orthopedics,Emergency,Female,84,10,329591.04,3.8,Dr. Mehta
+PAT-1387,2026-03-23,2026-03-27,Kolkata,Gastroenterology,Emergency,Male,24,4,102003.95,4.7,Dr. Mehta
+PAT-1388,2026-07-13,2026-07-26,Hyderabad,Gastroenterology,Elective,Male,21,13,378892.52,4.8,Dr. Mehta
+PAT-1389,2026-02-23,2026-02-24,Chennai,Pediatrics,Elective,Female,10,1,20043.46,3.9,Dr. Das
+PAT-1390,2026-06-12,2026-06-16,Hyderabad,Pediatrics,Emergency,Male,78,4,95738.12,4.9,Dr. Mehta
+PAT-1391,2026-07-27,2026-08-10,Pune,Cardiology,Emergency,Female,18,14,244565.96,3.6,Dr. Sharma
+PAT-1392,2026-07-08,2026-07-15,Bengaluru,Oncology,Emergency,Female,14,7,133837.21,3.7,Dr. Das
+PAT-1393,2026-06-18,2026-06-29,Pune,Pediatrics,Emergency,Male,34,11,165207.55,4.3,Dr. Reddy
+PAT-1394,2026-08-16,2026-08-20,New Delhi,Cardiology,Elective,Female,58,4,63141.2,4.4,Dr. Sharma
+PAT-1395,2026-06-10,2026-06-23,Mumbai,Pediatrics,Urgent,Female,76,13,449093.79,4.5,Dr. Das
+PAT-1396,2026-03-09,2026-03-15,New Delhi,Oncology,Urgent,Female,22,6,119082.44,3.5,Dr. Rao
+PAT-1397,2026-02-02,2026-02-11,Chennai,Gastroenterology,Emergency,Male,70,9,254395.93,4.9,Dr. Rao
+PAT-1398,2026-05-22,2026-05-23,Kolkata,Neurology,Urgent,Female,36,1,31781.99,3.6,Dr. Reddy
+PAT-1399,2026-01-21,2026-02-03,Hyderabad,Oncology,Elective,Female,45,13,338171.72,3.7,Dr. Rao
+PAT-1400,2026-02-17,2026-02-22,Pune,Orthopedics,Elective,Female,36,5,90314.45,3.5,Dr. Mehta
+PAT-1401,2026-05-28,2026-06-08,Pune,Pediatrics,Elective,Female,22,11,325185.62,4.4,Dr. Das
+PAT-1402,2026-05-08,2026-05-15,Chennai,Pediatrics,Emergency,Female,78,7,189035.2,4.9,Dr. Sharma
+PAT-1403,2026-05-16,2026-05-17,Pune,Gastroenterology,Emergency,Female,80,1,29625.01,4.5,Dr. Mehta
+PAT-1404,2026-05-15,2026-05-29,Chennai,Orthopedics,Emergency,Female,61,14,425529.05,4.7,Dr. Rao
+PAT-1405,2026-07-14,2026-07-18,New Delhi,Gastroenterology,Emergency,Male,56,4,138032.83,3.5,Dr. Joshi
+PAT-1406,2026-05-25,2026-05-31,Hyderabad,Orthopedics,Emergency,Male,33,6,158827.59,4.3,Dr. Iyer
+PAT-1407,2026-05-08,2026-05-10,Mumbai,Neurology,Elective,Female,45,2,43665.64,4.2,Dr. Sharma
+PAT-1408,2026-02-02,2026-02-12,Kolkata,Pediatrics,Elective,Male,36,10,279692.91,4.2,Dr. Mehta
+PAT-1409,2026-06-25,2026-06-30,Mumbai,Pediatrics,Elective,Male,20,5,81844.07,3.6,Dr. Das
+PAT-1410,2026-07-23,2026-08-03,New Delhi,Neurology,Emergency,Female,18,11,362427.41,4.5,Dr. Reddy
+PAT-1411,2026-07-06,2026-07-16,Kolkata,Cardiology,Urgent,Male,38,10,173876.2,4.3,Dr. Mehta
+PAT-1412,2026-04-25,2026-04-26,Pune,Gastroenterology,Urgent,Female,67,1,21556.86,4.6,Dr. Joshi
+PAT-1413,2026-08-02,2026-08-08,Bengaluru,Neurology,Elective,Female,23,6,187889.45,4.2,Dr. Rao
+PAT-1414,2026-04-29,2026-05-05,New Delhi,Gastroenterology,Urgent,Female,16,6,161677.49,3.7,Dr. Sharma
+PAT-1415,2026-01-22,2026-02-04,New Delhi,Oncology,Elective,Female,59,13,297345.24,4.5,Dr. Reddy
+PAT-1416,2026-08-26,2026-08-30,Hyderabad,Pediatrics,Urgent,Female,69,4,97874.85,3.8,Dr. Sharma
+PAT-1417,2026-06-07,2026-06-20,Mumbai,Gastroenterology,Emergency,Male,68,13,417182.32,4.8,Dr. Reddy
+PAT-1418,2026-02-07,2026-02-15,New Delhi,Orthopedics,Emergency,Female,21,8,174400.7,4.4,Dr. Iyer
+PAT-1419,2026-08-18,2026-08-22,New Delhi,Gastroenterology,Emergency,Male,78,4,129571.97,3.7,Dr. Das
+PAT-1420,2026-04-19,2026-04-27,Pune,Oncology,Emergency,Female,78,8,134101.51,4.9,Dr. Sharma
+PAT-1421,2026-02-20,2026-03-05,Pune,Pediatrics,Emergency,Female,70,13,396967.59,4.3,Dr. Rao
+PAT-1422,2026-07-01,2026-07-09,Kolkata,Neurology,Elective,Female,12,8,255607.62,3.6,Dr. Das
+PAT-1423,2026-01-08,2026-01-13,Chennai,Oncology,Elective,Male,16,5,93181.77,4.4,Dr. Das
+PAT-1424,2026-01-27,2026-02-09,Chennai,Pediatrics,Elective,Female,81,13,306890.1,3.9,Dr. Iyer
+PAT-1425,2026-01-27,2026-01-31,Bengaluru,Gastroenterology,Emergency,Female,14,4,73239.98,4.7,Dr. Reddy
+PAT-1426,2026-08-14,2026-08-26,Chennai,Cardiology,Urgent,Female,61,12,349584.99,4.7,Dr. Kapoor
+PAT-1427,2026-01-21,2026-02-03,Hyderabad,Cardiology,Elective,Female,71,13,334190.42,5.0,Dr. Sharma
+PAT-1428,2026-01-30,2026-02-01,Bengaluru,Orthopedics,Emergency,Male,46,2,55412.93,4.3,Dr. Sharma
+PAT-1429,2026-04-07,2026-04-18,Kolkata,Pediatrics,Elective,Female,32,11,208227.13,4.2,Dr. Mehta
+PAT-1430,2026-01-28,2026-01-31,Pune,Cardiology,Emergency,Male,15,3,57704.75,4.6,Dr. Reddy
+PAT-1431,2026-04-21,2026-04-24,Chennai,Neurology,Emergency,Female,44,3,47489.84,3.7,Dr. Joshi
+PAT-1432,2026-07-11,2026-07-15,Mumbai,Pediatrics,Urgent,Male,17,4,85765.4,4.3,Dr. Kapoor
+PAT-1433,2026-08-13,2026-08-17,Pune,Neurology,Emergency,Male,41,4,104779.57,4.3,Dr. Rao
+PAT-1434,2026-07-16,2026-07-26,Hyderabad,Neurology,Elective,Female,54,10,321586.98,3.6,Dr. Mehta
+PAT-1435,2026-03-02,2026-03-13,Pune,Cardiology,Urgent,Female,44,11,311724.04,4.1,Dr. Iyer
+PAT-1436,2026-02-17,2026-02-28,Hyderabad,Pediatrics,Elective,Male,5,11,260787.19,4.8,Dr. Kapoor
+PAT-1437,2026-05-27,2026-06-01,Hyderabad,Gastroenterology,Emergency,Female,27,5,170312.01,4.8,Dr. Reddy
+PAT-1438,2026-01-04,2026-01-08,Hyderabad,Oncology,Emergency,Female,78,4,117539.62,3.6,Dr. Kapoor
+PAT-1439,2026-02-04,2026-02-15,Kolkata,Cardiology,Emergency,Female,79,11,369636.34,3.6,Dr. Iyer
+PAT-1440,2026-07-11,2026-07-25,Hyderabad,Cardiology,Elective,Male,43,14,357724.63,3.9,Dr. Das
+PAT-1441,2026-02-18,2026-02-28,Hyderabad,Gastroenterology,Emergency,Female,31,10,201780.85,4.8,Dr. Sharma
+PAT-1442,2026-01-17,2026-01-25,Mumbai,Pediatrics,Emergency,Female,17,8,128452.27,3.7,Dr. Das
+PAT-1443,2026-06-21,2026-06-27,Bengaluru,Pediatrics,Urgent,Female,83,6,177130.18,4.6,Dr. Sharma
+PAT-1444,2026-08-08,2026-08-14,New Delhi,Neurology,Elective,Male,54,6,104556.36,3.7,Dr. Mehta
+PAT-1445,2026-06-07,2026-06-15,Bengaluru,Gastroenterology,Emergency,Female,62,8,168444.02,4.4,Dr. Iyer
+PAT-1446,2026-08-09,2026-08-16,Hyderabad,Gastroenterology,Elective,Male,32,7,179545.93,4.0,Dr. Reddy
+PAT-1447,2026-02-15,2026-02-25,Mumbai,Pediatrics,Elective,Female,40,10,262883.32,4.7,Dr. Reddy
+PAT-1448,2026-04-27,2026-05-11,Pune,Neurology,Emergency,Male,13,14,378163.3,3.9,Dr. Kapoor
+PAT-1449,2026-01-06,2026-01-17,Mumbai,Cardiology,Emergency,Female,84,11,201576.17,4.5,Dr. Mehta
+PAT-1450,2026-04-09,2026-04-21,Hyderabad,Orthopedics,Urgent,Female,35,12,271136.98,3.9,Dr. Reddy
+PAT-1451,2026-05-04,2026-05-14,Mumbai,Oncology,Elective,Male,5,10,273438.85,4.6,Dr. Joshi
+PAT-1452,2026-08-21,2026-09-03,Chennai,Cardiology,Elective,Male,73,13,447152.9,4.8,Dr. Joshi
+PAT-1453,2026-02-06,2026-02-14,Mumbai,Pediatrics,Emergency,Male,29,8,236420.98,3.7,Dr. Das
+PAT-1454,2026-01-24,2026-02-07,Hyderabad,Oncology,Emergency,Female,70,14,468329.05,4.8,Dr. Sharma
+PAT-1455,2026-04-03,2026-04-05,Kolkata,Orthopedics,Emergency,Female,25,2,60488.48,4.4,Dr. Kapoor
+PAT-1456,2026-08-29,2026-09-07,Chennai,Orthopedics,Emergency,Female,22,9,241509.05,3.7,Dr. Rao
+PAT-1457,2026-02-15,2026-02-16,Mumbai,Neurology,Emergency,Female,66,1,18840.47,4.1,Dr. Iyer
+PAT-1458,2026-06-30,2026-07-08,New Delhi,Oncology,Emergency,Male,45,8,226669.7,3.7,Dr. Sharma
+PAT-1459,2026-04-05,2026-04-17,New Delhi,Neurology,Urgent,Female,69,12,329611.1,4.6,Dr. Mehta
+PAT-1460,2026-04-09,2026-04-20,Mumbai,Cardiology,Urgent,Female,72,11,297543.22,4.6,Dr. Reddy
+PAT-1461,2026-07-07,2026-07-19,Kolkata,Gastroenterology,Elective,Female,1,12,297548.61,3.7,Dr. Sharma
+PAT-1462,2026-08-13,2026-08-25,Pune,Gastroenterology,Urgent,Female,84,12,306877.58,4.3,Dr. Rao
+PAT-1463,2026-04-26,2026-04-30,Hyderabad,Gastroenterology,Emergency,Female,44,4,86755.4,4.7,Dr. Rao
+PAT-1464,2026-07-10,2026-07-14,New Delhi,Oncology,Urgent,Female,75,4,101545.02,4.9,Dr. Joshi
+PAT-1465,2026-08-01,2026-08-06,Pune,Gastroenterology,Emergency,Female,39,5,94755.59,4.3,Dr. Mehta
+PAT-1466,2026-06-09,2026-06-17,Mumbai,Cardiology,Urgent,Male,54,8,248827.9,4.9,Dr. Sharma
+PAT-1467,2026-08-03,2026-08-08,Pune,Neurology,Urgent,Female,75,5,93577.7,4.3,Dr. Kapoor
+PAT-1468,2026-06-10,2026-06-18,Chennai,Oncology,Elective,Female,29,8,133594.61,4.1,Dr. Sharma
+PAT-1469,2026-03-08,2026-03-18,Bengaluru,Neurology,Urgent,Female,54,10,237249.21,4.8,Dr. Joshi
+PAT-1470,2026-05-08,2026-05-09,New Delhi,Oncology,Elective,Female,16,1,28166.15,4.2,Dr. Das
+PAT-1471,2026-01-18,2026-01-30,Mumbai,Neurology,Emergency,Male,20,12,285052.04,4.2,Dr. Rao
+PAT-1472,2026-01-25,2026-02-04,Hyderabad,Orthopedics,Emergency,Male,46,10,205350.83,4.2,Dr. Mehta
+PAT-1473,2026-08-22,2026-08-31,Kolkata,Neurology,Elective,Male,67,9,235470.81,4.8,Dr. Mehta
+PAT-1474,2026-08-11,2026-08-17,Chennai,Gastroenterology,Emergency,Male,65,6,131640.28,4.7,Dr. Kapoor
+PAT-1475,2026-02-23,2026-02-26,Mumbai,Orthopedics,Elective,Male,58,3,100972.06,4.1,Dr. Mehta
+PAT-1476,2026-02-27,2026-03-12,Hyderabad,Neurology,Urgent,Male,53,13,434887.74,4.0,Dr. Joshi
+PAT-1477,2026-03-08,2026-03-22,Kolkata,Oncology,Emergency,Female,1,14,350664.11,4.2,Dr. Joshi
+PAT-1478,2026-04-14,2026-04-22,Kolkata,Oncology,Elective,Male,81,8,172461.44,4.4,Dr. Joshi
+PAT-1479,2026-06-23,2026-07-02,Mumbai,Oncology,Urgent,Male,66,9,267683.83,3.9,Dr. Mehta
+PAT-1480,2026-01-24,2026-01-30,Chennai,Pediatrics,Urgent,Female,29,6,94405.55,4.7,Dr. Mehta
+PAT-1481,2026-04-24,2026-05-05,Pune,Cardiology,Urgent,Male,84,11,269449.18,4.2,Dr. Joshi
+PAT-1482,2026-02-01,2026-02-08,Pune,Oncology,Elective,Female,70,7,152085.28,4.0,Dr. Mehta
+PAT-1483,2026-06-24,2026-06-25,Kolkata,Orthopedics,Urgent,Female,8,1,33410.72,3.7,Dr. Iyer
+PAT-1484,2026-03-27,2026-04-10,Pune,Oncology,Elective,Male,29,14,213360.85,3.9,Dr. Mehta
+PAT-1485,2026-05-31,2026-06-05,Bengaluru,Pediatrics,Emergency,Female,51,5,130281.49,4.9,Dr. Iyer
+PAT-1486,2026-07-13,2026-07-18,Kolkata,Gastroenterology,Elective,Male,33,5,149066.36,4.0,Dr. Rao
+PAT-1487,2026-05-07,2026-05-17,Kolkata,Orthopedics,Elective,Male,3,10,247003.6,3.8,Dr. Sharma
+PAT-1488,2026-06-04,2026-06-18,Hyderabad,Pediatrics,Emergency,Female,60,14,233912.85,4.2,Dr. Reddy
+PAT-1489,2026-08-22,2026-08-26,Pune,Gastroenterology,Elective,Female,35,4,137796.91,4.0,Dr. Iyer
+PAT-1490,2026-05-10,2026-05-16,Chennai,Orthopedics,Elective,Male,69,6,152161.25,3.6,Dr. Iyer
+PAT-1491,2026-08-06,2026-08-13,Kolkata,Neurology,Emergency,Female,76,7,190986.07,4.0,Dr. Mehta
+PAT-1492,2026-01-17,2026-01-26,Chennai,Cardiology,Elective,Female,84,9,177589.76,4.3,Dr. Reddy
+PAT-1493,2026-04-14,2026-04-15,Bengaluru,Cardiology,Elective,Male,20,1,24669.96,4.3,Dr. Das
+PAT-1494,2026-06-10,2026-06-16,Hyderabad,Pediatrics,Elective,Male,73,6,141497.94,4.0,Dr. Reddy
+PAT-1495,2026-05-17,2026-05-24,Mumbai,Gastroenterology,Emergency,Female,39,7,115485.42,4.2,Dr. Rao
+PAT-1496,2026-02-12,2026-02-15,Chennai,Cardiology,Emergency,Male,4,3,51369.62,4.9,Dr. Iyer
+PAT-1497,2026-06-25,2026-07-03,Kolkata,Gastroenterology,Emergency,Male,19,8,253995.6,4.1,Dr. Mehta
+PAT-1498,2026-02-08,2026-02-13,Bengaluru,Gastroenterology,Urgent,Male,45,5,98982.0,3.9,Dr. Joshi
+PAT-1499,2026-08-09,2026-08-18,New Delhi,Pediatrics,Emergency,Male,43,9,170092.49,3.9,Dr. Reddy
+PAT-1500,2026-06-19,2026-06-24,Bengaluru,Pediatrics,Elective,Male,13,5,125491.15,4.2,Dr. Mehta
+PAT-1501,2026-01-26,2026-02-04,Bengaluru,Pediatrics,Emergency,Male,13,9,273374.48,4.6,Dr. Kapoor
+PAT-1502,2026-04-09,2026-04-19,Hyderabad,Cardiology,Emergency,Male,60,10,162389.3,3.8,Dr. Das
+PAT-1503,2026-02-19,2026-02-23,Mumbai,Pediatrics,Urgent,Female,57,4,106144.63,4.6,Dr. Joshi
+PAT-1504,2026-06-02,2026-06-11,New Delhi,Cardiology,Elective,Male,52,9,156457.88,3.5,Dr. Kapoor
+PAT-1505,2026-06-01,2026-06-06,Pune,Pediatrics,Emergency,Female,53,5,78646.11,4.1,Dr. Kapoor
+PAT-1506,2026-01-13,2026-01-23,Pune,Oncology,Emergency,Female,43,10,160548.79,4.7,Dr. Reddy
+PAT-1507,2026-03-01,2026-03-10,Chennai,Gastroenterology,Emergency,Female,83,9,285149.54,4.0,Dr. Kapoor
+PAT-1508,2026-05-15,2026-05-18,Bengaluru,Pediatrics,Elective,Male,72,3,52078.35,4.3,Dr. Rao
+PAT-1509,2026-02-26,2026-03-02,Hyderabad,Orthopedics,Elective,Male,72,4,63612.11,3.8,Dr. Rao
+PAT-1510,2026-02-05,2026-02-14,Hyderabad,Gastroenterology,Emergency,Female,42,9,213821.98,4.6,Dr. Reddy
+PAT-1511,2026-06-22,2026-07-02,Pune,Gastroenterology,Emergency,Male,26,10,318798.69,3.6,Dr. Mehta
+PAT-1512,2026-01-20,2026-01-31,Chennai,Pediatrics,Emergency,Female,23,11,222729.84,4.8,Dr. Sharma
+PAT-1513,2026-03-06,2026-03-12,Chennai,Neurology,Urgent,Male,43,6,140605.51,3.8,Dr. Mehta
+PAT-1514,2026-01-08,2026-01-10,Chennai,Pediatrics,Urgent,Male,77,2,31596.9,4.8,Dr. Mehta
+PAT-1515,2026-08-26,2026-09-02,New Delhi,Gastroenterology,Emergency,Female,28,7,167870.99,4.0,Dr. Mehta
+PAT-1516,2026-05-24,2026-05-26,Mumbai,Orthopedics,Elective,Female,9,2,53104.52,4.6,Dr. Mehta
+PAT-1517,2026-05-22,2026-06-02,New Delhi,Gastroenterology,Emergency,Female,20,11,290599.55,4.0,Dr. Joshi
+PAT-1518,2026-07-23,2026-07-25,Kolkata,Orthopedics,Emergency,Male,56,2,43297.07,4.9,Dr. Sharma
+PAT-1519,2026-04-25,2026-05-06,Kolkata,Cardiology,Elective,Female,83,11,234417.3,3.7,Dr. Joshi
+PAT-1520,2026-08-03,2026-08-04,Mumbai,Oncology,Urgent,Male,39,1,17132.47,3.8,Dr. Kapoor
+PAT-1521,2026-05-23,2026-06-03,Pune,Gastroenterology,Urgent,Male,51,11,245695.63,4.2,Dr. Das
+PAT-1522,2026-04-02,2026-04-13,Mumbai,Pediatrics,Elective,Male,12,11,186888.83,3.6,Dr. Mehta
+PAT-1523,2026-04-08,2026-04-20,Hyderabad,Cardiology,Emergency,Female,79,12,363983.03,3.8,Dr. Das
+PAT-1524,2026-03-07,2026-03-18,Kolkata,Oncology,Elective,Female,55,11,377580.35,4.9,Dr. Rao
+PAT-1525,2026-02-01,2026-02-04,Bengaluru,Pediatrics,Emergency,Female,78,3,103204.47,5.0,Dr. Reddy
+PAT-1526,2026-08-03,2026-08-09,Bengaluru,Neurology,Elective,Male,11,6,193808.53,4.1,Dr. Reddy
+PAT-1527,2026-07-10,2026-07-18,Pune,Pediatrics,Emergency,Male,26,8,216126.74,4.9,Dr. Joshi
+PAT-1528,2026-03-27,2026-04-05,Hyderabad,Orthopedics,Elective,Female,42,9,261155.83,4.3,Dr. Joshi
+PAT-1529,2026-02-20,2026-02-27,New Delhi,Orthopedics,Emergency,Male,27,7,144928.81,3.9,Dr. Rao
+PAT-1530,2026-06-02,2026-06-06,Hyderabad,Neurology,Emergency,Male,11,4,110461.63,4.6,Dr. Mehta
+PAT-1531,2026-07-05,2026-07-11,Bengaluru,Cardiology,Urgent,Female,38,6,144677.95,4.5,Dr. Das
+PAT-1532,2026-03-04,2026-03-09,Bengaluru,Oncology,Emergency,Female,43,5,123201.73,5.0,Dr. Iyer
+PAT-1533,2026-07-09,2026-07-17,Kolkata,Pediatrics,Elective,Female,19,8,241244.25,3.9,Dr. Das
+PAT-1534,2026-05-05,2026-05-06,Hyderabad,Orthopedics,Emergency,Male,64,1,20638.37,4.5,Dr. Sharma
+PAT-1535,2026-05-30,2026-05-31,Hyderabad,Cardiology,Emergency,Male,6,1,21360.79,3.6,Dr. Kapoor
+PAT-1536,2026-02-27,2026-03-12,Bengaluru,Neurology,Emergency,Male,46,13,435406.87,3.7,Dr. Reddy
+PAT-1537,2026-02-27,2026-03-10,New Delhi,Gastroenterology,Emergency,Male,42,11,177369.34,3.5,Dr. Kapoor
+PAT-1538,2026-03-27,2026-04-02,Pune,Orthopedics,Urgent,Male,65,6,148276.12,5.0,Dr. Sharma
+PAT-1539,2026-02-18,2026-02-28,Chennai,Neurology,Emergency,Female,72,10,332560.16,4.7,Dr. Joshi
+PAT-1540,2026-06-29,2026-07-11,Pune,Pediatrics,Urgent,Male,59,12,326487.12,4.7,Dr. Das
+PAT-1541,2026-06-19,2026-06-21,Hyderabad,Oncology,Elective,Male,52,2,51856.28,4.3,Dr. Reddy
+PAT-1542,2026-03-11,2026-03-16,Pune,Orthopedics,Emergency,Male,47,5,99974.42,4.0,Dr. Kapoor
+PAT-1543,2026-01-15,2026-01-16,Bengaluru,Orthopedics,Elective,Female,7,1,21865.51,3.7,Dr. Iyer
+PAT-1544,2026-02-23,2026-03-02,Bengaluru,Pediatrics,Elective,Female,11,7,224286.78,3.9,Dr. Joshi
+PAT-1545,2026-08-23,2026-08-24,Hyderabad,Gastroenterology,Elective,Female,61,1,26184.36,4.1,Dr. Sharma
+PAT-1546,2026-07-07,2026-07-11,Hyderabad,Cardiology,Emergency,Male,68,4,101179.38,4.6,Dr. Iyer
+PAT-1547,2026-04-11,2026-04-20,Chennai,Oncology,Emergency,Female,25,9,152924.35,4.3,Dr. Kapoor
+PAT-1548,2026-08-13,2026-08-14,Chennai,Orthopedics,Urgent,Female,12,1,15320.56,3.6,Dr. Iyer
+PAT-1549,2026-01-08,2026-01-12,Kolkata,Oncology,Urgent,Female,26,4,137094.82,3.5,Dr. Das
+PAT-1550,2026-02-22,2026-02-28,Hyderabad,Orthopedics,Urgent,Male,12,6,135238.34,3.7,Dr. Mehta
+PAT-1551,2026-03-01,2026-03-07,New Delhi,Oncology,Emergency,Female,43,6,162385.57,4.1,Dr. Iyer
+PAT-1552,2026-08-24,2026-09-05,Pune,Neurology,Elective,Male,51,12,199131.62,4.9,Dr. Joshi
+PAT-1553,2026-04-18,2026-05-01,Hyderabad,Orthopedics,Elective,Male,37,13,372609.71,4.5,Dr. Sharma
+PAT-1554,2026-01-05,2026-01-13,Mumbai,Oncology,Elective,Female,46,8,269210.67,4.7,Dr. Kapoor
+PAT-1555,2026-04-13,2026-04-14,Kolkata,Cardiology,Emergency,Male,53,1,26513.31,4.2,Dr. Das
+PAT-1556,2026-07-15,2026-07-22,Mumbai,Neurology,Elective,Female,80,7,122656.15,4.0,Dr. Mehta
+PAT-1557,2026-01-06,2026-01-07,Bengaluru,Neurology,Emergency,Male,13,1,26634.43,3.7,Dr. Mehta
+PAT-1558,2026-04-19,2026-05-02,Chennai,Cardiology,Emergency,Female,54,13,394250.28,4.8,Dr. Sharma
+PAT-1559,2026-08-12,2026-08-26,Pune,Oncology,Urgent,Female,57,14,323796.63,4.7,Dr. Rao
+PAT-1560,2026-04-26,2026-05-03,Hyderabad,Pediatrics,Emergency,Female,4,7,228177.28,3.8,Dr. Das
+PAT-1561,2026-04-04,2026-04-07,Mumbai,Cardiology,Emergency,Male,75,3,83920.98,4.3,Dr. Das
+PAT-1562,2026-02-16,2026-02-27,Pune,Oncology,Emergency,Female,49,11,362834.76,4.2,Dr. Reddy
+PAT-1563,2026-04-09,2026-04-17,Bengaluru,Cardiology,Urgent,Male,7,8,219760.85,4.4,Dr. Sharma
+PAT-1564,2026-02-24,2026-02-27,Chennai,Cardiology,Elective,Female,11,3,52877.28,4.9,Dr. Mehta
+PAT-1565,2026-06-17,2026-07-01,New Delhi,Orthopedics,Emergency,Male,54,14,296713.68,4.4,Dr. Mehta
+PAT-1566,2026-02-21,2026-03-07,Kolkata,Oncology,Urgent,Male,45,14,266502.59,4.3,Dr. Iyer
+PAT-1567,2026-05-24,2026-06-06,Pune,Pediatrics,Urgent,Female,23,13,431294.89,3.6,Dr. Sharma
+PAT-1568,2026-01-13,2026-01-14,Pune,Orthopedics,Emergency,Female,28,1,30208.0,3.6,Dr. Rao
+PAT-1569,2026-04-24,2026-05-07,New Delhi,Cardiology,Elective,Female,57,13,370863.58,3.8,Dr. Reddy
+PAT-1570,2026-05-04,2026-05-17,Pune,Gastroenterology,Elective,Female,26,13,273251.24,3.5,Dr. Kapoor
+PAT-1571,2026-04-16,2026-04-30,Bengaluru,Cardiology,Elective,Female,25,14,261532.54,4.6,Dr. Sharma
+PAT-1572,2026-06-07,2026-06-15,Bengaluru,Cardiology,Emergency,Male,54,8,241032.17,4.6,Dr. Reddy
+PAT-1573,2026-05-27,2026-05-30,New Delhi,Oncology,Urgent,Female,29,3,73449.48,3.7,Dr. Das
+PAT-1574,2026-05-25,2026-05-27,Kolkata,Oncology,Elective,Female,83,2,39031.58,4.8,Dr. Reddy
+PAT-1575,2026-04-30,2026-05-01,Hyderabad,Orthopedics,Emergency,Male,36,1,27332.44,3.7,Dr. Iyer
+PAT-1576,2026-03-04,2026-03-18,Mumbai,Pediatrics,Emergency,Female,14,14,221293.48,4.0,Dr. Joshi
+PAT-1577,2026-01-19,2026-01-22,Hyderabad,Orthopedics,Emergency,Female,78,3,64570.22,3.9,Dr. Mehta
+PAT-1578,2026-04-02,2026-04-04,Pune,Neurology,Emergency,Male,35,2,48742.28,4.1,Dr. Iyer
+PAT-1579,2026-02-27,2026-03-01,Mumbai,Cardiology,Elective,Female,30,2,35918.33,3.9,Dr. Kapoor
+PAT-1580,2026-07-02,2026-07-08,New Delhi,Gastroenterology,Emergency,Female,17,6,208158.54,4.2,Dr. Sharma
+PAT-1581,2026-03-31,2026-04-12,New Delhi,Cardiology,Emergency,Female,67,12,230183.37,4.1,Dr. Iyer
+PAT-1582,2026-08-17,2026-08-18,Kolkata,Cardiology,Elective,Male,80,1,17607.06,5.0,Dr. Mehta
+PAT-1583,2026-08-06,2026-08-08,Mumbai,Orthopedics,Emergency,Female,30,2,38141.39,3.6,Dr. Joshi
+PAT-1584,2026-04-27,2026-05-11,Bengaluru,Gastroenterology,Urgent,Male,45,14,425337.12,3.7,Dr. Iyer
+PAT-1585,2026-03-03,2026-03-09,Mumbai,Gastroenterology,Emergency,Female,79,6,141060.68,3.6,Dr. Joshi
+PAT-1586,2026-01-23,2026-01-26,Pune,Gastroenterology,Emergency,Male,51,3,78924.96,4.4,Dr. Iyer
+PAT-1587,2026-05-07,2026-05-11,Bengaluru,Orthopedics,Emergency,Female,47,4,61680.73,3.6,Dr. Mehta
+PAT-1588,2026-05-17,2026-05-18,Chennai,Cardiology,Emergency,Male,53,1,15688.63,4.8,Dr. Rao
+PAT-1589,2026-05-20,2026-05-28,Chennai,Orthopedics,Emergency,Male,64,8,191332.09,4.3,Dr. Reddy
+PAT-1590,2026-05-09,2026-05-22,Chennai,Oncology,Elective,Male,38,13,407330.36,4.3,Dr. Sharma
+PAT-1591,2026-02-27,2026-03-06,New Delhi,Oncology,Urgent,Male,64,7,228933.44,4.3,Dr. Sharma
+PAT-1592,2026-05-02,2026-05-09,Mumbai,Orthopedics,Emergency,Male,7,7,117138.92,3.8,Dr. Sharma
+PAT-1593,2026-01-01,2026-01-04,Chennai,Gastroenterology,Elective,Male,22,3,77301.79,3.8,Dr. Mehta
+PAT-1594,2026-08-27,2026-09-06,Hyderabad,Cardiology,Elective,Female,81,10,332645.94,4.0,Dr. Das
+PAT-1595,2026-02-03,2026-02-13,Kolkata,Orthopedics,Urgent,Female,82,10,227594.55,4.4,Dr. Rao
+PAT-1596,2026-04-06,2026-04-09,Hyderabad,Orthopedics,Emergency,Male,41,3,94773.95,3.8,Dr. Kapoor
+PAT-1597,2026-05-06,2026-05-20,Chennai,Orthopedics,Emergency,Male,74,14,247434.78,3.7,Dr. Joshi
+PAT-1598,2026-04-28,2026-04-30,Kolkata,Neurology,Emergency,Male,10,2,67415.78,5.0,Dr. Mehta
+PAT-1599,2026-02-17,2026-03-01,Pune,Oncology,Elective,Male,57,12,360341.6,3.5,Dr. Das
+PAT-1600,2026-03-30,2026-03-31,Hyderabad,Gastroenterology,Urgent,Female,7,1,33826.69,4.7,Dr. Kapoor
+PAT-1601,2026-08-20,2026-08-27,Mumbai,Pediatrics,Emergency,Male,50,7,199726.41,4.7,Dr. Joshi
+PAT-1602,2026-08-25,2026-09-01,Mumbai,Gastroenterology,Emergency,Female,52,7,155876.55,3.9,Dr. Joshi
+PAT-1603,2026-04-27,2026-05-09,Hyderabad,Pediatrics,Urgent,Female,33,12,405163.48,3.7,Dr. Rao
+PAT-1604,2026-05-09,2026-05-11,Chennai,Neurology,Urgent,Male,1,2,41022.67,3.7,Dr. Reddy
+PAT-1605,2026-01-16,2026-01-23,Mumbai,Orthopedics,Urgent,Male,53,7,151504.15,4.5,Dr. Sharma
+PAT-1606,2026-07-08,2026-07-21,Pune,Neurology,Elective,Female,60,13,377210.19,4.5,Dr. Iyer
+PAT-1607,2026-08-19,2026-08-27,Bengaluru,Neurology,Emergency,Female,34,8,242450.61,4.7,Dr. Kapoor
+PAT-1608,2026-07-11,2026-07-12,Chennai,Cardiology,Elective,Male,4,1,33588.07,4.9,Dr. Mehta
+PAT-1609,2026-07-10,2026-07-19,Pune,Oncology,Elective,Male,17,9,171864.43,4.5,Dr. Kapoor
+PAT-1610,2026-03-10,2026-03-17,Kolkata,Pediatrics,Emergency,Male,4,7,216719.72,3.7,Dr. Reddy
+PAT-1611,2026-01-22,2026-01-25,Pune,Orthopedics,Elective,Female,43,3,89312.76,3.9,Dr. Sharma
+PAT-1612,2026-04-03,2026-04-11,Chennai,Pediatrics,Elective,Female,4,8,130207.13,4.8,Dr. Kapoor
+PAT-1613,2026-07-14,2026-07-21,Kolkata,Gastroenterology,Emergency,Male,1,7,159211.24,3.8,Dr. Reddy
+PAT-1614,2026-03-17,2026-03-28,Chennai,Pediatrics,Elective,Female,71,11,227208.4,3.6,Dr. Mehta
+PAT-1615,2026-06-03,2026-06-16,Mumbai,Gastroenterology,Elective,Female,50,13,274167.51,4.6,Dr. Rao
+PAT-1616,2026-05-24,2026-06-01,Bengaluru,Oncology,Urgent,Male,73,8,277271.5,4.1,Dr. Das
+PAT-1617,2026-06-28,2026-07-04,Chennai,Gastroenterology,Emergency,Male,61,6,167133.29,4.9,Dr. Joshi
+PAT-1618,2026-08-17,2026-08-26,Chennai,Pediatrics,Emergency,Female,35,9,264181.71,4.5,Dr. Mehta
+PAT-1619,2026-03-27,2026-04-01,Mumbai,Pediatrics,Elective,Female,8,5,172661.76,3.6,Dr. Sharma
+PAT-1620,2026-07-04,2026-07-07,New Delhi,Gastroenterology,Emergency,Male,24,3,67632.11,4.9,Dr. Joshi
+PAT-1621,2026-01-29,2026-02-01,Mumbai,Neurology,Elective,Male,83,3,93110.41,3.9,Dr. Das
+PAT-1622,2026-07-25,2026-07-26,Kolkata,Oncology,Elective,Male,36,1,23690.62,4.0,Dr. Mehta
+PAT-1623,2026-08-08,2026-08-20,Mumbai,Cardiology,Emergency,Male,50,12,388688.08,4.1,Dr. Iyer
+PAT-1624,2026-03-10,2026-03-18,Mumbai,Orthopedics,Elective,Male,43,8,148905.21,3.6,Dr. Mehta
+PAT-1625,2026-02-16,2026-02-18,Bengaluru,Pediatrics,Elective,Female,27,2,67907.45,4.2,Dr. Mehta
+PAT-1626,2026-08-29,2026-09-01,Mumbai,Orthopedics,Emergency,Female,32,3,58126.3,3.7,Dr. Iyer
+PAT-1627,2026-04-04,2026-04-12,Chennai,Cardiology,Urgent,Female,78,8,172195.28,4.1,Dr. Mehta
+PAT-1628,2026-08-26,2026-09-09,Bengaluru,Orthopedics,Urgent,Female,18,14,421733.83,4.0,Dr. Joshi
+PAT-1629,2026-07-09,2026-07-17,Hyderabad,Cardiology,Elective,Male,28,8,183000.82,4.7,Dr. Sharma
+PAT-1630,2026-07-16,2026-07-30,New Delhi,Gastroenterology,Elective,Male,29,14,380299.19,4.7,Dr. Das
+PAT-1631,2026-07-23,2026-08-03,Bengaluru,Neurology,Elective,Male,16,11,262806.17,3.7,Dr. Reddy
+PAT-1632,2026-05-24,2026-05-28,Kolkata,Pediatrics,Urgent,Female,47,4,119389.59,4.0,Dr. Kapoor
+PAT-1633,2026-08-06,2026-08-10,Hyderabad,Cardiology,Elective,Female,59,4,78266.5,4.1,Dr. Iyer
+PAT-1634,2026-08-06,2026-08-11,Bengaluru,Orthopedics,Elective,Female,31,5,80845.8,3.7,Dr. Rao
+PAT-1635,2026-06-25,2026-07-01,Bengaluru,Pediatrics,Urgent,Male,4,6,125991.53,4.7,Dr. Iyer
+PAT-1636,2026-03-26,2026-03-31,New Delhi,Neurology,Emergency,Female,37,5,122430.87,4.6,Dr. Das
+PAT-1637,2026-02-08,2026-02-22,Chennai,Gastroenterology,Urgent,Male,17,14,257045.61,3.8,Dr. Kapoor
+PAT-1638,2026-04-10,2026-04-17,Kolkata,Pediatrics,Emergency,Male,39,7,154671.62,4.1,Dr. Kapoor
+PAT-1639,2026-02-02,2026-02-04,Pune,Cardiology,Emergency,Male,48,2,45999.32,3.7,Dr. Rao
+PAT-1640,2026-08-10,2026-08-17,Pune,Neurology,Emergency,Male,46,7,113034.86,4.4,Dr. Das
+PAT-1641,2026-04-11,2026-04-21,Bengaluru,Orthopedics,Urgent,Male,48,10,266661.45,3.7,Dr. Joshi
+PAT-1642,2026-01-23,2026-01-30,Mumbai,Neurology,Urgent,Male,39,7,228808.08,5.0,Dr. Sharma
+PAT-1643,2026-01-10,2026-01-11,Kolkata,Neurology,Elective,Female,4,1,18034.86,4.7,Dr. Rao
+PAT-1644,2026-03-10,2026-03-17,Hyderabad,Oncology,Elective,Male,30,7,188693.12,4.1,Dr. Sharma
+PAT-1645,2026-04-10,2026-04-15,Mumbai,Neurology,Elective,Male,30,5,141473.92,4.4,Dr. Joshi
+PAT-1646,2026-02-03,2026-02-06,Mumbai,Neurology,Urgent,Female,22,3,70160.08,4.9,Dr. Kapoor
+PAT-1647,2026-06-29,2026-07-12,Kolkata,Pediatrics,Elective,Male,75,13,377285.37,4.3,Dr. Sharma
+PAT-1648,2026-08-11,2026-08-14,Chennai,Orthopedics,Emergency,Female,66,3,69643.89,3.8,Dr. Joshi
+PAT-1649,2026-05-18,2026-05-22,Bengaluru,Pediatrics,Emergency,Female,12,4,100370.98,4.1,Dr. Joshi
+PAT-1650,2026-05-27,2026-06-09,Bengaluru,Pediatrics,Elective,Female,36,13,196911.79,4.8,Dr. Reddy
+PAT-1651,2026-07-05,2026-07-17,Bengaluru,Cardiology,Elective,Male,18,12,346012.83,4.5,Dr. Rao
+PAT-1652,2026-04-06,2026-04-08,Bengaluru,Pediatrics,Emergency,Male,53,2,56453.71,4.5,Dr. Reddy
+PAT-1653,2026-01-01,2026-01-03,Pune,Oncology,Emergency,Female,71,2,31536.04,4.8,Dr. Iyer
+PAT-1654,2026-03-10,2026-03-11,Bengaluru,Oncology,Urgent,Male,1,1,22365.0,4.8,Dr. Kapoor
+PAT-1655,2026-08-25,2026-08-30,Pune,Cardiology,Emergency,Male,58,5,172903.18,4.9,Dr. Rao
+PAT-1656,2026-01-04,2026-01-08,Pune,Gastroenterology,Elective,Female,6,4,93658.93,3.6,Dr. Kapoor
+PAT-1657,2026-01-16,2026-01-27,Chennai,Orthopedics,Urgent,Female,70,11,275427.99,4.3,Dr. Reddy
+PAT-1658,2026-01-24,2026-02-03,Bengaluru,Orthopedics,Emergency,Male,44,10,331986.03,4.6,Dr. Das
+PAT-1659,2026-03-21,2026-03-23,New Delhi,Pediatrics,Emergency,Female,72,2,58690.48,4.6,Dr. Joshi
+PAT-1660,2026-01-02,2026-01-05,Hyderabad,Pediatrics,Elective,Female,24,3,79924.21,4.4,Dr. Kapoor
+PAT-1661,2026-08-29,2026-09-05,Mumbai,Gastroenterology,Urgent,Female,19,7,216692.66,3.8,Dr. Rao
+PAT-1662,2026-08-08,2026-08-15,Pune,Pediatrics,Elective,Male,18,7,226011.28,4.7,Dr. Iyer
+PAT-1663,2026-05-08,2026-05-20,Kolkata,Orthopedics,Urgent,Male,30,12,289653.14,4.6,Dr. Rao
+PAT-1664,2026-06-09,2026-06-13,Kolkata,Neurology,Emergency,Male,42,4,98008.67,3.6,Dr. Kapoor
+PAT-1665,2026-08-07,2026-08-12,Hyderabad,Oncology,Elective,Female,33,5,113605.09,4.2,Dr. Rao
+PAT-1666,2026-03-25,2026-03-30,Kolkata,Neurology,Elective,Male,74,5,171670.61,3.8,Dr. Iyer
+PAT-1667,2026-06-01,2026-06-07,New Delhi,Neurology,Urgent,Female,12,6,173659.95,4.0,Dr. Joshi
+PAT-1668,2026-05-20,2026-06-03,Kolkata,Orthopedics,Emergency,Male,27,14,233302.46,3.5,Dr. Das
+PAT-1669,2026-06-27,2026-07-06,Mumbai,Neurology,Urgent,Male,39,9,290332.73,4.1,Dr. Joshi
+PAT-1670,2026-06-12,2026-06-14,Mumbai,Gastroenterology,Elective,Female,9,2,49222.4,4.3,Dr. Rao
+PAT-1671,2026-05-04,2026-05-09,Pune,Cardiology,Emergency,Male,21,5,81875.39,4.4,Dr. Iyer
+PAT-1672,2026-02-02,2026-02-14,Bengaluru,Pediatrics,Emergency,Female,76,12,311932.14,4.5,Dr. Iyer
+PAT-1673,2026-06-10,2026-06-13,Chennai,Cardiology,Urgent,Male,29,3,70029.86,4.8,Dr. Kapoor
+PAT-1674,2026-07-08,2026-07-12,New Delhi,Oncology,Emergency,Male,33,4,130219.95,3.8,Dr. Reddy
+PAT-1675,2026-06-28,2026-07-08,Pune,Pediatrics,Emergency,Female,62,10,190798.92,3.7,Dr. Rao
+PAT-1676,2026-06-20,2026-06-26,New Delhi,Neurology,Emergency,Female,15,6,189175.75,4.8,Dr. Rao
+PAT-1677,2026-04-11,2026-04-23,Bengaluru,Oncology,Urgent,Female,2,12,313845.29,3.7,Dr. Rao
+PAT-1678,2026-01-12,2026-01-20,Kolkata,Pediatrics,Elective,Male,52,8,128737.65,5.0,Dr. Rao
+PAT-1679,2026-03-08,2026-03-09,Kolkata,Gastroenterology,Elective,Male,44,1,34436.91,4.8,Dr. Kapoor
+PAT-1680,2026-03-06,2026-03-16,Chennai,Gastroenterology,Emergency,Male,54,10,252523.05,4.3,Dr. Reddy
+PAT-1681,2026-06-10,2026-06-24,Bengaluru,Gastroenterology,Elective,Female,18,14,291445.52,5.0,Dr. Reddy
+PAT-1682,2026-06-17,2026-06-25,Pune,Gastroenterology,Elective,Female,3,8,195105.09,3.6,Dr. Sharma
+PAT-1683,2026-03-15,2026-03-26,Chennai,Neurology,Urgent,Female,7,11,353728.71,4.0,Dr. Rao
+PAT-1684,2026-02-12,2026-02-26,Bengaluru,Cardiology,Urgent,Male,43,14,295372.87,4.5,Dr. Rao
+PAT-1685,2026-02-13,2026-02-20,Hyderabad,Pediatrics,Emergency,Male,82,7,131974.7,4.0,Dr. Sharma
+PAT-1686,2026-01-29,2026-01-30,Mumbai,Neurology,Elective,Female,38,1,17581.42,4.9,Dr. Reddy
+PAT-1687,2026-05-21,2026-05-23,Chennai,Gastroenterology,Emergency,Male,37,2,41914.38,3.6,Dr. Iyer
+PAT-1688,2026-01-12,2026-01-15,Chennai,Cardiology,Elective,Female,58,3,91802.89,4.3,Dr. Iyer
+PAT-1689,2026-04-05,2026-04-06,Pune,Oncology,Emergency,Male,33,1,24432.53,4.4,Dr. Mehta
+PAT-1690,2026-02-15,2026-03-01,New Delhi,Oncology,Emergency,Male,59,14,273694.85,4.5,Dr. Joshi
+PAT-1691,2026-05-10,2026-05-19,Hyderabad,Oncology,Emergency,Female,11,9,164913.3,3.9,Dr. Mehta
+PAT-1692,2026-08-31,2026-09-08,Pune,Gastroenterology,Elective,Male,68,8,173236.72,4.0,Dr. Reddy
+PAT-1693,2026-08-30,2026-09-01,Bengaluru,Oncology,Emergency,Male,82,2,67596.97,4.8,Dr. Das
+PAT-1694,2026-02-04,2026-02-17,Bengaluru,Orthopedics,Elective,Female,68,13,284186.95,3.8,Dr. Rao
+PAT-1695,2026-08-03,2026-08-12,Bengaluru,Pediatrics,Emergency,Female,22,9,312862.33,4.7,Dr. Mehta
+PAT-1696,2026-03-22,2026-03-29,Bengaluru,Pediatrics,Emergency,Male,66,7,172932.26,4.3,Dr. Kapoor
+PAT-1697,2026-03-31,2026-04-09,New Delhi,Gastroenterology,Elective,Female,44,9,167249.51,4.6,Dr. Iyer
+PAT-1698,2026-01-08,2026-01-14,Hyderabad,Orthopedics,Emergency,Male,6,6,196936.81,4.6,Dr. Kapoor
+PAT-1699,2026-04-03,2026-04-09,Kolkata,Neurology,Emergency,Female,42,6,145242.64,3.8,Dr. Sharma
+PAT-1700,2026-06-03,2026-06-14,Mumbai,Neurology,Elective,Male,25,11,321127.7,4.4,Dr. Reddy
+PAT-1701,2026-07-21,2026-08-04,New Delhi,Oncology,Emergency,Male,57,14,485439.24,4.8,Dr. Reddy
+PAT-1702,2026-03-31,2026-04-04,New Delhi,Cardiology,Emergency,Female,55,4,64014.03,4.1,Dr. Mehta
+PAT-1703,2026-06-11,2026-06-21,Kolkata,Neurology,Emergency,Male,16,10,169338.91,4.9,Dr. Rao
+PAT-1704,2026-04-25,2026-05-05,Kolkata,Cardiology,Urgent,Male,14,10,294091.35,4.2,Dr. Reddy
+PAT-1705,2026-04-15,2026-04-28,Mumbai,Pediatrics,Elective,Female,39,13,268274.5,3.7,Dr. Mehta
+PAT-1706,2026-05-15,2026-05-28,Mumbai,Cardiology,Elective,Female,28,13,242918.36,4.1,Dr. Mehta
+PAT-1707,2026-07-15,2026-07-17,Kolkata,Pediatrics,Elective,Male,51,2,31574.48,4.9,Dr. Joshi
+PAT-1708,2026-02-27,2026-03-06,Bengaluru,Orthopedics,Emergency,Female,49,7,108058.54,4.0,Dr. Joshi
+PAT-1709,2026-04-24,2026-04-29,New Delhi,Orthopedics,Emergency,Female,9,5,152448.56,4.8,Dr. Reddy
+PAT-1710,2026-08-25,2026-09-05,Pune,Gastroenterology,Elective,Male,58,11,194575.35,4.8,Dr. Mehta
+PAT-1711,2026-03-16,2026-03-22,Mumbai,Gastroenterology,Emergency,Male,45,6,146126.47,4.0,Dr. Sharma
+PAT-1712,2026-06-06,2026-06-08,Mumbai,Oncology,Emergency,Female,22,2,54235.87,3.6,Dr. Sharma
+PAT-1713,2026-04-30,2026-05-05,Kolkata,Neurology,Emergency,Female,32,5,117835.18,4.6,Dr. Joshi
+PAT-1714,2026-06-13,2026-06-23,Hyderabad,Oncology,Emergency,Female,69,10,155421.33,4.0,Dr. Reddy
+PAT-1715,2026-08-05,2026-08-09,Pune,Pediatrics,Urgent,Male,69,4,122680.12,4.7,Dr. Iyer
+PAT-1716,2026-01-21,2026-01-30,Pune,Oncology,Emergency,Male,42,9,136892.38,4.2,Dr. Rao
+PAT-1717,2026-06-13,2026-06-19,Mumbai,Cardiology,Elective,Male,53,6,181426.79,4.2,Dr. Das
+PAT-1718,2026-05-18,2026-05-20,Bengaluru,Pediatrics,Emergency,Male,59,2,65732.18,4.7,Dr. Iyer
+PAT-1719,2026-04-11,2026-04-12,Hyderabad,Gastroenterology,Urgent,Male,74,1,23656.8,4.1,Dr. Sharma
+PAT-1720,2026-07-20,2026-07-25,Pune,Orthopedics,Emergency,Male,39,5,128554.25,4.2,Dr. Sharma
+PAT-1721,2026-06-01,2026-06-10,Mumbai,Gastroenterology,Emergency,Male,15,9,220857.01,4.1,Dr. Iyer
+PAT-1722,2026-07-11,2026-07-17,Pune,Neurology,Elective,Female,71,6,136705.03,4.1,Dr. Joshi
+PAT-1723,2026-08-15,2026-08-25,Chennai,Pediatrics,Elective,Female,29,10,327484.91,4.3,Dr. Joshi
+PAT-1724,2026-06-26,2026-07-08,Hyderabad,Pediatrics,Emergency,Male,3,12,394544.04,4.7,Dr. Reddy
+PAT-1725,2026-04-09,2026-04-16,Hyderabad,Cardiology,Emergency,Male,83,7,152014.29,4.0,Dr. Joshi
+PAT-1726,2026-08-28,2026-09-02,Chennai,Neurology,Emergency,Male,10,5,136506.98,4.3,Dr. Kapoor
+PAT-1727,2026-02-05,2026-02-15,New Delhi,Orthopedics,Emergency,Female,29,10,335381.51,4.5,Dr. Das
+PAT-1728,2026-07-29,2026-08-04,Chennai,Pediatrics,Emergency,Male,79,6,205447.02,3.9,Dr. Iyer
+PAT-1729,2026-08-29,2026-09-03,Kolkata,Pediatrics,Elective,Female,35,5,125895.9,3.9,Dr. Iyer
+PAT-1730,2026-08-19,2026-08-30,Kolkata,Cardiology,Emergency,Female,6,11,264621.46,4.9,Dr. Mehta
+PAT-1731,2026-04-06,2026-04-15,Mumbai,Oncology,Emergency,Female,12,9,185164.98,4.6,Dr. Sharma
+PAT-1732,2026-06-01,2026-06-07,Hyderabad,Orthopedics,Elective,Female,38,6,205064.62,4.4,Dr. Iyer
+PAT-1733,2026-05-31,2026-06-11,New Delhi,Gastroenterology,Urgent,Female,77,11,196419.15,4.5,Dr. Kapoor
+PAT-1734,2026-07-09,2026-07-17,New Delhi,Neurology,Elective,Male,19,8,212772.73,3.5,Dr. Iyer
+PAT-1735,2026-08-12,2026-08-14,Pune,Pediatrics,Emergency,Male,67,2,41302.01,4.4,Dr. Rao
+PAT-1736,2026-02-06,2026-02-18,Pune,Pediatrics,Emergency,Female,8,12,246961.99,4.3,Dr. Kapoor
+PAT-1737,2026-01-12,2026-01-25,Chennai,Gastroenterology,Urgent,Male,8,13,300291.83,4.3,Dr. Reddy
+PAT-1738,2026-04-23,2026-05-02,New Delhi,Orthopedics,Emergency,Female,84,9,314782.73,4.0,Dr. Rao
+PAT-1739,2026-07-02,2026-07-07,Chennai,Oncology,Emergency,Female,47,5,80496.63,3.6,Dr. Rao
+PAT-1740,2026-01-13,2026-01-20,Chennai,Pediatrics,Elective,Male,4,7,185995.85,3.8,Dr. Iyer
+PAT-1741,2026-01-23,2026-02-02,Pune,Orthopedics,Elective,Male,51,10,166514.43,4.9,Dr. Joshi
+PAT-1742,2026-08-05,2026-08-18,Hyderabad,Gastroenterology,Elective,Male,67,13,235175.42,4.1,Dr. Iyer
+PAT-1743,2026-04-09,2026-04-10,Chennai,Cardiology,Emergency,Male,45,1,23791.26,4.2,Dr. Kapoor
+PAT-1744,2026-04-15,2026-04-25,Bengaluru,Oncology,Emergency,Male,8,10,252092.03,3.6,Dr. Reddy
+PAT-1745,2026-01-30,2026-02-04,Hyderabad,Neurology,Urgent,Female,16,5,100879.24,3.6,Dr. Sharma
+PAT-1746,2026-01-17,2026-01-29,New Delhi,Pediatrics,Emergency,Male,77,12,255949.71,4.6,Dr. Das
+PAT-1747,2026-04-23,2026-05-07,New Delhi,Orthopedics,Elective,Male,67,14,234350.77,4.3,Dr. Joshi
+PAT-1748,2026-03-03,2026-03-13,Chennai,Cardiology,Elective,Male,9,10,210643.96,4.3,Dr. Kapoor
+PAT-1749,2026-03-25,2026-04-08,Hyderabad,Neurology,Elective,Female,60,14,480636.36,3.9,Dr. Sharma
+PAT-1750,2026-04-22,2026-04-24,Pune,Orthopedics,Emergency,Male,78,2,67788.3,4.6,Dr. Kapoor
+PAT-1751,2026-08-05,2026-08-17,Pune,Orthopedics,Emergency,Female,77,12,260370.79,3.8,Dr. Joshi
+PAT-1752,2026-03-27,2026-04-02,Kolkata,Neurology,Elective,Male,71,6,158502.47,3.8,Dr. Sharma
+PAT-1753,2026-05-21,2026-06-01,New Delhi,Cardiology,Urgent,Male,15,11,365110.99,4.2,Dr. Joshi
+PAT-1754,2026-07-06,2026-07-07,Mumbai,Gastroenterology,Urgent,Female,71,1,15123.68,3.9,Dr. Kapoor
+PAT-1755,2026-01-19,2026-01-22,Kolkata,Cardiology,Emergency,Male,41,3,93641.01,3.9,Dr. Rao
+PAT-1756,2026-06-26,2026-07-01,Pune,Oncology,Emergency,Male,22,5,169836.96,4.5,Dr. Das
+PAT-1757,2026-04-10,2026-04-14,Hyderabad,Pediatrics,Urgent,Female,24,4,67306.06,4.5,Dr. Mehta
+PAT-1758,2026-05-20,2026-05-23,Pune,Neurology,Elective,Male,44,3,54686.86,4.7,Dr. Das
+PAT-1759,2026-07-08,2026-07-18,Hyderabad,Gastroenterology,Urgent,Female,1,10,342149.26,4.1,Dr. Rao
+PAT-1760,2026-08-21,2026-09-03,Kolkata,Neurology,Emergency,Female,10,13,334760.44,3.6,Dr. Joshi
+PAT-1761,2026-05-27,2026-06-01,New Delhi,Neurology,Elective,Female,80,5,76419.66,3.9,Dr. Das
+PAT-1762,2026-03-17,2026-03-28,Pune,Cardiology,Elective,Female,72,11,221679.04,5.0,Dr. Joshi
+PAT-1763,2026-01-09,2026-01-17,Chennai,Pediatrics,Elective,Female,56,8,191990.99,4.4,Dr. Joshi
+PAT-1764,2026-07-18,2026-07-29,Hyderabad,Oncology,Emergency,Male,50,11,317439.96,4.6,Dr. Sharma
+PAT-1765,2026-01-28,2026-02-01,New Delhi,Orthopedics,Emergency,Male,12,4,118652.83,3.5,Dr. Reddy
+PAT-1766,2026-07-25,2026-07-26,Mumbai,Orthopedics,Elective,Male,81,1,34908.43,4.3,Dr. Joshi
+PAT-1767,2026-08-11,2026-08-22,Hyderabad,Neurology,Emergency,Female,60,11,228252.46,3.6,Dr. Das
+PAT-1768,2026-05-08,2026-05-15,Kolkata,Pediatrics,Elective,Female,26,7,180350.81,4.4,Dr. Das
+PAT-1769,2026-02-21,2026-03-01,Mumbai,Gastroenterology,Urgent,Female,78,8,205331.77,4.9,Dr. Das
+PAT-1770,2026-03-24,2026-03-27,Mumbai,Cardiology,Emergency,Female,41,3,69338.72,5.0,Dr. Rao
+PAT-1771,2026-04-21,2026-04-27,Bengaluru,Pediatrics,Urgent,Male,36,6,110299.43,4.3,Dr. Mehta
+PAT-1772,2026-05-24,2026-05-26,Pune,Pediatrics,Emergency,Male,23,2,69098.26,4.2,Dr. Joshi
+PAT-1773,2026-04-27,2026-05-04,Hyderabad,Cardiology,Elective,Female,43,7,224464.41,4.9,Dr. Iyer
+PAT-1774,2026-03-10,2026-03-18,Mumbai,Neurology,Urgent,Female,6,8,199733.28,4.5,Dr. Joshi
+PAT-1775,2026-04-09,2026-04-15,Bengaluru,Pediatrics,Emergency,Male,69,6,162389.45,3.6,Dr. Joshi
+PAT-1776,2026-05-20,2026-05-26,Kolkata,Orthopedics,Emergency,Female,43,6,117271.33,4.2,Dr. Iyer
+PAT-1777,2026-01-25,2026-01-30,New Delhi,Cardiology,Emergency,Female,25,5,129378.71,3.9,Dr. Sharma
+PAT-1778,2026-06-29,2026-07-07,Chennai,Gastroenterology,Emergency,Female,18,8,231195.22,4.2,Dr. Joshi
+PAT-1779,2026-05-03,2026-05-04,Chennai,Oncology,Elective,Male,62,1,25303.34,4.2,Dr. Rao
+PAT-1780,2026-08-01,2026-08-11,Hyderabad,Neurology,Urgent,Male,13,10,348057.03,4.4,Dr. Kapoor
+PAT-1781,2026-08-16,2026-08-20,Mumbai,Cardiology,Emergency,Female,43,4,108907.33,4.0,Dr. Reddy
+PAT-1782,2026-02-22,2026-02-26,Chennai,Oncology,Emergency,Male,78,4,89677.9,3.7,Dr. Das
+PAT-1783,2026-05-31,2026-06-03,Pune,Oncology,Emergency,Female,28,3,91329.12,4.3,Dr. Joshi
+PAT-1784,2026-05-24,2026-05-27,Chennai,Gastroenterology,Elective,Female,18,3,55227.75,4.7,Dr. Sharma
+PAT-1785,2026-02-26,2026-03-02,Chennai,Pediatrics,Emergency,Male,59,4,90761.27,4.5,Dr. Rao
+PAT-1786,2026-02-08,2026-02-19,Chennai,Gastroenterology,Elective,Female,60,11,241330.97,4.0,Dr. Joshi
+PAT-1787,2026-04-19,2026-04-20,Bengaluru,Pediatrics,Elective,Female,63,1,23636.14,4.9,Dr. Iyer
+PAT-1788,2026-06-30,2026-07-14,Mumbai,Pediatrics,Elective,Male,57,14,428898.35,4.9,Dr. Sharma
+PAT-1789,2026-02-11,2026-02-22,Pune,Cardiology,Emergency,Female,51,11,271518.07,3.8,Dr. Kapoor
+PAT-1790,2026-07-05,2026-07-18,Mumbai,Cardiology,Elective,Female,56,13,401443.76,3.6,Dr. Mehta
+PAT-1791,2026-06-16,2026-06-27,Hyderabad,Neurology,Emergency,Female,27,11,291827.56,4.6,Dr. Joshi
+PAT-1792,2026-05-22,2026-05-24,Hyderabad,Pediatrics,Emergency,Male,32,2,43682.78,4.7,Dr. Rao
+PAT-1793,2026-08-11,2026-08-20,Hyderabad,Oncology,Urgent,Female,9,9,280796.17,5.0,Dr. Sharma
+PAT-1794,2026-05-02,2026-05-12,Kolkata,Orthopedics,Elective,Male,84,10,197657.93,4.8,Dr. Iyer
+PAT-1795,2026-05-13,2026-05-15,Chennai,Neurology,Emergency,Female,68,2,38975.32,4.4,Dr. Sharma
+PAT-1796,2026-06-12,2026-06-17,Kolkata,Cardiology,Emergency,Female,46,5,125450.29,4.3,Dr. Joshi
+PAT-1797,2026-08-03,2026-08-12,Bengaluru,Gastroenterology,Emergency,Female,67,9,181952.86,3.5,Dr. Sharma
+PAT-1798,2026-08-09,2026-08-18,Hyderabad,Neurology,Emergency,Female,26,9,136635.67,3.9,Dr. Mehta
+PAT-1799,2026-08-23,2026-08-31,Pune,Neurology,Emergency,Male,8,8,223727.6,4.2,Dr. Sharma
+PAT-1800,2026-03-16,2026-03-17,Mumbai,Neurology,Emergency,Male,6,1,25221.88,4.4,Dr. Das
+PAT-1801,2026-05-26,2026-05-27,Chennai,Neurology,Elective,Female,80,1,23910.36,4.3,Dr. Reddy
+PAT-1802,2026-08-27,2026-09-05,New Delhi,Orthopedics,Elective,Female,24,9,309054.33,4.6,Dr. Das
+PAT-1803,2026-03-17,2026-03-30,Pune,Gastroenterology,Elective,Female,48,13,343511.79,3.9,Dr. Reddy
+PAT-1804,2026-01-09,2026-01-20,Chennai,Gastroenterology,Elective,Female,45,11,354954.95,4.3,Dr. Sharma
+PAT-1805,2026-03-15,2026-03-23,Kolkata,Gastroenterology,Emergency,Female,13,8,142312.04,3.6,Dr. Iyer
+PAT-1806,2026-07-05,2026-07-15,Kolkata,Pediatrics,Urgent,Female,69,10,263841.29,4.1,Dr. Iyer
+PAT-1807,2026-08-24,2026-09-02,Pune,Oncology,Urgent,Female,25,9,291236.33,4.6,Dr. Joshi
+PAT-1808,2026-05-25,2026-06-01,Kolkata,Gastroenterology,Urgent,Female,20,7,186634.81,4.5,Dr. Iyer
+PAT-1809,2026-08-18,2026-08-21,Hyderabad,Neurology,Urgent,Male,82,3,88080.85,5.0,Dr. Reddy
+PAT-1810,2026-01-07,2026-01-10,Bengaluru,Neurology,Urgent,Male,82,3,67322.61,3.9,Dr. Rao
+PAT-1811,2026-06-23,2026-06-25,Mumbai,Gastroenterology,Elective,Male,66,2,33697.98,4.2,Dr. Reddy
+PAT-1812,2026-05-21,2026-05-26,Bengaluru,Gastroenterology,Emergency,Female,74,5,120790.03,4.0,Dr. Das
+PAT-1813,2026-06-17,2026-06-29,Chennai,Neurology,Elective,Female,45,12,274675.05,4.2,Dr. Sharma
+PAT-1814,2026-06-19,2026-07-01,Mumbai,Pediatrics,Elective,Female,47,12,388094.44,4.8,Dr. Joshi
+PAT-1815,2026-05-17,2026-05-20,Mumbai,Cardiology,Elective,Male,63,3,59639.72,4.5,Dr. Kapoor
+PAT-1816,2026-06-27,2026-07-11,Bengaluru,Cardiology,Elective,Female,76,14,480685.58,4.8,Dr. Joshi
+PAT-1817,2026-01-27,2026-02-02,Pune,Gastroenterology,Emergency,Male,77,6,204976.57,3.8,Dr. Joshi
+PAT-1818,2026-05-02,2026-05-04,Mumbai,Orthopedics,Emergency,Female,55,2,39905.27,4.8,Dr. Joshi
+PAT-1819,2026-07-13,2026-07-25,Bengaluru,Gastroenterology,Urgent,Male,75,12,263532.47,3.6,Dr. Rao
+PAT-1820,2026-01-05,2026-01-08,Mumbai,Gastroenterology,Elective,Male,19,3,98733.34,4.8,Dr. Mehta
+PAT-1821,2026-01-29,2026-02-03,New Delhi,Cardiology,Elective,Male,35,5,171662.22,4.0,Dr. Das
+PAT-1822,2026-06-14,2026-06-26,Pune,Neurology,Emergency,Female,53,12,286425.38,4.0,Dr. Sharma
+PAT-1823,2026-06-15,2026-06-26,Hyderabad,Gastroenterology,Emergency,Male,26,11,235619.35,4.3,Dr. Mehta
+PAT-1824,2026-03-24,2026-04-04,Mumbai,Neurology,Urgent,Female,14,11,280740.68,4.9,Dr. Kapoor
+PAT-1825,2026-05-16,2026-05-17,New Delhi,Neurology,Elective,Female,45,1,28755.38,3.6,Dr. Mehta
+PAT-1826,2026-08-28,2026-09-10,Hyderabad,Orthopedics,Elective,Female,44,13,266103.37,4.0,Dr. Sharma
+PAT-1827,2026-04-19,2026-04-20,Hyderabad,Neurology,Elective,Female,65,1,29729.46,4.8,Dr. Das
+PAT-1828,2026-03-06,2026-03-16,Chennai,Cardiology,Elective,Female,51,10,160331.47,4.1,Dr. Das
+PAT-1829,2026-03-27,2026-04-05,Mumbai,Pediatrics,Emergency,Male,43,9,143873.01,3.8,Dr. Sharma
+PAT-1830,2026-05-25,2026-06-01,Bengaluru,Pediatrics,Elective,Female,23,7,159080.28,4.1,Dr. Kapoor
+PAT-1831,2026-03-12,2026-03-13,Mumbai,Oncology,Emergency,Female,56,1,22069.46,4.1,Dr. Sharma
+PAT-1832,2026-08-05,2026-08-17,New Delhi,Gastroenterology,Emergency,Female,19,12,255751.97,4.9,Dr. Kapoor
+PAT-1833,2026-02-14,2026-02-28,Hyderabad,Cardiology,Elective,Female,82,14,347485.53,4.6,Dr. Kapoor
+PAT-1834,2026-05-12,2026-05-20,Mumbai,Neurology,Urgent,Female,76,8,171317.37,4.3,Dr. Sharma
+PAT-1835,2026-02-05,2026-02-08,Bengaluru,Pediatrics,Emergency,Male,55,3,56535.48,5.0,Dr. Reddy
+PAT-1836,2026-03-11,2026-03-19,Chennai,Cardiology,Urgent,Male,60,8,169515.13,4.2,Dr. Das
+PAT-1837,2026-06-08,2026-06-13,Mumbai,Pediatrics,Emergency,Female,59,5,172490.43,3.6,Dr. Kapoor
+PAT-1838,2026-01-19,2026-01-20,Pune,Neurology,Emergency,Male,33,1,23222.27,3.9,Dr. Sharma
+PAT-1839,2026-07-08,2026-07-15,Chennai,Pediatrics,Emergency,Male,19,7,167259.79,4.2,Dr. Iyer
+PAT-1840,2026-04-18,2026-04-23,Bengaluru,Gastroenterology,Emergency,Female,28,5,132654.5,3.7,Dr. Reddy
+PAT-1841,2026-07-01,2026-07-07,New Delhi,Gastroenterology,Elective,Male,52,6,208000.89,4.9,Dr. Das
+PAT-1842,2026-06-16,2026-06-22,Hyderabad,Oncology,Emergency,Female,49,6,118992.15,4.7,Dr. Kapoor
+PAT-1843,2026-04-01,2026-04-09,Mumbai,Oncology,Elective,Male,37,8,229005.14,3.9,Dr. Das
+PAT-1844,2026-07-21,2026-07-30,Bengaluru,Pediatrics,Urgent,Male,26,9,263877.24,4.4,Dr. Reddy
+PAT-1845,2026-03-31,2026-04-02,Chennai,Cardiology,Emergency,Male,40,2,54292.98,4.6,Dr. Das
+PAT-1846,2026-01-19,2026-01-28,Pune,Gastroenterology,Elective,Female,80,9,150944.1,4.9,Dr. Rao
+PAT-1847,2026-02-08,2026-02-20,Bengaluru,Cardiology,Emergency,Male,38,12,342449.35,4.8,Dr. Joshi
+PAT-1848,2026-05-06,2026-05-17,Kolkata,Cardiology,Elective,Male,77,11,179100.84,4.3,Dr. Rao
+PAT-1849,2026-07-14,2026-07-24,Pune,Pediatrics,Emergency,Female,54,10,269228.53,4.7,Dr. Reddy
+PAT-1850,2026-06-22,2026-07-01,Chennai,Cardiology,Emergency,Female,22,9,268124.61,4.3,Dr. Kapoor
+PAT-1851,2026-05-21,2026-06-03,New Delhi,Gastroenterology,Emergency,Male,16,13,249852.17,4.3,Dr. Sharma
+PAT-1852,2026-08-30,2026-09-09,Hyderabad,Neurology,Emergency,Female,28,10,318324.4,3.7,Dr. Mehta
+PAT-1853,2026-08-08,2026-08-18,Chennai,Oncology,Emergency,Male,35,10,156070.76,3.7,Dr. Sharma
+PAT-1854,2026-05-06,2026-05-13,New Delhi,Neurology,Elective,Male,60,7,223133.8,4.3,Dr. Das
+PAT-1855,2026-02-27,2026-02-28,Mumbai,Cardiology,Urgent,Female,45,1,24206.58,3.9,Dr. Mehta
+PAT-1856,2026-05-28,2026-06-04,Bengaluru,Neurology,Urgent,Female,46,7,135462.31,3.5,Dr. Mehta
+PAT-1857,2026-08-08,2026-08-18,Kolkata,Gastroenterology,Elective,Female,72,10,176755.63,4.6,Dr. Das
+PAT-1858,2026-07-19,2026-07-24,Pune,Gastroenterology,Emergency,Male,55,5,170330.72,3.5,Dr. Das
+PAT-1859,2026-03-02,2026-03-08,Pune,Cardiology,Emergency,Female,26,6,98719.87,4.4,Dr. Kapoor
+PAT-1860,2026-05-07,2026-05-17,Bengaluru,Pediatrics,Emergency,Male,25,10,189818.68,4.3,Dr. Reddy
+PAT-1861,2026-04-15,2026-04-22,Kolkata,Neurology,Emergency,Female,65,7,153695.13,5.0,Dr. Iyer
+PAT-1862,2026-06-16,2026-06-30,Bengaluru,Pediatrics,Elective,Male,6,14,383665.76,4.2,Dr. Sharma
+PAT-1863,2026-01-01,2026-01-06,Mumbai,Pediatrics,Elective,Female,23,5,129480.11,3.6,Dr. Reddy
+PAT-1864,2026-05-11,2026-05-18,New Delhi,Orthopedics,Emergency,Male,64,7,122590.09,4.3,Dr. Rao
+PAT-1865,2026-07-24,2026-08-02,Chennai,Cardiology,Emergency,Female,43,9,187151.04,4.8,Dr. Kapoor
+PAT-1866,2026-04-02,2026-04-05,Pune,Oncology,Urgent,Male,23,3,59325.11,5.0,Dr. Kapoor
+PAT-1867,2026-07-09,2026-07-17,Mumbai,Gastroenterology,Elective,Female,30,8,154166.86,4.1,Dr. Iyer
+PAT-1868,2026-07-10,2026-07-12,New Delhi,Gastroenterology,Emergency,Female,77,2,46445.77,4.0,Dr. Rao
+PAT-1869,2026-04-23,2026-05-04,Mumbai,Cardiology,Urgent,Male,18,11,319886.92,4.9,Dr. Sharma
+PAT-1870,2026-06-02,2026-06-09,Kolkata,Oncology,Urgent,Female,79,7,135443.41,3.8,Dr. Joshi
+PAT-1871,2026-02-25,2026-03-10,Pune,Gastroenterology,Emergency,Male,21,13,290336.51,4.4,Dr. Rao
+PAT-1872,2026-06-10,2026-06-12,Chennai,Cardiology,Emergency,Male,57,2,45636.7,4.1,Dr. Sharma
+PAT-1873,2026-06-15,2026-06-29,Bengaluru,Gastroenterology,Elective,Female,23,14,483407.83,3.6,Dr. Mehta
+PAT-1874,2026-04-27,2026-05-01,Bengaluru,Pediatrics,Urgent,Male,45,4,136373.31,4.0,Dr. Das
+PAT-1875,2026-05-14,2026-05-21,New Delhi,Neurology,Urgent,Female,44,7,217019.26,3.9,Dr. Kapoor
+PAT-1876,2026-02-27,2026-03-02,Chennai,Neurology,Emergency,Female,82,3,59499.54,4.5,Dr. Sharma
+PAT-1877,2026-02-13,2026-02-15,Hyderabad,Gastroenterology,Emergency,Male,47,2,32721.49,4.9,Dr. Reddy
+PAT-1878,2026-06-22,2026-07-03,Kolkata,Orthopedics,Elective,Female,40,11,234718.91,3.9,Dr. Iyer
+PAT-1879,2026-06-09,2026-06-19,New Delhi,Oncology,Elective,Male,51,10,203358.91,4.7,Dr. Das
+PAT-1880,2026-06-22,2026-06-29,Hyderabad,Oncology,Emergency,Male,42,7,175829.61,3.6,Dr. Reddy
+PAT-1881,2026-03-02,2026-03-03,Mumbai,Oncology,Urgent,Female,7,1,30554.56,4.3,Dr. Das
+PAT-1882,2026-02-16,2026-03-02,Kolkata,Pediatrics,Elective,Female,50,14,450330.42,3.6,Dr. Kapoor
+PAT-1883,2026-05-29,2026-06-06,Mumbai,Oncology,Urgent,Male,48,8,255178.25,4.9,Dr. Rao
+PAT-1884,2026-03-21,2026-03-24,Chennai,Neurology,Urgent,Male,84,3,66580.53,4.6,Dr. Joshi
+PAT-1885,2026-04-28,2026-05-10,Pune,Pediatrics,Elective,Female,6,12,344936.24,4.5,Dr. Rao
+PAT-1886,2026-08-01,2026-08-13,Kolkata,Cardiology,Emergency,Female,9,12,255080.21,4.7,Dr. Sharma
+PAT-1887,2026-07-22,2026-08-04,Hyderabad,Oncology,Elective,Female,57,13,210835.44,4.5,Dr. Iyer
+PAT-1888,2026-08-17,2026-08-19,Pune,Oncology,Emergency,Female,31,2,58062.61,5.0,Dr. Rao
+PAT-1889,2026-06-13,2026-06-16,Bengaluru,Cardiology,Elective,Male,21,3,45589.65,4.6,Dr. Kapoor
+PAT-1890,2026-08-15,2026-08-20,Hyderabad,Oncology,Emergency,Female,40,5,115918.26,4.9,Dr. Iyer
+PAT-1891,2026-05-27,2026-06-07,New Delhi,Cardiology,Elective,Male,45,11,237463.44,4.3,Dr. Sharma
+PAT-1892,2026-01-20,2026-01-28,Bengaluru,Pediatrics,Emergency,Male,77,8,230940.41,3.7,Dr. Mehta
+PAT-1893,2026-07-04,2026-07-14,Bengaluru,Neurology,Emergency,Female,49,10,303249.09,4.3,Dr. Rao
+PAT-1894,2026-05-26,2026-06-02,New Delhi,Cardiology,Emergency,Male,20,7,147573.25,3.7,Dr. Rao
+PAT-1895,2026-02-16,2026-02-23,Kolkata,Orthopedics,Emergency,Female,17,7,218627.78,4.4,Dr. Joshi
+PAT-1896,2026-08-21,2026-09-02,Bengaluru,Cardiology,Elective,Male,28,12,250540.02,4.2,Dr. Sharma
+PAT-1897,2026-02-18,2026-02-25,Chennai,Oncology,Elective,Female,41,7,167485.69,4.4,Dr. Reddy
+PAT-1898,2026-01-14,2026-01-22,Hyderabad,Pediatrics,Elective,Male,66,8,236322.96,3.5,Dr. Rao
+PAT-1899,2026-05-23,2026-05-24,Pune,Gastroenterology,Emergency,Male,25,1,28858.4,3.8,Dr. Kapoor
+PAT-1900,2026-06-08,2026-06-12,Bengaluru,Pediatrics,Emergency,Female,58,4,138989.48,4.2,Dr. Rao
+PAT-1901,2026-01-01,2026-01-14,Hyderabad,Gastroenterology,Emergency,Female,41,13,253541.87,4.9,Dr. Joshi
+PAT-1902,2026-04-27,2026-05-03,Mumbai,Cardiology,Emergency,Male,6,6,169478.15,4.1,Dr. Mehta
+PAT-1903,2026-02-23,2026-03-04,Hyderabad,Neurology,Urgent,Male,75,9,244742.74,4.1,Dr. Joshi
+PAT-1904,2026-04-28,2026-05-11,Pune,Orthopedics,Emergency,Female,38,13,432925.6,4.6,Dr. Rao
+PAT-1905,2026-01-03,2026-01-05,Hyderabad,Pediatrics,Emergency,Male,6,2,36254.49,4.4,Dr. Iyer
+PAT-1906,2026-05-24,2026-05-25,New Delhi,Oncology,Emergency,Female,45,1,30035.96,3.9,Dr. Reddy
+PAT-1907,2026-08-03,2026-08-16,Pune,Gastroenterology,Emergency,Male,75,13,342749.84,4.1,Dr. Das
+PAT-1908,2026-07-04,2026-07-14,Kolkata,Oncology,Elective,Female,14,10,204933.17,3.8,Dr. Rao
+PAT-1909,2026-07-22,2026-08-03,Mumbai,Neurology,Elective,Male,66,12,293864.38,4.9,Dr. Sharma
+PAT-1910,2026-01-12,2026-01-26,New Delhi,Gastroenterology,Emergency,Female,40,14,303457.45,3.7,Dr. Rao
+PAT-1911,2026-03-15,2026-03-17,Kolkata,Pediatrics,Emergency,Female,3,2,53172.54,4.1,Dr. Reddy
+PAT-1912,2026-08-12,2026-08-19,Hyderabad,Cardiology,Emergency,Male,24,7,229460.09,3.5,Dr. Sharma
+PAT-1913,2026-01-16,2026-01-19,Pune,Oncology,Emergency,Female,19,3,79158.3,3.8,Dr. Kapoor
+PAT-1914,2026-07-19,2026-07-29,Mumbai,Neurology,Emergency,Male,18,10,276344.48,4.7,Dr. Iyer
+PAT-1915,2026-04-12,2026-04-14,New Delhi,Pediatrics,Urgent,Female,64,2,50749.91,3.8,Dr. Sharma
+PAT-1916,2026-07-23,2026-08-06,Kolkata,Pediatrics,Elective,Female,35,14,224326.34,3.6,Dr. Joshi
+PAT-1917,2026-06-01,2026-06-12,Kolkata,Pediatrics,Elective,Female,62,11,216228.88,4.2,Dr. Mehta
+PAT-1918,2026-06-05,2026-06-12,Mumbai,Pediatrics,Emergency,Male,1,7,173880.24,3.5,Dr. Joshi
+PAT-1919,2026-04-27,2026-05-10,Chennai,Gastroenterology,Emergency,Female,25,13,275661.17,3.6,Dr. Das
+PAT-1920,2026-01-08,2026-01-21,Hyderabad,Pediatrics,Elective,Male,45,13,242258.54,4.7,Dr. Sharma
+PAT-1921,2026-05-02,2026-05-04,Mumbai,Oncology,Elective,Female,49,2,50165.31,4.7,Dr. Kapoor
+PAT-1922,2026-04-02,2026-04-05,Kolkata,Neurology,Elective,Male,16,3,64368.59,4.9,Dr. Rao
+PAT-1923,2026-06-13,2026-06-24,Bengaluru,Gastroenterology,Emergency,Male,19,11,221783.68,4.8,Dr. Iyer
+PAT-1924,2026-03-31,2026-04-07,New Delhi,Pediatrics,Elective,Male,23,7,169957.96,4.5,Dr. Sharma
+PAT-1925,2026-05-16,2026-05-30,Mumbai,Orthopedics,Emergency,Female,83,14,247319.59,3.6,Dr. Joshi
+PAT-1926,2026-07-05,2026-07-09,Chennai,Orthopedics,Urgent,Male,25,4,134219.66,4.7,Dr. Sharma
+PAT-1927,2026-03-01,2026-03-14,Kolkata,Neurology,Elective,Female,16,13,420602.55,4.8,Dr. Sharma
+PAT-1928,2026-06-27,2026-07-11,Hyderabad,Cardiology,Elective,Male,54,14,408133.76,4.7,Dr. Sharma
+PAT-1929,2026-01-28,2026-01-29,Kolkata,Cardiology,Emergency,Male,73,1,17124.28,4.3,Dr. Kapoor
+PAT-1930,2026-08-08,2026-08-21,Hyderabad,Gastroenterology,Elective,Male,1,13,396728.09,3.8,Dr. Iyer
+PAT-1931,2026-04-11,2026-04-25,Mumbai,Gastroenterology,Emergency,Male,42,14,436228.05,4.8,Dr. Reddy
+PAT-1932,2026-02-10,2026-02-15,Hyderabad,Gastroenterology,Emergency,Female,19,5,151776.46,4.6,Dr. Reddy
+PAT-1933,2026-08-16,2026-08-28,Pune,Cardiology,Emergency,Male,34,12,207351.81,5.0,Dr. Sharma
+PAT-1934,2026-07-11,2026-07-20,Pune,Orthopedics,Elective,Male,80,9,250903.43,3.7,Dr. Kapoor
+PAT-1935,2026-06-04,2026-06-12,Pune,Cardiology,Emergency,Female,55,8,253491.97,3.8,Dr. Kapoor
+PAT-1936,2026-07-10,2026-07-22,Chennai,Oncology,Emergency,Male,18,12,318564.82,3.8,Dr. Das
+PAT-1937,2026-05-25,2026-06-03,Chennai,Pediatrics,Urgent,Male,34,9,251353.33,4.7,Dr. Sharma
+PAT-1938,2026-07-20,2026-07-30,Bengaluru,Gastroenterology,Emergency,Male,45,10,241672.7,3.8,Dr. Joshi
+PAT-1939,2026-06-10,2026-06-24,Chennai,Orthopedics,Elective,Male,6,14,358038.05,3.6,Dr. Joshi
+PAT-1940,2026-07-31,2026-08-09,Mumbai,Neurology,Emergency,Female,21,9,141187.83,5.0,Dr. Mehta
+PAT-1941,2026-07-24,2026-07-31,Kolkata,Neurology,Emergency,Female,70,7,194454.82,3.5,Dr. Iyer
+PAT-1942,2026-08-08,2026-08-12,Kolkata,Pediatrics,Elective,Male,48,4,66515.78,4.8,Dr. Sharma
+PAT-1943,2026-08-28,2026-09-02,Bengaluru,Orthopedics,Emergency,Female,39,5,118501.46,4.0,Dr. Mehta
+PAT-1944,2026-06-06,2026-06-07,Chennai,Cardiology,Elective,Female,31,1,20853.1,4.8,Dr. Joshi
+PAT-1945,2026-05-21,2026-06-04,Hyderabad,Cardiology,Elective,Male,10,14,362719.83,4.3,Dr. Joshi
+PAT-1946,2026-02-15,2026-02-16,Bengaluru,Oncology,Elective,Female,30,1,17668.33,4.9,Dr. Sharma
+PAT-1947,2026-02-04,2026-02-07,Hyderabad,Oncology,Elective,Male,18,3,86498.6,4.9,Dr. Mehta
+PAT-1948,2026-05-14,2026-05-27,Hyderabad,Cardiology,Emergency,Female,60,13,401703.0,3.5,Dr. Mehta
+PAT-1949,2026-03-23,2026-04-06,New Delhi,Neurology,Emergency,Female,73,14,255739.25,3.6,Dr. Sharma
+PAT-1950,2026-04-25,2026-05-03,Kolkata,Gastroenterology,Elective,Female,15,8,136690.09,3.9,Dr. Iyer
+PAT-1951,2026-07-16,2026-07-30,Pune,Neurology,Elective,Male,4,14,250744.34,4.5,Dr. Das
+PAT-1952,2026-02-16,2026-02-18,Chennai,Oncology,Urgent,Female,63,2,65085.1,4.8,Dr. Mehta
+PAT-1953,2026-06-02,2026-06-06,Hyderabad,Pediatrics,Urgent,Male,40,4,102255.14,4.2,Dr. Das
+PAT-1954,2026-07-13,2026-07-15,New Delhi,Cardiology,Urgent,Male,9,2,48690.44,4.4,Dr. Rao
+PAT-1955,2026-01-10,2026-01-24,Kolkata,Oncology,Elective,Female,9,14,239879.31,3.8,Dr. Iyer
+PAT-1956,2026-02-25,2026-03-02,Pune,Oncology,Emergency,Male,26,5,139955.6,4.7,Dr. Joshi
+PAT-1957,2026-01-30,2026-02-08,Hyderabad,Gastroenterology,Elective,Female,4,9,291239.93,5.0,Dr. Reddy
+PAT-1958,2026-08-30,2026-08-31,Hyderabad,Cardiology,Elective,Male,81,1,31563.72,3.9,Dr. Iyer
+PAT-1959,2026-04-19,2026-04-24,Bengaluru,Gastroenterology,Emergency,Male,16,5,137605.47,4.2,Dr. Das
+PAT-1960,2026-01-05,2026-01-19,Bengaluru,Cardiology,Urgent,Female,15,14,231078.04,3.6,Dr. Das
+PAT-1961,2026-04-29,2026-05-08,Kolkata,Gastroenterology,Urgent,Female,52,9,155231.46,4.3,Dr. Das
+PAT-1962,2026-02-02,2026-02-03,Pune,Neurology,Elective,Female,69,1,15986.18,4.3,Dr. Kapoor
+PAT-1963,2026-04-28,2026-05-07,Hyderabad,Pediatrics,Emergency,Female,5,9,181346.26,3.7,Dr. Iyer
+PAT-1964,2026-03-06,2026-03-14,Kolkata,Pediatrics,Emergency,Male,20,8,141705.83,4.2,Dr. Mehta
+PAT-1965,2026-05-26,2026-05-30,Kolkata,Cardiology,Urgent,Male,79,4,80803.84,4.0,Dr. Mehta
+PAT-1966,2026-08-12,2026-08-24,Mumbai,Orthopedics,Urgent,Male,18,12,272413.93,4.3,Dr. Kapoor
+PAT-1967,2026-08-27,2026-09-07,Chennai,Oncology,Emergency,Female,2,11,372456.21,4.4,Dr. Mehta
+PAT-1968,2026-06-26,2026-07-06,Bengaluru,Oncology,Emergency,Male,13,10,272075.21,3.5,Dr. Kapoor
+PAT-1969,2026-01-11,2026-01-16,Pune,Cardiology,Urgent,Female,4,5,158497.38,4.6,Dr. Das
+PAT-1970,2026-03-26,2026-04-08,Hyderabad,Gastroenterology,Emergency,Male,42,13,379691.39,4.6,Dr. Sharma
+PAT-1971,2026-01-26,2026-01-31,Kolkata,Orthopedics,Elective,Female,74,5,86250.31,4.0,Dr. Iyer
+PAT-1972,2026-03-04,2026-03-15,Hyderabad,Neurology,Urgent,Male,61,11,326902.49,3.6,Dr. Rao
+PAT-1973,2026-08-05,2026-08-17,Mumbai,Gastroenterology,Emergency,Male,8,12,246023.73,4.6,Dr. Das
+PAT-1974,2026-03-27,2026-04-02,Pune,Gastroenterology,Elective,Female,67,6,166692.94,4.9,Dr. Rao
+PAT-1975,2026-02-28,2026-03-07,Kolkata,Cardiology,Emergency,Male,63,7,152734.68,3.9,Dr. Joshi
+PAT-1976,2026-01-27,2026-02-04,Hyderabad,Cardiology,Emergency,Female,9,8,279627.56,4.0,Dr. Das
+PAT-1977,2026-06-26,2026-07-10,Bengaluru,Oncology,Urgent,Male,11,14,283794.41,3.8,Dr. Reddy
+PAT-1978,2026-07-24,2026-08-01,Chennai,Cardiology,Emergency,Male,42,8,164660.88,4.4,Dr. Mehta
+PAT-1979,2026-06-10,2026-06-21,Mumbai,Cardiology,Urgent,Female,13,11,369747.9,3.7,Dr. Reddy
+PAT-1980,2026-04-08,2026-04-22,Pune,Cardiology,Elective,Female,36,14,216900.43,4.0,Dr. Sharma
+PAT-1981,2026-04-15,2026-04-28,Mumbai,Oncology,Emergency,Male,13,13,376139.14,4.5,Dr. Rao
+PAT-1982,2026-04-09,2026-04-11,Bengaluru,Neurology,Emergency,Male,12,2,59013.06,4.3,Dr. Iyer
+PAT-1983,2026-05-09,2026-05-18,Pune,Neurology,Emergency,Male,37,9,285548.14,4.1,Dr. Das
+PAT-1984,2026-05-29,2026-06-05,Mumbai,Cardiology,Emergency,Male,74,7,241421.5,4.1,Dr. Iyer
+PAT-1985,2026-08-28,2026-09-01,New Delhi,Oncology,Emergency,Male,73,4,138048.15,4.3,Dr. Sharma
+PAT-1986,2026-02-24,2026-02-28,Bengaluru,Neurology,Emergency,Male,52,4,65222.14,3.5,Dr. Sharma
+PAT-1987,2026-01-06,2026-01-17,Bengaluru,Gastroenterology,Elective,Female,71,11,345804.65,3.6,Dr. Mehta
+PAT-1988,2026-08-08,2026-08-16,Bengaluru,Neurology,Elective,Female,2,8,223409.59,4.8,Dr. Sharma
+PAT-1989,2026-07-28,2026-08-01,New Delhi,Neurology,Elective,Female,56,4,111787.37,3.6,Dr. Das
+PAT-1990,2026-07-16,2026-07-29,New Delhi,Oncology,Elective,Male,60,13,228370.98,4.6,Dr. Das
+PAT-1991,2026-04-05,2026-04-11,Hyderabad,Gastroenterology,Emergency,Male,23,6,168022.46,4.9,Dr. Iyer
+PAT-1992,2026-05-13,2026-05-18,Kolkata,Oncology,Emergency,Male,40,5,173248.26,3.9,Dr. Iyer
+PAT-1993,2026-04-12,2026-04-15,Chennai,Cardiology,Elective,Female,64,3,99709.11,4.1,Dr. Rao
+PAT-1994,2026-01-03,2026-01-16,Mumbai,Pediatrics,Elective,Female,23,13,309173.97,4.4,Dr. Das
+PAT-1995,2026-06-30,2026-07-14,Hyderabad,Neurology,Emergency,Male,29,14,221185.43,4.8,Dr. Reddy
+PAT-1996,2026-01-23,2026-02-02,Mumbai,Pediatrics,Urgent,Male,78,10,222458.7,4.9,Dr. Rao
+PAT-1997,2026-08-17,2026-08-28,Chennai,Oncology,Elective,Female,51,11,346805.87,4.6,Dr. Mehta
+PAT-1998,2026-02-22,2026-02-24,Kolkata,Oncology,Elective,Female,69,2,58059.96,3.6,Dr. Rao
+PAT-1999,2026-06-14,2026-06-23,New Delhi,Oncology,Emergency,Female,31,9,217681.86,4.5,Dr. Kapoor
