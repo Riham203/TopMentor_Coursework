@@ -10,7 +10,7 @@ It also includes a standalone Machine Learning pipeline using **TF-IDF and Rando
 
 - **📄 Multi-Format Resume Parsing:** Extract text from PDF and DOCX resume files.
 - **🧠 Semantic Similarity Matching:** Use SBERT (`all-MiniLM-L6-v2`) to calculate contextual similarity between resumes and job descriptions.
-- **🔍 NLP Information Extraction:** Use spaCy Named Entity Recognition (NER) to identify organizations, employment-related dates, and relevant information.
+- **🔍 NLP Information Extraction:** Use spaCy Named Entity Recognition (NER) to identify organizations, employment-related dates, and candidate information.
 - **💡 Skill Extraction:** Identify relevant skills and keyword matches between resumes and job descriptions.
 - **🏆 Candidate Ranking:** Automatically rank candidates based on their resume relevance scores.
 - **📊 Interactive Leaderboard:** Display candidate rankings and matching scores through a Streamlit interface.
@@ -43,7 +43,6 @@ ai_resume_analyst/
 │   └── resume_dataset.csv
 │
 ├── models/
-│   └── resume_classifier.pkl
 │
 ├── sample_data/
 │   ├── jd.txt
@@ -61,6 +60,8 @@ ai_resume_analyst/
 ├── requirements.txt
 └── README.md
 ```
+
+**Note:** The trained model file (`resume_classifier.pkl`) is automatically generated inside the `models/` directory when `train_model.py` is executed. It does not need to be included in the repository beforehand.
 
 ## ⚙️ Installation and Setup
 
@@ -92,8 +93,6 @@ venv\Scripts\activate
 ```
 
 ### 3. Install Dependencies
-
-Install the required Python packages:
 
 ```bash
 pip install -r requirements.txt
@@ -176,6 +175,8 @@ The training pipeline:
 ```text
 models/resume_classifier.pkl
 ```
+
+The model file is generated automatically and does not need to be uploaded manually.
 
 ## 📚 Learning Outcomes
 
