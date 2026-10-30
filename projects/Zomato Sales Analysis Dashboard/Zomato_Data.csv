@@ -1,0 +1,1001 @@
+Order_ID,City,Cuisine,Restaurant_Type,Has_Online_Delivery,Is_Table_Booking,Cost_for_Two,Order_Amount,Delivery_Time_Mins,Rating,Votes
+ZOM10000,Mumbai,Desserts,Casual Dining,Yes,No,500,1155.92,61,3.2,566
+ZOM10001,Chennai,South Indian,Cloud Kitchen,Yes,Yes,200,187.76,49,3.2,2334
+ZOM10002,Hyderabad,Italian,Café,Yes,No,500,667.97,40,4.2,336
+ZOM10003,New Delhi,Street Food,Bakery,Yes,No,350,907.18,30,3.7,3212
+ZOM10004,Bengaluru,Street Food,Bakery,Yes,Yes,500,368.57,22,4.8,1879
+ZOM10005,Bengaluru,Biryani,Casual Dining,No,No,350,1774.22,21,3.0,44
+ZOM10006,Bengaluru,Street Food,Fine Dining,Yes,No,350,471.28,45,3.9,179
+ZOM10007,Pune,Desserts,Café,Yes,Yes,200,338.99,31,4.7,2663
+ZOM10008,New Delhi,Fast Food,Bakery,Yes,No,350,461.94,25,4.7,1157
+ZOM10009,Hyderabad,North Indian,Casual Dining,Yes,No,200,1412.02,26,3.1,919
+ZOM10010,Bengaluru,Desserts,Bakery,Yes,No,200,834.85,52,3.6,2569
+ZOM10011,Chennai,Fast Food,Café,Yes,No,2000,1069.9,54,4.1,1209
+ZOM10012,Pune,Italian,Café,Yes,Yes,350,155.3,38,3.1,3080
+ZOM10013,Bengaluru,Street Food,Quick Service Restaurant (QSR),No,Yes,500,177.84,35,4.8,722
+ZOM10014,Bengaluru,Italian,Cloud Kitchen,Yes,Yes,1000,868.99,50,4.7,3266
+ZOM10015,Bengaluru,Street Food,Cloud Kitchen,Yes,Yes,2000,1491.98,25,3.2,20
+ZOM10016,Mumbai,North Indian,Casual Dining,Yes,No,500,1607.2,34,3.1,1942
+ZOM10017,New Delhi,Chinese,Café,Yes,No,750,265.67,60,3.0,2808
+ZOM10018,Mumbai,North Indian,Quick Service Restaurant (QSR),Yes,No,350,1024.45,48,4.7,3177
+ZOM10019,Mumbai,South Indian,Quick Service Restaurant (QSR),Yes,No,350,1654.23,51,3.2,2387
+ZOM10020,New Delhi,Desserts,Bakery,Yes,Yes,350,771.79,23,3.7,1444
+ZOM10021,Bengaluru,Biryani,Bakery,Yes,No,500,1513.67,39,3.7,401
+ZOM10022,Mumbai,Chinese,Quick Service Restaurant (QSR),Yes,No,500,344.61,31,4.1,1761
+ZOM10023,Mumbai,North Indian,Bakery,Yes,No,350,1691.46,20,3.0,3409
+ZOM10024,New Delhi,Fast Food,Café,Yes,No,200,1382.39,29,3.3,1846
+ZOM10025,Pune,Chinese,Fine Dining,No,No,500,1701.44,53,4.8,1293
+ZOM10026,Bengaluru,Desserts,Café,No,No,200,1256.72,29,4.7,1568
+ZOM10027,New Delhi,Street Food,Quick Service Restaurant (QSR),Yes,No,500,730.52,62,4.4,1598
+ZOM10028,New Delhi,Chinese,Quick Service Restaurant (QSR),Yes,No,500,1696.14,19,2.8,917
+ZOM10029,Bengaluru,Street Food,Café,Yes,No,750,582.95,19,3.5,736
+ZOM10030,New Delhi,Desserts,Bakery,Yes,No,750,678.05,32,4.1,3347
+ZOM10031,Bengaluru,North Indian,Bakery,No,No,1000,1297.36,40,3.4,2374
+ZOM10032,Bengaluru,Desserts,Cloud Kitchen,Yes,No,500,1405.73,46,4.7,3235
+ZOM10033,Kolkata,Chinese,Quick Service Restaurant (QSR),Yes,No,750,1681.4,34,4.1,410
+ZOM10034,Chennai,Fast Food,Casual Dining,Yes,No,500,464.07,49,3.0,1719
+ZOM10035,Pune,Italian,Cloud Kitchen,Yes,No,200,1460.64,24,4.7,3260
+ZOM10036,Mumbai,Chinese,Bakery,Yes,No,200,1360.76,47,4.8,3057
+ZOM10037,Bengaluru,Desserts,Café,No,No,350,227.17,45,3.0,2365
+ZOM10038,Hyderabad,Italian,Bakery,Yes,Yes,350,770.53,31,3.9,252
+ZOM10039,Mumbai,Desserts,Café,Yes,No,500,595.05,61,3.4,1946
+ZOM10040,Bengaluru,Fast Food,Cloud Kitchen,No,No,750,631.54,47,3.6,2338
+ZOM10041,New Delhi,Desserts,Quick Service Restaurant (QSR),Yes,No,200,1771.35,34,3.2,3151
+ZOM10042,Bengaluru,North Indian,Bakery,Yes,Yes,200,1199.87,49,4.0,1339
+ZOM10043,Kolkata,Biryani,Café,Yes,No,1500,1325.7,63,4.8,3326
+ZOM10044,Mumbai,Street Food,Quick Service Restaurant (QSR),Yes,No,200,1760.72,23,3.9,2744
+ZOM10045,Hyderabad,Street Food,Casual Dining,No,No,500,753.7,41,3.0,725
+ZOM10046,Mumbai,Chinese,Café,Yes,No,500,1467.09,23,4.1,253
+ZOM10047,New Delhi,Biryani,Cloud Kitchen,No,No,500,850.01,44,3.5,1411
+ZOM10048,New Delhi,Desserts,Casual Dining,Yes,No,200,1580.82,35,4.6,2912
+ZOM10049,Bengaluru,Fast Food,Casual Dining,No,No,200,423.5,41,3.7,1275
+ZOM10050,Chennai,Chinese,Fine Dining,Yes,Yes,200,1712.11,54,3.2,1916
+ZOM10051,Pune,Desserts,Bakery,Yes,No,500,487.54,41,3.2,2558
+ZOM10052,Kolkata,Italian,Café,Yes,Yes,500,668.05,55,4.4,2570
+ZOM10053,Kolkata,South Indian,Casual Dining,No,No,350,1390.4,51,3.4,909
+ZOM10054,New Delhi,Desserts,Fine Dining,Yes,No,500,781.51,57,4.4,611
+ZOM10055,Kolkata,Biryani,Cloud Kitchen,Yes,Yes,750,1141.8,64,3.2,765
+ZOM10056,Bengaluru,Chinese,Quick Service Restaurant (QSR),Yes,Yes,200,866.88,32,3.5,3472
+ZOM10057,Bengaluru,Biryani,Café,Yes,Yes,500,1367.18,28,3.8,1739
+ZOM10058,Bengaluru,Chinese,Casual Dining,No,No,500,503.6,39,4.8,447
+ZOM10059,Mumbai,Desserts,Bakery,Yes,No,350,218.21,41,4.8,2764
+ZOM10060,Mumbai,North Indian,Fine Dining,Yes,No,350,623.88,18,3.2,2713
+ZOM10061,Mumbai,Italian,Casual Dining,Yes,Yes,500,916.84,35,3.6,751
+ZOM10062,Pune,Desserts,Bakery,Yes,Yes,1000,402.27,61,3.1,819
+ZOM10063,Mumbai,Street Food,Casual Dining,Yes,Yes,750,716.06,29,3.9,2431
+ZOM10064,Mumbai,Biryani,Café,Yes,Yes,500,791.97,60,3.8,221
+ZOM10065,New Delhi,South Indian,Café,Yes,No,750,216.42,45,4.7,2949
+ZOM10066,Bengaluru,South Indian,Café,Yes,No,350,1099.96,57,4.8,2213
+ZOM10067,Pune,Fast Food,Cloud Kitchen,Yes,No,500,1605.7,24,3.6,855
+ZOM10068,Bengaluru,Chinese,Cloud Kitchen,Yes,Yes,500,374.93,40,3.8,2706
+ZOM10069,Chennai,Biryani,Fine Dining,Yes,No,200,1124.32,38,4.7,154
+ZOM10070,Pune,Fast Food,Café,Yes,No,750,1236.76,51,4.5,2693
+ZOM10071,Bengaluru,Biryani,Bakery,Yes,No,500,824.48,28,2.8,1307
+ZOM10072,Bengaluru,Street Food,Casual Dining,No,No,350,1297.84,39,3.5,2131
+ZOM10073,Pune,Chinese,Quick Service Restaurant (QSR),No,Yes,1000,810.03,59,3.7,2558
+ZOM10074,Hyderabad,Desserts,Bakery,Yes,No,200,967.79,52,3.3,60
+ZOM10075,Hyderabad,Desserts,Cloud Kitchen,Yes,No,350,132.35,46,3.2,3387
+ZOM10076,Pune,South Indian,Cloud Kitchen,No,No,200,1282.09,59,2.9,3094
+ZOM10077,Bengaluru,Desserts,Bakery,Yes,No,750,1231.06,45,4.2,932
+ZOM10078,Mumbai,Desserts,Cloud Kitchen,Yes,No,750,184.51,35,3.4,1749
+ZOM10079,Bengaluru,Street Food,Café,Yes,No,350,738.66,31,2.9,994
+ZOM10080,Pune,North Indian,Fine Dining,Yes,No,500,1764.77,35,3.3,1153
+ZOM10081,New Delhi,South Indian,Casual Dining,Yes,No,350,826.84,45,4.5,3312
+ZOM10082,Mumbai,Fast Food,Fine Dining,Yes,No,750,963.27,41,4.6,3461
+ZOM10083,Bengaluru,Italian,Casual Dining,No,No,500,1648.68,25,3.8,2435
+ZOM10084,Mumbai,North Indian,Casual Dining,No,No,350,1325.0,59,3.7,1479
+ZOM10085,Mumbai,Fast Food,Fine Dining,Yes,Yes,1000,1097.88,62,4.9,2985
+ZOM10086,Hyderabad,Chinese,Bakery,Yes,No,350,1460.31,25,3.2,3095
+ZOM10087,New Delhi,North Indian,Casual Dining,Yes,No,200,1572.14,21,3.3,2060
+ZOM10088,Kolkata,Street Food,Fine Dining,Yes,No,500,887.57,44,3.4,263
+ZOM10089,New Delhi,Fast Food,Casual Dining,Yes,No,1500,918.18,53,3.2,2969
+ZOM10090,Bengaluru,Chinese,Quick Service Restaurant (QSR),Yes,No,350,768.57,22,3.6,185
+ZOM10091,Hyderabad,South Indian,Bakery,No,Yes,200,1744.07,50,4.7,1069
+ZOM10092,Hyderabad,Italian,Café,Yes,No,350,1291.24,51,4.1,3486
+ZOM10093,New Delhi,Chinese,Casual Dining,Yes,Yes,500,259.81,47,3.7,1517
+ZOM10094,Pune,Desserts,Quick Service Restaurant (QSR),No,No,200,1569.77,25,4.8,3108
+ZOM10095,New Delhi,Biryani,Café,Yes,Yes,500,927.34,56,2.9,747
+ZOM10096,New Delhi,Chinese,Café,Yes,No,2000,235.51,64,3.2,1135
+ZOM10097,Mumbai,Chinese,Casual Dining,Yes,No,500,1043.52,43,4.0,502
+ZOM10098,Bengaluru,Italian,Fine Dining,Yes,No,350,820.84,54,4.1,2610
+ZOM10099,Bengaluru,Biryani,Casual Dining,Yes,No,350,1594.62,51,2.9,3296
+ZOM10100,Bengaluru,Desserts,Quick Service Restaurant (QSR),Yes,No,200,462.71,24,3.6,2998
+ZOM10101,New Delhi,Fast Food,Café,Yes,No,1000,1508.46,57,4.2,2467
+ZOM10102,Mumbai,Fast Food,Casual Dining,No,No,350,1056.92,45,4.3,1250
+ZOM10103,New Delhi,Chinese,Fine Dining,Yes,Yes,350,211.75,56,4.1,2686
+ZOM10104,Kolkata,Street Food,Casual Dining,Yes,No,500,1752.7,56,3.5,3237
+ZOM10105,Bengaluru,Street Food,Bakery,Yes,Yes,350,981.19,45,3.0,2946
+ZOM10106,Mumbai,Biryani,Fine Dining,Yes,No,500,608.67,31,3.7,2168
+ZOM10107,Hyderabad,Biryani,Quick Service Restaurant (QSR),Yes,No,200,908.6,55,3.1,899
+ZOM10108,Bengaluru,Desserts,Café,Yes,No,750,1561.2,21,4.8,849
+ZOM10109,Bengaluru,Italian,Casual Dining,Yes,No,1000,632.24,59,3.8,3332
+ZOM10110,Mumbai,South Indian,Fine Dining,Yes,No,500,443.7,35,3.5,2044
+ZOM10111,Bengaluru,Fast Food,Bakery,Yes,Yes,1500,336.84,61,4.4,778
+ZOM10112,Kolkata,Italian,Fine Dining,Yes,No,200,620.4,42,3.8,182
+ZOM10113,Pune,North Indian,Cloud Kitchen,Yes,No,500,1430.48,24,3.5,1216
+ZOM10114,New Delhi,Fast Food,Bakery,No,No,500,912.33,55,4.5,2569
+ZOM10115,Kolkata,Italian,Quick Service Restaurant (QSR),Yes,No,500,502.17,45,4.6,2614
+ZOM10116,Pune,Fast Food,Café,Yes,No,350,399.19,22,4.2,1327
+ZOM10117,Bengaluru,South Indian,Quick Service Restaurant (QSR),Yes,No,350,678.99,20,2.9,3450
+ZOM10118,Kolkata,North Indian,Casual Dining,Yes,No,200,1699.07,61,4.0,2448
+ZOM10119,New Delhi,Street Food,Fine Dining,Yes,No,350,696.28,48,4.4,2937
+ZOM10120,Pune,Street Food,Cloud Kitchen,Yes,No,200,1780.05,64,3.1,2972
+ZOM10121,Kolkata,South Indian,Bakery,Yes,Yes,750,935.19,59,3.3,2015
+ZOM10122,Mumbai,Desserts,Bakery,Yes,No,350,421.0,37,4.7,1954
+ZOM10123,Bengaluru,North Indian,Fine Dining,Yes,No,200,1617.12,36,2.8,1576
+ZOM10124,Bengaluru,Chinese,Cloud Kitchen,Yes,No,500,893.4,28,4.4,3254
+ZOM10125,Mumbai,Italian,Fine Dining,Yes,Yes,500,1312.25,57,3.8,3069
+ZOM10126,Pune,North Indian,Casual Dining,No,No,1000,1772.64,20,3.7,2676
+ZOM10127,Pune,Desserts,Quick Service Restaurant (QSR),Yes,No,500,204.29,40,2.8,326
+ZOM10128,Bengaluru,Desserts,Bakery,Yes,No,350,282.45,24,4.5,1382
+ZOM10129,New Delhi,South Indian,Casual Dining,Yes,No,750,1330.37,40,3.6,2122
+ZOM10130,Mumbai,Fast Food,Quick Service Restaurant (QSR),Yes,Yes,500,593.47,24,3.9,3050
+ZOM10131,Bengaluru,North Indian,Casual Dining,Yes,No,200,429.63,63,4.2,352
+ZOM10132,Bengaluru,Italian,Cloud Kitchen,Yes,No,500,186.13,51,4.3,2194
+ZOM10133,Mumbai,North Indian,Bakery,Yes,No,1000,156.7,59,4.8,2772
+ZOM10134,Kolkata,Biryani,Fine Dining,Yes,No,350,1421.14,36,3.9,262
+ZOM10135,Mumbai,Fast Food,Fine Dining,Yes,Yes,350,345.85,26,3.6,1904
+ZOM10136,New Delhi,Italian,Quick Service Restaurant (QSR),Yes,No,200,905.77,35,4.8,2667
+ZOM10137,Hyderabad,Street Food,Café,Yes,Yes,200,1137.91,58,4.1,1452
+ZOM10138,Mumbai,Italian,Cloud Kitchen,Yes,No,350,839.63,62,3.4,2570
+ZOM10139,Chennai,Chinese,Quick Service Restaurant (QSR),Yes,No,500,165.54,59,3.1,2671
+ZOM10140,Chennai,South Indian,Café,Yes,No,200,1436.28,42,4.6,322
+ZOM10141,Mumbai,Chinese,Casual Dining,Yes,No,1000,137.66,31,3.6,254
+ZOM10142,New Delhi,Italian,Cloud Kitchen,Yes,No,750,1399.98,61,4.2,3129
+ZOM10143,Mumbai,Fast Food,Casual Dining,Yes,No,500,1620.75,42,3.8,2206
+ZOM10144,Mumbai,North Indian,Bakery,No,No,750,847.17,36,3.2,214
+ZOM10145,Bengaluru,Street Food,Cloud Kitchen,Yes,No,200,1019.71,56,4.1,1570
+ZOM10146,New Delhi,North Indian,Café,Yes,No,500,921.33,32,2.9,1812
+ZOM10147,New Delhi,Fast Food,Bakery,Yes,Yes,500,773.87,33,3.7,666
+ZOM10148,Bengaluru,Italian,Fine Dining,Yes,No,750,1610.87,44,3.9,2068
+ZOM10149,Mumbai,Desserts,Café,Yes,No,750,1621.81,57,3.7,580
+ZOM10150,Kolkata,North Indian,Quick Service Restaurant (QSR),Yes,No,350,684.17,27,4.4,1139
+ZOM10151,Bengaluru,Desserts,Fine Dining,No,No,1000,1153.32,21,4.5,732
+ZOM10152,Bengaluru,North Indian,Fine Dining,Yes,No,200,1677.2,36,4.4,432
+ZOM10153,New Delhi,North Indian,Quick Service Restaurant (QSR),Yes,Yes,1000,1736.26,45,2.9,557
+ZOM10154,Chennai,Street Food,Cloud Kitchen,No,No,1500,975.05,38,3.2,1898
+ZOM10155,Bengaluru,South Indian,Fine Dining,Yes,No,200,880.75,64,3.9,2496
+ZOM10156,Hyderabad,South Indian,Café,Yes,No,750,588.21,31,4.8,254
+ZOM10157,Hyderabad,Biryani,Bakery,Yes,Yes,200,1730.9,50,4.6,2416
+ZOM10158,Bengaluru,Chinese,Fine Dining,Yes,No,350,359.93,27,4.6,1799
+ZOM10159,Hyderabad,Fast Food,Café,Yes,No,500,1094.11,36,3.4,1913
+ZOM10160,Mumbai,Fast Food,Casual Dining,No,No,500,594.68,47,3.7,1524
+ZOM10161,New Delhi,Fast Food,Café,Yes,Yes,1000,588.73,39,3.8,1882
+ZOM10162,New Delhi,Biryani,Bakery,Yes,No,500,800.35,20,3.1,2463
+ZOM10163,New Delhi,South Indian,Café,Yes,No,500,1797.97,54,2.9,1394
+ZOM10164,Bengaluru,Italian,Quick Service Restaurant (QSR),Yes,No,750,212.34,58,4.8,435
+ZOM10165,Pune,Desserts,Bakery,No,No,1500,1091.95,35,3.3,1929
+ZOM10166,Mumbai,Street Food,Cloud Kitchen,Yes,No,200,258.72,28,3.3,935
+ZOM10167,Bengaluru,Desserts,Casual Dining,Yes,No,2000,379.59,19,3.0,3142
+ZOM10168,Bengaluru,Italian,Quick Service Restaurant (QSR),Yes,Yes,200,858.47,29,4.7,100
+ZOM10169,New Delhi,Street Food,Cloud Kitchen,Yes,No,750,977.57,23,4.0,2103
+ZOM10170,Hyderabad,Biryani,Café,Yes,No,350,554.77,60,4.2,1110
+ZOM10171,Bengaluru,Italian,Bakery,Yes,No,200,651.65,57,4.7,2708
+ZOM10172,New Delhi,Fast Food,Casual Dining,Yes,Yes,350,266.1,61,3.5,2949
+ZOM10173,Bengaluru,Chinese,Quick Service Restaurant (QSR),Yes,Yes,500,629.41,46,4.1,1710
+ZOM10174,New Delhi,North Indian,Cloud Kitchen,Yes,No,350,1743.82,47,2.9,776
+ZOM10175,Bengaluru,Desserts,Cloud Kitchen,Yes,No,200,1707.11,19,3.2,2690
+ZOM10176,Hyderabad,South Indian,Casual Dining,Yes,No,500,682.6,26,4.5,487
+ZOM10177,Mumbai,South Indian,Café,Yes,No,1000,1079.03,64,4.4,1185
+ZOM10178,Kolkata,Biryani,Casual Dining,Yes,No,350,1648.12,19,3.5,2423
+ZOM10179,Bengaluru,Street Food,Cloud Kitchen,Yes,No,350,130.39,46,3.6,2776
+ZOM10180,Mumbai,South Indian,Fine Dining,Yes,No,350,1481.95,50,3.9,1514
+ZOM10181,Bengaluru,Fast Food,Quick Service Restaurant (QSR),Yes,No,200,1713.26,27,2.8,1664
+ZOM10182,Kolkata,Desserts,Casual Dining,Yes,No,750,273.43,51,3.3,1039
+ZOM10183,Kolkata,Italian,Cloud Kitchen,Yes,Yes,750,391.23,61,3.2,1634
+ZOM10184,Mumbai,Fast Food,Café,No,No,500,1734.05,25,3.3,921
+ZOM10185,Hyderabad,Biryani,Cloud Kitchen,Yes,No,350,1023.07,54,4.5,692
+ZOM10186,Pune,Fast Food,Café,Yes,No,750,143.85,50,3.4,458
+ZOM10187,New Delhi,Italian,Casual Dining,Yes,No,500,552.82,64,3.2,2598
+ZOM10188,New Delhi,Chinese,Café,Yes,No,750,875.91,23,3.9,146
+ZOM10189,Bengaluru,Biryani,Bakery,Yes,No,500,1284.09,61,4.6,2272
+ZOM10190,Bengaluru,Chinese,Bakery,Yes,No,750,1351.71,57,3.3,2096
+ZOM10191,Kolkata,North Indian,Bakery,No,No,500,1792.31,62,3.0,464
+ZOM10192,Kolkata,Chinese,Fine Dining,Yes,No,350,603.02,36,3.5,985
+ZOM10193,New Delhi,North Indian,Casual Dining,No,No,1500,1024.21,49,4.4,483
+ZOM10194,Mumbai,North Indian,Cloud Kitchen,Yes,Yes,500,1015.98,44,4.0,3371
+ZOM10195,Mumbai,Chinese,Cloud Kitchen,Yes,Yes,500,801.48,18,4.5,2218
+ZOM10196,Hyderabad,Biryani,Fine Dining,No,No,350,404.19,60,4.8,2307
+ZOM10197,Kolkata,Street Food,Café,Yes,No,500,1762.13,50,4.5,2333
+ZOM10198,Kolkata,Italian,Fine Dining,Yes,No,500,1553.57,57,4.1,3196
+ZOM10199,Pune,Fast Food,Café,Yes,No,200,957.2,49,3.8,932
+ZOM10200,New Delhi,Fast Food,Café,Yes,No,200,1133.45,22,2.9,516
+ZOM10201,Bengaluru,Italian,Quick Service Restaurant (QSR),Yes,No,500,501.8,34,4.9,1483
+ZOM10202,Bengaluru,Desserts,Cloud Kitchen,Yes,No,750,1033.56,25,3.6,1791
+ZOM10203,Kolkata,Desserts,Bakery,Yes,No,500,1287.55,59,3.1,2752
+ZOM10204,New Delhi,North Indian,Café,Yes,No,350,985.48,51,4.2,177
+ZOM10205,Bengaluru,North Indian,Quick Service Restaurant (QSR),Yes,No,500,1783.68,26,3.4,191
+ZOM10206,Bengaluru,Biryani,Cloud Kitchen,Yes,No,200,1147.05,40,4.0,513
+ZOM10207,Hyderabad,South Indian,Bakery,Yes,No,350,743.24,52,4.0,989
+ZOM10208,Bengaluru,Chinese,Café,Yes,Yes,200,1417.22,24,3.7,1354
+ZOM10209,Bengaluru,North Indian,Café,Yes,No,200,406.38,32,4.6,1446
+ZOM10210,New Delhi,Fast Food,Fine Dining,Yes,No,350,765.99,37,3.4,1712
+ZOM10211,Hyderabad,Biryani,Fine Dining,Yes,No,350,702.89,42,3.7,1813
+ZOM10212,Hyderabad,Chinese,Cloud Kitchen,Yes,No,200,845.44,20,3.9,2743
+ZOM10213,Bengaluru,Biryani,Bakery,Yes,No,350,1433.39,63,4.2,678
+ZOM10214,Hyderabad,Chinese,Café,Yes,No,500,933.41,41,4.4,2970
+ZOM10215,Bengaluru,Chinese,Cloud Kitchen,Yes,No,500,1453.94,51,3.6,685
+ZOM10216,Mumbai,Italian,Cloud Kitchen,Yes,No,350,1088.5,63,4.2,386
+ZOM10217,Hyderabad,North Indian,Casual Dining,Yes,Yes,750,694.68,39,3.1,569
+ZOM10218,New Delhi,Street Food,Fine Dining,Yes,Yes,200,1480.76,28,4.8,662
+ZOM10219,Pune,Biryani,Bakery,Yes,No,500,520.33,25,3.6,1913
+ZOM10220,Hyderabad,Street Food,Café,Yes,No,200,496.96,56,4.3,274
+ZOM10221,New Delhi,Biryani,Cloud Kitchen,No,No,200,967.56,60,2.8,227
+ZOM10222,Bengaluru,Italian,Café,No,Yes,500,558.23,52,3.2,2517
+ZOM10223,Mumbai,Fast Food,Casual Dining,Yes,No,500,135.27,63,3.8,114
+ZOM10224,Mumbai,Street Food,Bakery,Yes,Yes,1000,1209.14,55,4.6,1903
+ZOM10225,Bengaluru,Fast Food,Cloud Kitchen,Yes,No,500,978.64,25,3.9,2906
+ZOM10226,Chennai,Desserts,Café,Yes,No,1500,868.47,54,4.8,497
+ZOM10227,Mumbai,North Indian,Fine Dining,Yes,No,200,1744.51,44,3.8,2750
+ZOM10228,Kolkata,North Indian,Casual Dining,Yes,Yes,200,1079.61,45,3.8,781
+ZOM10229,New Delhi,South Indian,Bakery,Yes,No,200,1570.57,57,3.1,209
+ZOM10230,Pune,Italian,Casual Dining,Yes,No,200,354.28,51,4.5,2778
+ZOM10231,New Delhi,Fast Food,Fine Dining,Yes,No,500,1076.27,49,3.3,1527
+ZOM10232,New Delhi,Chinese,Bakery,Yes,No,500,1578.21,32,4.7,1776
+ZOM10233,New Delhi,Biryani,Casual Dining,Yes,No,200,1099.62,61,4.7,1579
+ZOM10234,Bengaluru,North Indian,Quick Service Restaurant (QSR),No,No,1000,1326.26,34,4.8,775
+ZOM10235,Hyderabad,Street Food,Fine Dining,Yes,No,750,745.03,50,3.9,1466
+ZOM10236,Mumbai,Biryani,Fine Dining,Yes,No,350,275.32,64,4.2,855
+ZOM10237,Bengaluru,Biryani,Fine Dining,Yes,No,200,889.27,63,4.4,1683
+ZOM10238,New Delhi,South Indian,Quick Service Restaurant (QSR),Yes,No,200,782.73,33,3.1,1648
+ZOM10239,Bengaluru,Fast Food,Quick Service Restaurant (QSR),Yes,No,200,1576.66,46,4.1,1855
+ZOM10240,Kolkata,North Indian,Café,Yes,Yes,200,529.91,26,2.9,152
+ZOM10241,Chennai,Biryani,Cloud Kitchen,Yes,Yes,500,1744.11,50,3.8,74
+ZOM10242,Kolkata,North Indian,Casual Dining,Yes,No,350,1729.67,46,3.1,529
+ZOM10243,Mumbai,Chinese,Café,Yes,No,350,536.02,30,3.2,689
+ZOM10244,Bengaluru,South Indian,Casual Dining,Yes,No,2000,704.73,38,3.6,2477
+ZOM10245,Kolkata,Chinese,Cloud Kitchen,Yes,No,500,1624.53,38,3.7,3302
+ZOM10246,Mumbai,North Indian,Quick Service Restaurant (QSR),Yes,No,1000,1743.93,22,4.1,1709
+ZOM10247,Chennai,Desserts,Cloud Kitchen,Yes,No,200,864.98,27,3.0,1336
+ZOM10248,Chennai,Street Food,Quick Service Restaurant (QSR),No,No,350,659.28,23,3.9,3054
+ZOM10249,Pune,North Indian,Cloud Kitchen,Yes,Yes,500,1003.84,30,3.2,753
+ZOM10250,Mumbai,Fast Food,Café,Yes,No,200,1275.45,18,4.0,3206
+ZOM10251,Mumbai,Biryani,Bakery,Yes,Yes,200,579.44,37,4.1,1713
+ZOM10252,Pune,Biryani,Café,Yes,Yes,500,1357.27,64,4.0,278
+ZOM10253,Mumbai,Chinese,Casual Dining,Yes,No,500,206.78,63,4.4,1165
+ZOM10254,Bengaluru,Street Food,Café,Yes,No,350,202.81,25,3.5,318
+ZOM10255,New Delhi,South Indian,Fine Dining,No,No,500,768.96,27,4.4,3472
+ZOM10256,Kolkata,Desserts,Casual Dining,Yes,No,350,713.83,26,3.7,580
+ZOM10257,Hyderabad,Italian,Cloud Kitchen,Yes,No,200,650.26,58,3.8,1932
+ZOM10258,New Delhi,Street Food,Casual Dining,Yes,No,350,944.91,20,4.2,1884
+ZOM10259,Bengaluru,Biryani,Bakery,Yes,Yes,200,658.83,28,2.8,316
+ZOM10260,New Delhi,Fast Food,Quick Service Restaurant (QSR),Yes,No,200,442.99,29,4.2,2429
+ZOM10261,Chennai,Street Food,Cloud Kitchen,Yes,No,1500,639.91,27,4.1,2656
+ZOM10262,Bengaluru,Chinese,Casual Dining,Yes,No,500,1757.84,42,3.5,1481
+ZOM10263,New Delhi,Chinese,Cloud Kitchen,Yes,Yes,750,810.67,42,3.0,2194
+ZOM10264,Kolkata,Italian,Cloud Kitchen,Yes,No,350,867.12,28,3.0,216
+ZOM10265,Hyderabad,Fast Food,Cloud Kitchen,No,No,350,1088.6,53,4.7,2288
+ZOM10266,Hyderabad,South Indian,Quick Service Restaurant (QSR),Yes,No,350,1772.01,56,4.2,1014
+ZOM10267,Hyderabad,Street Food,Café,No,No,200,525.89,43,3.1,2158
+ZOM10268,Mumbai,Fast Food,Cloud Kitchen,Yes,No,200,1264.55,31,3.5,2478
+ZOM10269,Mumbai,South Indian,Fine Dining,No,No,750,1322.85,56,4.0,27
+ZOM10270,Pune,Fast Food,Bakery,Yes,No,500,1140.31,57,4.6,2611
+ZOM10271,Pune,Fast Food,Quick Service Restaurant (QSR),Yes,No,500,268.81,18,2.9,2535
+ZOM10272,Pune,North Indian,Casual Dining,No,No,500,1257.15,21,3.3,339
+ZOM10273,Kolkata,Chinese,Quick Service Restaurant (QSR),Yes,No,1000,227.68,47,4.7,1437
+ZOM10274,New Delhi,Street Food,Casual Dining,No,No,200,1121.52,29,2.8,2336
+ZOM10275,New Delhi,Fast Food,Quick Service Restaurant (QSR),Yes,No,350,1362.5,52,3.2,3282
+ZOM10276,Pune,Street Food,Casual Dining,Yes,No,350,474.43,30,4.8,1718
+ZOM10277,New Delhi,Italian,Cloud Kitchen,Yes,No,750,1533.92,48,4.1,2128
+ZOM10278,Hyderabad,Fast Food,Café,Yes,No,2000,170.99,55,3.3,1481
+ZOM10279,Pune,Biryani,Casual Dining,Yes,No,350,1537.61,60,2.9,1307
+ZOM10280,Kolkata,Chinese,Casual Dining,Yes,No,1000,893.35,40,2.9,2864
+ZOM10281,Mumbai,Biryani,Fine Dining,Yes,No,750,485.55,21,3.3,1138
+ZOM10282,Mumbai,Street Food,Casual Dining,Yes,No,350,344.75,33,4.7,572
+ZOM10283,Bengaluru,Street Food,Fine Dining,Yes,No,350,1721.56,24,3.7,2993
+ZOM10284,New Delhi,Chinese,Bakery,Yes,No,350,242.08,39,4.3,680
+ZOM10285,Bengaluru,Street Food,Cloud Kitchen,Yes,No,1500,454.48,46,4.7,735
+ZOM10286,New Delhi,Biryani,Fine Dining,Yes,No,200,704.34,28,3.7,2846
+ZOM10287,New Delhi,Fast Food,Café,Yes,No,750,1161.99,50,3.2,2261
+ZOM10288,Mumbai,Fast Food,Cloud Kitchen,Yes,No,350,1035.27,46,3.9,2549
+ZOM10289,New Delhi,North Indian,Fine Dining,Yes,Yes,750,331.08,56,4.7,3427
+ZOM10290,Bengaluru,Italian,Cloud Kitchen,Yes,No,350,606.74,29,4.5,1478
+ZOM10291,Bengaluru,Street Food,Cloud Kitchen,No,No,500,521.1,24,2.9,3287
+ZOM10292,Pune,Biryani,Cloud Kitchen,Yes,No,750,478.75,56,4.3,874
+ZOM10293,Mumbai,Street Food,Bakery,Yes,No,750,810.72,59,4.0,3340
+ZOM10294,Bengaluru,Street Food,Café,Yes,No,1000,1302.77,43,4.7,2565
+ZOM10295,New Delhi,South Indian,Quick Service Restaurant (QSR),Yes,Yes,200,485.32,57,3.1,2279
+ZOM10296,Hyderabad,North Indian,Quick Service Restaurant (QSR),Yes,No,500,736.02,26,3.9,684
+ZOM10297,Bengaluru,Biryani,Fine Dining,Yes,No,200,776.74,58,4.6,2737
+ZOM10298,New Delhi,Biryani,Cloud Kitchen,Yes,No,350,1760.45,51,3.7,1917
+ZOM10299,Bengaluru,Street Food,Fine Dining,Yes,No,500,1723.84,62,3.8,1694
+ZOM10300,Bengaluru,North Indian,Bakery,No,No,350,1464.23,30,2.9,2288
+ZOM10301,New Delhi,Fast Food,Bakery,No,Yes,500,525.99,53,3.4,292
+ZOM10302,New Delhi,Biryani,Casual Dining,Yes,No,2000,234.3,42,3.5,1197
+ZOM10303,New Delhi,Fast Food,Bakery,Yes,No,200,652.4,41,4.8,1292
+ZOM10304,Hyderabad,North Indian,Casual Dining,Yes,Yes,500,568.21,61,3.4,298
+ZOM10305,Chennai,Fast Food,Café,Yes,No,350,969.96,34,3.8,835
+ZOM10306,New Delhi,Chinese,Fine Dining,Yes,No,200,1426.58,19,4.2,295
+ZOM10307,Mumbai,South Indian,Café,Yes,No,200,1561.98,30,3.1,1024
+ZOM10308,Pune,Desserts,Bakery,Yes,No,1000,1539.37,48,3.8,2581
+ZOM10309,Mumbai,Biryani,Café,Yes,Yes,1000,724.25,46,4.4,3179
+ZOM10310,Mumbai,Italian,Café,Yes,Yes,1000,1274.55,45,4.6,942
+ZOM10311,Bengaluru,South Indian,Café,No,No,2000,645.56,44,4.1,661
+ZOM10312,Bengaluru,Desserts,Bakery,No,No,350,222.32,32,4.2,524
+ZOM10313,Chennai,Fast Food,Cloud Kitchen,Yes,No,350,1298.63,48,3.1,2657
+ZOM10314,Pune,Biryani,Café,Yes,No,500,136.51,57,4.8,791
+ZOM10315,Hyderabad,Fast Food,Casual Dining,No,No,500,807.43,32,3.1,1284
+ZOM10316,Mumbai,Chinese,Bakery,Yes,No,350,673.36,50,4.4,2807
+ZOM10317,Bengaluru,North Indian,Café,Yes,No,350,1284.87,37,3.4,2742
+ZOM10318,Bengaluru,Biryani,Cloud Kitchen,Yes,No,500,1407.29,59,4.8,1279
+ZOM10319,Mumbai,Desserts,Bakery,Yes,No,500,630.88,29,4.3,1033
+ZOM10320,New Delhi,Desserts,Quick Service Restaurant (QSR),Yes,Yes,200,1483.53,54,4.4,147
+ZOM10321,Hyderabad,Chinese,Cloud Kitchen,No,No,500,613.78,26,3.3,2570
+ZOM10322,Hyderabad,Chinese,Casual Dining,No,No,500,869.83,40,3.7,1243
+ZOM10323,Mumbai,Street Food,Café,Yes,No,500,1341.39,25,4.1,2969
+ZOM10324,Chennai,Biryani,Quick Service Restaurant (QSR),Yes,No,350,1284.11,49,4.4,2610
+ZOM10325,Hyderabad,Fast Food,Quick Service Restaurant (QSR),No,No,750,1778.78,31,3.0,1545
+ZOM10326,New Delhi,Italian,Bakery,Yes,No,200,498.27,44,4.8,1693
+ZOM10327,New Delhi,Desserts,Quick Service Restaurant (QSR),No,Yes,350,1232.69,42,4.7,511
+ZOM10328,Mumbai,Desserts,Casual Dining,Yes,Yes,750,1144.27,30,3.4,3112
+ZOM10329,Bengaluru,Chinese,Casual Dining,Yes,No,500,1657.37,38,4.5,1277
+ZOM10330,Mumbai,South Indian,Fine Dining,Yes,Yes,350,382.69,62,3.9,2781
+ZOM10331,Hyderabad,Chinese,Casual Dining,Yes,No,500,1383.02,48,3.8,2858
+ZOM10332,Bengaluru,Italian,Cloud Kitchen,Yes,No,500,1074.69,54,3.5,1686
+ZOM10333,Bengaluru,Fast Food,Quick Service Restaurant (QSR),Yes,No,750,581.44,60,4.0,435
+ZOM10334,Bengaluru,Fast Food,Casual Dining,Yes,No,750,917.05,22,4.3,2215
+ZOM10335,Bengaluru,South Indian,Bakery,Yes,No,500,680.74,30,3.7,989
+ZOM10336,Pune,Desserts,Fine Dining,Yes,No,500,1093.25,45,4.1,2096
+ZOM10337,Hyderabad,Chinese,Quick Service Restaurant (QSR),No,No,200,1613.52,60,4.3,1404
+ZOM10338,New Delhi,Street Food,Fine Dining,No,Yes,350,1076.43,42,4.3,327
+ZOM10339,Bengaluru,Fast Food,Quick Service Restaurant (QSR),Yes,No,350,1181.29,52,2.9,2229
+ZOM10340,New Delhi,Italian,Bakery,Yes,No,500,991.5,64,4.6,2936
+ZOM10341,New Delhi,Biryani,Fine Dining,Yes,No,500,205.96,56,3.8,2919
+ZOM10342,Bengaluru,North Indian,Café,Yes,No,350,511.2,24,3.4,80
+ZOM10343,Mumbai,North Indian,Cloud Kitchen,No,Yes,200,946.56,55,3.3,2192
+ZOM10344,Mumbai,North Indian,Cloud Kitchen,Yes,No,500,641.2,49,3.8,1499
+ZOM10345,New Delhi,Street Food,Quick Service Restaurant (QSR),Yes,No,350,425.36,20,4.7,3162
+ZOM10346,New Delhi,Desserts,Café,No,No,750,966.94,62,3.6,2905
+ZOM10347,Bengaluru,Chinese,Fine Dining,Yes,No,200,662.32,56,4.4,1950
+ZOM10348,Mumbai,South Indian,Café,Yes,No,500,553.62,54,3.0,2533
+ZOM10349,New Delhi,Street Food,Café,No,Yes,1000,899.5,39,3.8,2310
+ZOM10350,New Delhi,Street Food,Fine Dining,Yes,No,200,343.92,25,4.9,1533
+ZOM10351,Pune,Fast Food,Bakery,No,Yes,500,1678.61,34,4.4,3312
+ZOM10352,Hyderabad,Biryani,Café,Yes,No,200,1577.74,44,3.2,492
+ZOM10353,Bengaluru,Street Food,Café,Yes,No,500,1308.8,50,3.9,978
+ZOM10354,Bengaluru,Italian,Bakery,Yes,No,500,298.44,63,3.3,552
+ZOM10355,New Delhi,Biryani,Café,No,No,350,1423.47,34,3.7,513
+ZOM10356,Bengaluru,Italian,Café,Yes,Yes,500,1477.37,59,4.4,2966
+ZOM10357,New Delhi,Desserts,Café,Yes,No,1000,1409.84,29,4.4,101
+ZOM10358,Kolkata,Chinese,Cloud Kitchen,Yes,Yes,200,311.46,63,3.3,2923
+ZOM10359,New Delhi,North Indian,Casual Dining,Yes,No,200,1201.77,44,4.7,898
+ZOM10360,Mumbai,Street Food,Bakery,Yes,No,1000,1521.67,25,4.0,1565
+ZOM10361,New Delhi,Chinese,Café,Yes,No,500,1089.95,40,3.6,2990
+ZOM10362,New Delhi,Desserts,Cloud Kitchen,Yes,No,1000,1205.96,59,3.9,31
+ZOM10363,New Delhi,South Indian,Bakery,Yes,Yes,500,890.05,46,4.1,1306
+ZOM10364,Kolkata,South Indian,Quick Service Restaurant (QSR),Yes,Yes,750,1008.23,37,4.0,468
+ZOM10365,Mumbai,Desserts,Quick Service Restaurant (QSR),Yes,Yes,350,177.75,33,3.8,3283
+ZOM10366,Chennai,Italian,Café,Yes,No,750,1193.46,34,3.9,781
+ZOM10367,Kolkata,Fast Food,Cloud Kitchen,No,No,1000,256.83,33,3.2,3205
+ZOM10368,Bengaluru,Fast Food,Cloud Kitchen,Yes,No,500,850.82,36,4.5,45
+ZOM10369,Bengaluru,Italian,Bakery,No,No,200,611.66,25,3.9,1826
+ZOM10370,Bengaluru,South Indian,Bakery,Yes,No,350,1036.32,55,3.1,2575
+ZOM10371,Bengaluru,South Indian,Cloud Kitchen,Yes,No,200,344.14,55,4.4,1588
+ZOM10372,Bengaluru,Street Food,Bakery,Yes,No,350,1281.96,46,4.8,81
+ZOM10373,Hyderabad,South Indian,Cloud Kitchen,Yes,No,350,1455.62,58,4.8,248
+ZOM10374,Bengaluru,Chinese,Casual Dining,Yes,No,500,394.44,53,3.6,1858
+ZOM10375,Mumbai,South Indian,Cloud Kitchen,Yes,Yes,500,295.25,43,3.1,626
+ZOM10376,Pune,Biryani,Quick Service Restaurant (QSR),Yes,No,350,364.47,48,3.9,1078
+ZOM10377,Bengaluru,Street Food,Bakery,Yes,No,500,1593.57,61,3.0,1748
+ZOM10378,Pune,North Indian,Cloud Kitchen,Yes,No,200,1007.36,29,4.8,1499
+ZOM10379,Mumbai,South Indian,Cloud Kitchen,Yes,Yes,200,905.0,34,3.2,2958
+ZOM10380,Bengaluru,Italian,Bakery,Yes,No,200,299.28,32,3.3,1545
+ZOM10381,Hyderabad,North Indian,Casual Dining,Yes,No,500,1211.25,26,3.7,780
+ZOM10382,New Delhi,Chinese,Casual Dining,Yes,Yes,350,1578.24,56,3.6,614
+ZOM10383,Kolkata,Italian,Bakery,Yes,No,350,1511.35,59,4.5,3116
+ZOM10384,Hyderabad,North Indian,Fine Dining,Yes,No,350,1171.77,29,3.8,1612
+ZOM10385,Pune,Italian,Bakery,Yes,Yes,750,246.47,49,3.2,1075
+ZOM10386,Mumbai,Chinese,Bakery,Yes,Yes,200,308.83,42,3.4,1874
+ZOM10387,Bengaluru,Street Food,Casual Dining,Yes,No,500,202.84,56,3.9,3103
+ZOM10388,Hyderabad,Biryani,Casual Dining,Yes,No,500,552.57,35,3.1,3410
+ZOM10389,Pune,Chinese,Bakery,Yes,No,750,347.91,32,4.1,2068
+ZOM10390,Chennai,Chinese,Bakery,Yes,No,1000,556.88,49,4.0,1478
+ZOM10391,Mumbai,Italian,Bakery,Yes,Yes,200,766.9,23,4.3,1881
+ZOM10392,Mumbai,Street Food,Casual Dining,Yes,No,200,1704.21,61,4.8,1179
+ZOM10393,Pune,Desserts,Bakery,No,No,1000,1145.43,60,4.7,1239
+ZOM10394,Mumbai,Fast Food,Bakery,Yes,Yes,500,1522.76,52,4.8,152
+ZOM10395,Kolkata,South Indian,Café,No,No,500,1313.39,51,3.3,105
+ZOM10396,Pune,South Indian,Fine Dining,Yes,No,500,309.01,55,3.1,1519
+ZOM10397,Mumbai,Biryani,Quick Service Restaurant (QSR),Yes,No,500,1356.35,22,3.4,1850
+ZOM10398,Hyderabad,Biryani,Fine Dining,Yes,Yes,1000,582.17,35,4.7,3415
+ZOM10399,Hyderabad,South Indian,Café,Yes,No,2000,1193.7,33,4.8,1223
+ZOM10400,Bengaluru,Fast Food,Quick Service Restaurant (QSR),Yes,No,750,692.82,25,4.6,2583
+ZOM10401,Kolkata,South Indian,Bakery,Yes,No,350,1796.09,42,3.0,194
+ZOM10402,New Delhi,Desserts,Café,Yes,Yes,1000,562.77,49,4.8,2830
+ZOM10403,Pune,Fast Food,Bakery,Yes,No,200,588.94,43,3.7,3112
+ZOM10404,Mumbai,Biryani,Casual Dining,Yes,No,350,1683.53,39,2.8,3064
+ZOM10405,Kolkata,North Indian,Cloud Kitchen,Yes,No,1000,161.4,48,3.7,1995
+ZOM10406,Mumbai,Italian,Café,Yes,No,350,1290.44,60,2.9,3196
+ZOM10407,Bengaluru,Desserts,Casual Dining,Yes,No,350,1338.55,27,3.9,597
+ZOM10408,Kolkata,Desserts,Café,Yes,No,200,1525.12,29,3.5,1818
+ZOM10409,Bengaluru,Street Food,Café,No,No,1000,1757.06,45,3.8,2116
+ZOM10410,Mumbai,Biryani,Casual Dining,Yes,No,500,1759.01,23,4.1,2595
+ZOM10411,Chennai,Biryani,Quick Service Restaurant (QSR),No,No,500,229.66,37,4.6,164
+ZOM10412,Chennai,Chinese,Fine Dining,Yes,No,350,1500.69,22,4.2,3431
+ZOM10413,New Delhi,Desserts,Bakery,Yes,No,750,1205.8,40,3.7,781
+ZOM10414,New Delhi,Chinese,Café,Yes,No,750,1207.53,26,4.5,1397
+ZOM10415,Mumbai,Chinese,Bakery,Yes,No,350,335.63,46,4.7,3166
+ZOM10416,Mumbai,Italian,Cloud Kitchen,No,Yes,350,1212.31,33,3.1,1845
+ZOM10417,Mumbai,Chinese,Casual Dining,Yes,No,350,1770.57,63,3.9,948
+ZOM10418,Hyderabad,Fast Food,Bakery,Yes,No,1500,1651.86,39,3.4,813
+ZOM10419,Hyderabad,South Indian,Casual Dining,Yes,No,500,857.74,25,2.9,1621
+ZOM10420,Pune,North Indian,Bakery,Yes,No,1000,187.11,37,4.2,1680
+ZOM10421,Pune,Biryani,Fine Dining,No,No,350,728.65,31,4.6,338
+ZOM10422,Bengaluru,Fast Food,Fine Dining,Yes,No,750,1508.34,56,3.1,1130
+ZOM10423,New Delhi,North Indian,Fine Dining,Yes,No,750,1298.52,54,4.5,1596
+ZOM10424,Bengaluru,Desserts,Fine Dining,Yes,No,500,891.7,51,4.6,717
+ZOM10425,New Delhi,Desserts,Fine Dining,Yes,No,1500,212.57,28,4.7,866
+ZOM10426,Mumbai,Desserts,Fine Dining,Yes,No,350,837.18,57,3.4,1821
+ZOM10427,Kolkata,Fast Food,Casual Dining,Yes,No,200,907.96,50,4.7,802
+ZOM10428,Mumbai,Fast Food,Café,Yes,Yes,500,1679.97,48,3.5,2109
+ZOM10429,Bengaluru,Biryani,Bakery,Yes,Yes,750,1197.02,61,4.0,1136
+ZOM10430,Bengaluru,South Indian,Fine Dining,Yes,No,500,643.58,51,2.9,1770
+ZOM10431,Hyderabad,Street Food,Casual Dining,Yes,Yes,350,1002.53,24,2.9,2596
+ZOM10432,New Delhi,Chinese,Casual Dining,Yes,No,500,230.97,40,4.3,3356
+ZOM10433,Bengaluru,Desserts,Casual Dining,Yes,No,350,1753.91,63,3.7,1669
+ZOM10434,Bengaluru,Italian,Café,Yes,No,350,724.9,24,3.3,311
+ZOM10435,Hyderabad,South Indian,Bakery,Yes,No,500,922.82,42,3.2,988
+ZOM10436,Bengaluru,Italian,Café,Yes,No,750,716.88,20,4.2,1507
+ZOM10437,Pune,Biryani,Quick Service Restaurant (QSR),Yes,No,350,1266.62,55,2.8,1862
+ZOM10438,Hyderabad,Biryani,Casual Dining,Yes,No,350,1232.55,37,4.5,116
+ZOM10439,Bengaluru,Biryani,Quick Service Restaurant (QSR),Yes,No,350,1321.74,51,3.0,1138
+ZOM10440,Bengaluru,North Indian,Cloud Kitchen,Yes,Yes,200,570.48,61,3.2,3417
+ZOM10441,Chennai,Italian,Fine Dining,Yes,No,750,650.32,61,3.6,93
+ZOM10442,Mumbai,South Indian,Fine Dining,Yes,Yes,1000,330.42,47,3.8,1379
+ZOM10443,Mumbai,Street Food,Café,Yes,No,350,1221.26,34,3.5,1111
+ZOM10444,Pune,South Indian,Bakery,Yes,No,750,186.86,27,3.5,777
+ZOM10445,Kolkata,Fast Food,Quick Service Restaurant (QSR),Yes,Yes,1000,1124.11,52,4.8,1961
+ZOM10446,Chennai,Fast Food,Bakery,Yes,No,750,1581.09,37,4.1,3168
+ZOM10447,Hyderabad,Desserts,Café,Yes,No,200,1616.6,35,2.8,227
+ZOM10448,Mumbai,Street Food,Fine Dining,Yes,No,1500,874.38,62,3.7,1264
+ZOM10449,Bengaluru,Fast Food,Bakery,Yes,No,350,891.63,61,4.6,1305
+ZOM10450,Pune,Biryani,Bakery,Yes,No,350,249.31,44,3.4,429
+ZOM10451,New Delhi,South Indian,Fine Dining,Yes,Yes,200,1246.89,53,3.0,2398
+ZOM10452,Mumbai,Italian,Quick Service Restaurant (QSR),Yes,No,500,1499.72,40,4.4,2411
+ZOM10453,Kolkata,Biryani,Fine Dining,Yes,No,200,531.02,49,4.1,3056
+ZOM10454,Bengaluru,North Indian,Bakery,Yes,No,350,827.79,27,4.0,790
+ZOM10455,New Delhi,Fast Food,Quick Service Restaurant (QSR),Yes,Yes,350,1529.25,28,2.9,1863
+ZOM10456,Bengaluru,Biryani,Quick Service Restaurant (QSR),Yes,No,750,1593.56,55,3.1,93
+ZOM10457,New Delhi,Biryani,Fine Dining,Yes,No,1000,528.54,23,4.1,1680
+ZOM10458,Bengaluru,North Indian,Bakery,Yes,No,350,1044.96,58,3.2,273
+ZOM10459,Bengaluru,Chinese,Café,Yes,Yes,1000,443.39,64,3.9,3026
+ZOM10460,Bengaluru,South Indian,Bakery,Yes,No,1000,291.16,51,3.9,839
+ZOM10461,New Delhi,Italian,Casual Dining,No,No,750,1650.68,53,3.4,1005
+ZOM10462,Hyderabad,Desserts,Cloud Kitchen,Yes,No,200,1498.45,54,4.8,351
+ZOM10463,New Delhi,Chinese,Café,No,No,500,1396.86,34,4.6,1441
+ZOM10464,Chennai,Fast Food,Quick Service Restaurant (QSR),Yes,No,1000,201.93,57,4.3,3436
+ZOM10465,Mumbai,Biryani,Café,No,No,500,1537.46,57,3.0,2814
+ZOM10466,Mumbai,Street Food,Quick Service Restaurant (QSR),Yes,Yes,350,855.91,29,3.0,855
+ZOM10467,Pune,North Indian,Quick Service Restaurant (QSR),Yes,No,500,695.22,38,3.8,1711
+ZOM10468,Bengaluru,North Indian,Café,Yes,No,500,1038.08,57,3.1,474
+ZOM10469,Chennai,Street Food,Quick Service Restaurant (QSR),Yes,No,500,273.47,36,4.9,1949
+ZOM10470,Bengaluru,South Indian,Quick Service Restaurant (QSR),Yes,No,200,1391.17,20,3.1,1158
+ZOM10471,Chennai,Chinese,Casual Dining,Yes,Yes,350,1098.49,35,3.8,332
+ZOM10472,Bengaluru,Desserts,Bakery,Yes,No,750,433.47,36,3.6,1037
+ZOM10473,Kolkata,South Indian,Bakery,Yes,No,1000,436.23,64,4.1,247
+ZOM10474,New Delhi,Street Food,Cloud Kitchen,Yes,Yes,200,429.54,23,3.1,2901
+ZOM10475,Chennai,Biryani,Cloud Kitchen,Yes,No,1500,215.76,33,3.7,877
+ZOM10476,Bengaluru,Street Food,Casual Dining,No,No,350,1107.5,25,3.4,1288
+ZOM10477,New Delhi,South Indian,Cloud Kitchen,Yes,Yes,500,1531.78,35,4.7,2885
+ZOM10478,Chennai,Italian,Café,No,No,750,149.4,60,2.9,1037
+ZOM10479,New Delhi,North Indian,Fine Dining,Yes,No,750,202.33,56,4.7,2595
+ZOM10480,New Delhi,North Indian,Fine Dining,Yes,No,1000,1082.25,29,4.5,969
+ZOM10481,Hyderabad,Fast Food,Fine Dining,Yes,No,350,1496.75,62,3.4,446
+ZOM10482,New Delhi,Fast Food,Casual Dining,Yes,No,1000,668.92,27,4.5,2109
+ZOM10483,New Delhi,Street Food,Casual Dining,Yes,No,200,707.35,24,2.9,484
+ZOM10484,New Delhi,Desserts,Quick Service Restaurant (QSR),Yes,No,750,1121.86,63,4.8,1665
+ZOM10485,Kolkata,Biryani,Fine Dining,Yes,Yes,750,580.68,18,3.9,297
+ZOM10486,Bengaluru,Italian,Café,No,No,500,164.7,53,3.4,2903
+ZOM10487,Mumbai,Chinese,Cloud Kitchen,Yes,No,350,1355.18,38,3.6,38
+ZOM10488,Chennai,South Indian,Café,Yes,No,1000,1171.09,54,2.9,85
+ZOM10489,Kolkata,Desserts,Cloud Kitchen,Yes,No,200,1095.67,41,4.9,186
+ZOM10490,New Delhi,Biryani,Fine Dining,Yes,No,200,1366.03,42,2.9,1628
+ZOM10491,New Delhi,Fast Food,Fine Dining,Yes,No,750,1254.39,24,4.2,3087
+ZOM10492,Mumbai,Street Food,Fine Dining,Yes,No,500,465.88,59,3.7,422
+ZOM10493,Bengaluru,South Indian,Casual Dining,Yes,Yes,750,712.17,34,4.8,428
+ZOM10494,New Delhi,Fast Food,Cloud Kitchen,Yes,Yes,350,331.87,46,3.3,2179
+ZOM10495,Mumbai,Street Food,Casual Dining,Yes,No,200,338.16,47,3.9,3365
+ZOM10496,New Delhi,South Indian,Casual Dining,Yes,No,750,1256.01,24,3.8,3498
+ZOM10497,Bengaluru,Chinese,Bakery,No,No,500,1562.45,50,4.3,3464
+ZOM10498,Chennai,Biryani,Café,Yes,No,200,1737.39,24,2.9,616
+ZOM10499,Chennai,South Indian,Café,Yes,No,750,1175.62,41,3.2,2718
+ZOM10500,Hyderabad,Italian,Quick Service Restaurant (QSR),Yes,No,500,429.29,28,3.3,1082
+ZOM10501,New Delhi,Desserts,Casual Dining,No,No,500,297.49,26,4.4,2172
+ZOM10502,Mumbai,North Indian,Cloud Kitchen,Yes,Yes,500,1485.59,29,3.2,343
+ZOM10503,Pune,Italian,Bakery,Yes,Yes,750,1092.31,52,4.0,2002
+ZOM10504,Hyderabad,Italian,Bakery,Yes,No,750,1158.72,21,3.3,3059
+ZOM10505,Bengaluru,Desserts,Café,Yes,No,750,1432.86,53,4.6,1457
+ZOM10506,Kolkata,North Indian,Casual Dining,Yes,No,200,1301.51,45,4.8,448
+ZOM10507,Pune,Italian,Quick Service Restaurant (QSR),Yes,Yes,750,1521.89,30,3.9,2702
+ZOM10508,Kolkata,South Indian,Casual Dining,Yes,Yes,500,214.44,40,3.5,2797
+ZOM10509,Hyderabad,South Indian,Fine Dining,Yes,No,500,1375.83,36,3.3,2956
+ZOM10510,New Delhi,South Indian,Casual Dining,Yes,No,350,1549.43,59,2.9,1104
+ZOM10511,Mumbai,North Indian,Fine Dining,Yes,Yes,1000,600.71,54,3.4,1655
+ZOM10512,Kolkata,Italian,Fine Dining,Yes,No,750,1195.95,56,4.2,3398
+ZOM10513,Pune,Street Food,Quick Service Restaurant (QSR),Yes,Yes,200,647.79,41,3.9,1397
+ZOM10514,Bengaluru,North Indian,Cloud Kitchen,No,No,350,1729.39,33,4.8,412
+ZOM10515,Bengaluru,South Indian,Café,Yes,No,1000,176.15,50,3.6,2271
+ZOM10516,Mumbai,Desserts,Casual Dining,Yes,Yes,200,1094.05,29,4.3,2325
+ZOM10517,Pune,Italian,Fine Dining,Yes,No,1500,399.73,51,3.8,2553
+ZOM10518,Chennai,Italian,Casual Dining,Yes,No,500,1316.53,24,3.9,1560
+ZOM10519,Bengaluru,Fast Food,Cloud Kitchen,Yes,No,500,415.5,28,3.4,465
+ZOM10520,New Delhi,Fast Food,Café,Yes,No,350,515.44,48,3.8,1223
+ZOM10521,Mumbai,Chinese,Cloud Kitchen,Yes,Yes,350,950.54,46,3.8,1043
+ZOM10522,Chennai,Street Food,Café,Yes,No,1000,1656.92,30,4.3,361
+ZOM10523,Pune,Street Food,Bakery,Yes,No,350,475.68,48,4.8,152
+ZOM10524,Pune,Biryani,Café,Yes,No,750,362.32,19,3.5,2510
+ZOM10525,New Delhi,Street Food,Quick Service Restaurant (QSR),Yes,No,350,1395.08,56,2.9,1879
+ZOM10526,Mumbai,Fast Food,Cloud Kitchen,Yes,No,200,961.04,32,3.8,2320
+ZOM10527,Mumbai,North Indian,Fine Dining,Yes,No,200,1651.8,28,3.9,284
+ZOM10528,Bengaluru,Street Food,Bakery,Yes,Yes,500,366.31,51,3.2,112
+ZOM10529,Pune,Fast Food,Quick Service Restaurant (QSR),Yes,Yes,1500,1205.16,56,4.4,1705
+ZOM10530,Pune,Chinese,Casual Dining,Yes,No,350,511.24,21,4.9,1454
+ZOM10531,Chennai,Italian,Cloud Kitchen,Yes,No,350,383.36,28,4.8,2205
+ZOM10532,Chennai,Street Food,Fine Dining,Yes,No,350,1268.16,46,3.2,1251
+ZOM10533,New Delhi,Chinese,Café,Yes,No,500,1117.39,19,4.6,1021
+ZOM10534,Hyderabad,Italian,Fine Dining,No,No,350,1388.11,33,4.3,1680
+ZOM10535,Kolkata,Desserts,Casual Dining,Yes,Yes,1000,639.9,56,3.8,1616
+ZOM10536,Pune,Desserts,Bakery,Yes,No,500,872.59,30,3.9,2374
+ZOM10537,Bengaluru,Italian,Bakery,Yes,No,500,801.19,54,4.6,285
+ZOM10538,New Delhi,Street Food,Cloud Kitchen,Yes,No,200,1773.27,34,3.8,665
+ZOM10539,Bengaluru,Biryani,Bakery,Yes,No,2000,610.98,38,3.6,2385
+ZOM10540,Chennai,Fast Food,Cloud Kitchen,Yes,No,350,615.29,61,3.8,1156
+ZOM10541,New Delhi,North Indian,Cloud Kitchen,No,No,200,715.64,36,4.0,2968
+ZOM10542,Bengaluru,North Indian,Cloud Kitchen,Yes,No,500,1068.52,24,3.2,1421
+ZOM10543,Hyderabad,South Indian,Café,Yes,No,500,543.9,55,4.7,473
+ZOM10544,New Delhi,Italian,Quick Service Restaurant (QSR),Yes,No,350,1657.69,25,4.2,2258
+ZOM10545,Mumbai,North Indian,Cloud Kitchen,Yes,No,350,566.35,30,4.1,1934
+ZOM10546,Bengaluru,Street Food,Cloud Kitchen,Yes,No,750,1624.97,54,3.0,1483
+ZOM10547,Hyderabad,Biryani,Quick Service Restaurant (QSR),Yes,No,200,293.84,19,4.1,1230
+ZOM10548,New Delhi,Italian,Fine Dining,Yes,No,750,1223.03,58,3.1,850
+ZOM10549,Pune,Biryani,Cloud Kitchen,Yes,No,500,1643.74,28,3.0,1410
+ZOM10550,New Delhi,Street Food,Café,Yes,Yes,350,403.5,41,3.9,1132
+ZOM10551,Pune,North Indian,Bakery,Yes,No,500,1746.79,23,3.6,2254
+ZOM10552,New Delhi,North Indian,Bakery,Yes,No,350,880.84,43,4.0,2886
+ZOM10553,New Delhi,South Indian,Casual Dining,Yes,No,750,1708.8,24,3.0,1989
+ZOM10554,Kolkata,North Indian,Casual Dining,Yes,No,500,1257.06,56,3.7,3088
+ZOM10555,Mumbai,Italian,Bakery,Yes,No,350,626.67,36,3.2,2199
+ZOM10556,Bengaluru,Street Food,Bakery,Yes,No,500,436.35,23,4.9,891
+ZOM10557,Bengaluru,Desserts,Café,No,Yes,2000,630.27,60,4.0,654
+ZOM10558,Hyderabad,Street Food,Quick Service Restaurant (QSR),Yes,No,350,276.27,46,4.2,1419
+ZOM10559,New Delhi,Italian,Casual Dining,Yes,No,1000,361.7,60,3.5,710
+ZOM10560,Hyderabad,Italian,Quick Service Restaurant (QSR),No,No,350,295.83,56,3.0,2759
+ZOM10561,Bengaluru,South Indian,Café,Yes,No,200,830.55,19,4.8,3190
+ZOM10562,Bengaluru,South Indian,Bakery,Yes,No,350,1456.57,36,3.4,1885
+ZOM10563,Bengaluru,North Indian,Cloud Kitchen,Yes,Yes,350,357.52,21,3.7,1077
+ZOM10564,Mumbai,Chinese,Quick Service Restaurant (QSR),Yes,No,350,338.94,23,4.2,1975
+ZOM10565,New Delhi,Street Food,Bakery,Yes,No,200,1200.96,54,2.9,601
+ZOM10566,Mumbai,Street Food,Bakery,Yes,Yes,1000,451.27,45,4.5,2238
+ZOM10567,Mumbai,Chinese,Fine Dining,Yes,Yes,750,283.98,47,3.9,1409
+ZOM10568,Kolkata,South Indian,Quick Service Restaurant (QSR),Yes,Yes,750,400.31,24,3.4,803
+ZOM10569,Mumbai,North Indian,Cloud Kitchen,Yes,No,200,1671.87,26,2.9,3150
+ZOM10570,New Delhi,Chinese,Quick Service Restaurant (QSR),Yes,Yes,200,1500.07,42,3.1,200
+ZOM10571,Pune,North Indian,Bakery,Yes,No,200,714.83,50,4.7,38
+ZOM10572,Mumbai,North Indian,Cloud Kitchen,Yes,No,750,1221.78,18,4.2,1269
+ZOM10573,New Delhi,North Indian,Café,No,No,1000,1022.62,23,3.3,3186
+ZOM10574,Pune,Fast Food,Fine Dining,No,No,350,1257.57,35,2.9,2948
+ZOM10575,Kolkata,Italian,Bakery,Yes,No,200,1266.89,27,4.3,3388
+ZOM10576,Bengaluru,North Indian,Casual Dining,No,No,500,1176.27,45,4.0,1636
+ZOM10577,Kolkata,Fast Food,Casual Dining,Yes,No,350,567.05,28,3.6,2242
+ZOM10578,New Delhi,South Indian,Fine Dining,No,No,350,185.53,50,3.6,1265
+ZOM10579,Mumbai,Chinese,Café,Yes,No,500,885.35,18,3.3,1658
+ZOM10580,New Delhi,Italian,Bakery,Yes,No,750,1616.84,30,4.2,73
+ZOM10581,Chennai,Desserts,Quick Service Restaurant (QSR),Yes,No,200,1076.76,54,4.8,2762
+ZOM10582,New Delhi,Chinese,Fine Dining,Yes,No,200,1518.42,37,3.2,2930
+ZOM10583,Mumbai,Italian,Café,Yes,Yes,2000,1785.93,18,4.1,1446
+ZOM10584,New Delhi,Desserts,Quick Service Restaurant (QSR),Yes,Yes,350,394.88,20,3.7,3409
+ZOM10585,Bengaluru,Chinese,Casual Dining,Yes,No,200,1282.19,35,3.7,2416
+ZOM10586,Bengaluru,Italian,Casual Dining,Yes,No,200,1252.81,58,3.3,462
+ZOM10587,Bengaluru,Chinese,Quick Service Restaurant (QSR),Yes,No,200,1766.33,31,4.5,2900
+ZOM10588,Bengaluru,Chinese,Fine Dining,Yes,No,350,1775.81,48,3.8,599
+ZOM10589,Bengaluru,Desserts,Casual Dining,Yes,No,750,1273.62,44,3.9,301
+ZOM10590,Bengaluru,Chinese,Bakery,Yes,No,350,529.27,34,3.4,2427
+ZOM10591,New Delhi,Chinese,Cloud Kitchen,Yes,No,350,1461.57,63,3.2,2982
+ZOM10592,Bengaluru,Desserts,Quick Service Restaurant (QSR),Yes,No,500,299.81,46,3.0,842
+ZOM10593,Mumbai,South Indian,Quick Service Restaurant (QSR),Yes,No,500,1431.57,53,4.3,2959
+ZOM10594,Kolkata,North Indian,Casual Dining,No,No,1000,1649.13,54,3.2,3020
+ZOM10595,New Delhi,Street Food,Fine Dining,Yes,Yes,1000,763.16,43,4.2,1689
+ZOM10596,Hyderabad,Biryani,Bakery,Yes,Yes,200,1179.47,34,3.6,660
+ZOM10597,Bengaluru,Fast Food,Fine Dining,No,No,750,842.64,39,3.7,1051
+ZOM10598,Bengaluru,Biryani,Café,Yes,No,500,855.45,42,3.8,2036
+ZOM10599,Bengaluru,Biryani,Café,Yes,No,2000,641.42,19,3.6,582
+ZOM10600,Bengaluru,Italian,Cloud Kitchen,Yes,Yes,500,1400.38,39,3.0,2558
+ZOM10601,Mumbai,North Indian,Casual Dining,Yes,No,2000,1692.78,22,3.5,360
+ZOM10602,Bengaluru,Italian,Casual Dining,Yes,No,750,1700.46,21,4.2,491
+ZOM10603,Bengaluru,North Indian,Casual Dining,Yes,No,350,413.63,53,4.2,1730
+ZOM10604,Bengaluru,Desserts,Cloud Kitchen,Yes,No,500,1589.57,23,3.4,2316
+ZOM10605,New Delhi,Desserts,Café,No,No,2000,1358.88,38,3.8,254
+ZOM10606,Bengaluru,Street Food,Fine Dining,Yes,No,1000,544.77,30,3.2,1126
+ZOM10607,Mumbai,North Indian,Cloud Kitchen,Yes,No,200,233.04,54,3.2,1136
+ZOM10608,New Delhi,Chinese,Cloud Kitchen,Yes,Yes,750,570.24,42,2.8,1928
+ZOM10609,Hyderabad,South Indian,Fine Dining,Yes,Yes,350,1652.51,43,4.7,1437
+ZOM10610,Bengaluru,Street Food,Casual Dining,Yes,No,200,1183.74,56,3.2,843
+ZOM10611,Pune,Street Food,Bakery,Yes,No,350,1331.37,37,3.3,1311
+ZOM10612,New Delhi,Chinese,Fine Dining,Yes,No,350,552.02,50,3.4,651
+ZOM10613,Bengaluru,South Indian,Café,Yes,No,750,1328.57,31,3.1,548
+ZOM10614,Kolkata,Italian,Quick Service Restaurant (QSR),Yes,No,350,167.24,53,4.1,3344
+ZOM10615,Kolkata,South Indian,Quick Service Restaurant (QSR),Yes,No,750,750.54,34,3.0,2000
+ZOM10616,Bengaluru,Italian,Cloud Kitchen,Yes,No,200,1172.95,38,3.1,2189
+ZOM10617,Mumbai,Desserts,Quick Service Restaurant (QSR),Yes,No,350,365.44,63,4.2,2959
+ZOM10618,Pune,Biryani,Bakery,Yes,No,350,1502.65,33,3.5,2077
+ZOM10619,Hyderabad,Desserts,Casual Dining,Yes,No,350,514.85,63,4.3,1359
+ZOM10620,Bengaluru,Desserts,Café,Yes,No,200,1215.83,33,4.0,2905
+ZOM10621,Bengaluru,Biryani,Bakery,Yes,No,200,800.73,37,3.3,1316
+ZOM10622,Mumbai,South Indian,Café,No,Yes,500,1121.35,46,4.2,1349
+ZOM10623,New Delhi,Street Food,Café,Yes,No,350,300.52,45,3.0,1253
+ZOM10624,New Delhi,South Indian,Casual Dining,No,No,350,148.41,25,3.9,2001
+ZOM10625,Mumbai,Italian,Cloud Kitchen,Yes,Yes,350,1648.07,41,3.7,1773
+ZOM10626,New Delhi,Chinese,Quick Service Restaurant (QSR),No,No,1000,572.98,20,3.4,2820
+ZOM10627,Hyderabad,Italian,Casual Dining,Yes,No,1000,1497.06,42,4.1,2953
+ZOM10628,Bengaluru,Chinese,Bakery,No,Yes,500,1798.91,36,4.6,2531
+ZOM10629,Mumbai,Desserts,Cloud Kitchen,No,No,350,475.2,50,4.9,2779
+ZOM10630,Hyderabad,Biryani,Bakery,Yes,No,200,565.49,19,4.1,2795
+ZOM10631,Kolkata,Desserts,Cloud Kitchen,No,Yes,1500,1233.6,32,3.6,2784
+ZOM10632,New Delhi,North Indian,Bakery,Yes,No,200,1741.95,39,3.3,1968
+ZOM10633,New Delhi,South Indian,Casual Dining,Yes,No,350,1658.57,27,3.3,3307
+ZOM10634,Bengaluru,Chinese,Cloud Kitchen,Yes,Yes,350,964.83,35,3.8,2147
+ZOM10635,Mumbai,Italian,Cloud Kitchen,Yes,No,350,1455.79,39,3.6,2547
+ZOM10636,New Delhi,Biryani,Café,Yes,No,200,348.05,63,4.7,921
+ZOM10637,Bengaluru,Chinese,Café,Yes,Yes,750,1762.1,44,3.6,910
+ZOM10638,Mumbai,Italian,Fine Dining,No,Yes,200,1740.11,30,3.6,1590
+ZOM10639,Mumbai,South Indian,Bakery,Yes,No,500,395.06,50,3.6,1844
+ZOM10640,Bengaluru,Desserts,Café,Yes,No,200,623.03,22,4.6,2085
+ZOM10641,Mumbai,South Indian,Fine Dining,No,No,200,288.26,43,4.2,1208
+ZOM10642,Bengaluru,Fast Food,Café,No,No,1000,576.49,30,4.1,1568
+ZOM10643,Mumbai,North Indian,Bakery,No,No,200,1490.81,44,3.5,221
+ZOM10644,Bengaluru,Fast Food,Cloud Kitchen,Yes,No,750,755.57,31,4.5,760
+ZOM10645,Kolkata,Biryani,Quick Service Restaurant (QSR),No,No,500,268.51,41,2.9,1389
+ZOM10646,New Delhi,Chinese,Bakery,Yes,No,200,694.94,20,4.6,1409
+ZOM10647,Hyderabad,Biryani,Casual Dining,Yes,No,1500,1768.72,64,3.9,2020
+ZOM10648,Pune,Desserts,Café,Yes,Yes,350,1177.87,47,3.6,1491
+ZOM10649,New Delhi,Italian,Café,Yes,Yes,1000,819.15,52,3.8,1556
+ZOM10650,Bengaluru,South Indian,Cloud Kitchen,Yes,No,200,399.78,31,4.2,338
+ZOM10651,New Delhi,Fast Food,Casual Dining,Yes,No,1000,1776.78,29,2.8,2284
+ZOM10652,New Delhi,Street Food,Cloud Kitchen,Yes,No,200,1499.03,45,4.6,1077
+ZOM10653,Hyderabad,Fast Food,Casual Dining,Yes,No,500,592.88,61,3.7,1914
+ZOM10654,Mumbai,Desserts,Quick Service Restaurant (QSR),Yes,No,750,237.72,46,3.5,2333
+ZOM10655,Bengaluru,Fast Food,Café,Yes,No,1000,215.13,60,3.1,743
+ZOM10656,Mumbai,Desserts,Café,Yes,No,1000,322.24,34,3.7,2842
+ZOM10657,Mumbai,Street Food,Quick Service Restaurant (QSR),Yes,No,750,1095.69,57,3.8,3171
+ZOM10658,New Delhi,Biryani,Fine Dining,Yes,No,1000,1680.32,38,3.6,1720
+ZOM10659,New Delhi,South Indian,Cloud Kitchen,Yes,No,200,954.53,40,4.2,432
+ZOM10660,Mumbai,Chinese,Quick Service Restaurant (QSR),No,No,350,1536.15,37,3.7,1295
+ZOM10661,Chennai,Italian,Cloud Kitchen,Yes,No,350,869.09,28,4.8,3103
+ZOM10662,New Delhi,Chinese,Bakery,Yes,No,350,1310.42,51,4.1,420
+ZOM10663,Bengaluru,Biryani,Café,Yes,No,350,1349.55,27,4.5,1859
+ZOM10664,Bengaluru,Italian,Cloud Kitchen,Yes,No,500,412.26,27,3.0,743
+ZOM10665,Bengaluru,Fast Food,Casual Dining,Yes,Yes,200,726.84,60,3.6,2349
+ZOM10666,Bengaluru,Street Food,Cloud Kitchen,Yes,No,500,1190.67,23,3.5,1155
+ZOM10667,Bengaluru,Street Food,Bakery,Yes,No,200,238.77,53,4.0,2790
+ZOM10668,Bengaluru,North Indian,Café,Yes,No,350,727.39,41,4.6,3469
+ZOM10669,Mumbai,Biryani,Quick Service Restaurant (QSR),Yes,No,500,1018.46,29,3.0,770
+ZOM10670,Bengaluru,Biryani,Bakery,Yes,No,750,1793.66,60,3.0,287
+ZOM10671,Kolkata,South Indian,Café,Yes,No,750,917.22,40,4.6,2365
+ZOM10672,Bengaluru,Chinese,Cloud Kitchen,Yes,No,500,1490.98,44,3.2,1360
+ZOM10673,New Delhi,Biryani,Fine Dining,Yes,No,200,845.87,62,4.2,589
+ZOM10674,Mumbai,Biryani,Fine Dining,Yes,No,500,1457.94,54,3.9,2576
+ZOM10675,Chennai,Fast Food,Casual Dining,No,No,200,1120.3,23,4.5,1993
+ZOM10676,Bengaluru,Fast Food,Café,No,No,350,1609.48,18,3.1,565
+ZOM10677,Mumbai,Italian,Fine Dining,Yes,Yes,350,810.38,23,3.1,2842
+ZOM10678,Chennai,Desserts,Quick Service Restaurant (QSR),Yes,No,200,1135.23,39,4.0,384
+ZOM10679,Pune,Desserts,Café,Yes,No,350,1178.43,58,4.8,566
+ZOM10680,Pune,North Indian,Quick Service Restaurant (QSR),Yes,No,1500,821.2,41,3.7,290
+ZOM10681,Mumbai,Desserts,Quick Service Restaurant (QSR),Yes,Yes,1500,362.44,42,3.5,758
+ZOM10682,Bengaluru,South Indian,Fine Dining,No,No,350,277.18,32,4.1,2604
+ZOM10683,Hyderabad,North Indian,Café,No,No,200,148.01,43,4.8,1277
+ZOM10684,Kolkata,Italian,Cloud Kitchen,Yes,Yes,200,1587.54,25,4.6,78
+ZOM10685,New Delhi,Fast Food,Bakery,Yes,No,350,517.28,41,4.9,1294
+ZOM10686,New Delhi,Desserts,Fine Dining,Yes,No,1000,475.33,55,2.8,1890
+ZOM10687,Mumbai,Chinese,Fine Dining,Yes,No,200,1356.54,23,3.0,105
+ZOM10688,Hyderabad,Fast Food,Cloud Kitchen,Yes,No,750,657.63,52,4.1,782
+ZOM10689,Bengaluru,Street Food,Café,Yes,Yes,200,970.16,59,4.5,409
+ZOM10690,Mumbai,South Indian,Café,Yes,No,2000,393.02,18,3.4,1223
+ZOM10691,Mumbai,Fast Food,Quick Service Restaurant (QSR),Yes,Yes,350,1732.37,63,3.3,738
+ZOM10692,New Delhi,South Indian,Cloud Kitchen,Yes,No,750,1550.66,53,4.5,2923
+ZOM10693,Bengaluru,South Indian,Cloud Kitchen,No,No,350,1571.17,29,2.9,168
+ZOM10694,Bengaluru,South Indian,Café,Yes,No,500,803.38,55,3.6,602
+ZOM10695,New Delhi,Italian,Quick Service Restaurant (QSR),Yes,Yes,200,1400.77,28,3.9,140
+ZOM10696,Mumbai,South Indian,Fine Dining,Yes,No,200,361.71,29,4.0,2832
+ZOM10697,New Delhi,South Indian,Casual Dining,Yes,No,1000,134.48,59,4.3,2672
+ZOM10698,Bengaluru,Street Food,Bakery,Yes,No,1000,153.55,56,3.5,2323
+ZOM10699,New Delhi,Chinese,Fine Dining,Yes,No,1000,1105.49,24,4.1,785
+ZOM10700,New Delhi,North Indian,Café,No,No,500,885.06,28,4.0,2931
+ZOM10701,Bengaluru,Biryani,Bakery,Yes,No,750,990.27,53,3.9,819
+ZOM10702,Mumbai,Street Food,Casual Dining,No,No,200,132.54,48,4.1,3400
+ZOM10703,Bengaluru,North Indian,Casual Dining,Yes,No,350,830.11,50,3.3,2126
+ZOM10704,Bengaluru,South Indian,Quick Service Restaurant (QSR),Yes,Yes,350,1326.35,30,3.0,1041
+ZOM10705,Chennai,Chinese,Bakery,Yes,No,500,863.73,35,3.1,3160
+ZOM10706,Mumbai,Fast Food,Quick Service Restaurant (QSR),Yes,No,350,1350.13,58,3.3,1489
+ZOM10707,Pune,Chinese,Fine Dining,Yes,No,200,511.47,41,3.9,2455
+ZOM10708,Mumbai,Street Food,Cloud Kitchen,Yes,No,500,1486.08,26,4.6,1129
+ZOM10709,Hyderabad,South Indian,Cloud Kitchen,Yes,Yes,750,1108.56,48,4.3,2853
+ZOM10710,Hyderabad,Chinese,Cloud Kitchen,No,No,350,474.08,58,4.5,1270
+ZOM10711,New Delhi,Desserts,Bakery,No,Yes,200,517.69,27,3.5,2660
+ZOM10712,New Delhi,Chinese,Cloud Kitchen,No,Yes,200,1175.09,19,3.6,1669
+ZOM10713,Mumbai,South Indian,Fine Dining,Yes,No,350,1514.3,55,3.6,3275
+ZOM10714,Mumbai,Italian,Quick Service Restaurant (QSR),Yes,Yes,350,818.25,32,3.2,1835
+ZOM10715,Kolkata,Desserts,Bakery,Yes,No,500,553.94,20,2.9,1365
+ZOM10716,Pune,Chinese,Quick Service Restaurant (QSR),Yes,Yes,500,1576.58,60,4.0,2976
+ZOM10717,Chennai,Biryani,Bakery,Yes,No,500,1244.37,48,4.9,1361
+ZOM10718,Bengaluru,Biryani,Quick Service Restaurant (QSR),Yes,No,350,872.78,23,3.2,2633
+ZOM10719,Hyderabad,Chinese,Casual Dining,Yes,No,750,939.67,20,2.9,2466
+ZOM10720,Kolkata,Italian,Quick Service Restaurant (QSR),Yes,No,350,463.15,28,4.4,1752
+ZOM10721,Bengaluru,Fast Food,Cloud Kitchen,No,No,500,1173.03,32,3.3,918
+ZOM10722,Bengaluru,South Indian,Casual Dining,Yes,No,750,722.69,62,4.5,3384
+ZOM10723,Hyderabad,Biryani,Quick Service Restaurant (QSR),Yes,No,200,1792.68,45,4.3,2360
+ZOM10724,New Delhi,Fast Food,Bakery,Yes,No,200,926.71,27,4.8,504
+ZOM10725,Pune,Chinese,Bakery,No,No,1000,936.29,55,3.7,822
+ZOM10726,Bengaluru,Street Food,Bakery,Yes,No,350,1070.63,64,4.2,1735
+ZOM10727,Pune,Fast Food,Café,Yes,No,500,1660.15,24,3.8,1935
+ZOM10728,Bengaluru,Desserts,Fine Dining,Yes,No,200,1465.37,32,4.1,1777
+ZOM10729,Bengaluru,North Indian,Bakery,Yes,No,500,877.9,35,3.7,1829
+ZOM10730,Bengaluru,Biryani,Casual Dining,Yes,No,350,1327.41,35,3.2,2957
+ZOM10731,Pune,Chinese,Bakery,Yes,No,200,1104.88,58,3.9,2311
+ZOM10732,Hyderabad,Street Food,Café,Yes,No,500,947.18,41,3.9,1463
+ZOM10733,New Delhi,South Indian,Cloud Kitchen,Yes,No,350,443.09,19,4.5,1972
+ZOM10734,Mumbai,Street Food,Casual Dining,Yes,No,350,899.41,57,4.3,3027
+ZOM10735,Kolkata,Italian,Café,No,No,200,532.98,37,4.2,3245
+ZOM10736,Mumbai,Desserts,Cloud Kitchen,Yes,Yes,200,1656.93,51,3.0,2883
+ZOM10737,Pune,Chinese,Casual Dining,Yes,No,350,683.48,60,4.3,2340
+ZOM10738,Mumbai,South Indian,Quick Service Restaurant (QSR),Yes,No,200,1719.8,43,3.9,1690
+ZOM10739,Mumbai,Italian,Fine Dining,Yes,No,1000,1015.53,24,4.7,1868
+ZOM10740,New Delhi,Italian,Fine Dining,Yes,No,200,1180.99,55,4.7,539
+ZOM10741,Mumbai,Chinese,Café,Yes,No,500,1032.14,47,2.9,1171
+ZOM10742,Hyderabad,Desserts,Cloud Kitchen,Yes,No,200,337.36,59,4.5,1416
+ZOM10743,New Delhi,Fast Food,Fine Dining,Yes,No,350,751.38,22,2.9,2635
+ZOM10744,Bengaluru,Fast Food,Cloud Kitchen,Yes,No,1000,286.57,28,3.6,2705
+ZOM10745,Kolkata,Italian,Cloud Kitchen,Yes,No,200,1166.56,18,3.9,2226
+ZOM10746,Mumbai,Fast Food,Café,No,No,1500,870.75,51,3.1,671
+ZOM10747,New Delhi,North Indian,Café,Yes,No,350,1427.01,18,4.4,2243
+ZOM10748,Kolkata,Italian,Café,Yes,No,750,490.39,36,2.8,1970
+ZOM10749,New Delhi,Italian,Fine Dining,Yes,No,500,396.47,19,3.2,2687
+ZOM10750,Bengaluru,South Indian,Café,Yes,Yes,1000,802.64,38,4.0,230
+ZOM10751,Kolkata,Fast Food,Fine Dining,Yes,No,500,1676.66,37,4.3,2514
+ZOM10752,New Delhi,Desserts,Café,Yes,Yes,500,1313.51,40,4.7,605
+ZOM10753,Mumbai,Italian,Bakery,No,No,200,823.79,38,4.3,186
+ZOM10754,Bengaluru,Street Food,Cloud Kitchen,Yes,No,200,989.02,41,4.2,2527
+ZOM10755,Pune,Desserts,Café,Yes,No,1000,261.48,21,3.6,2983
+ZOM10756,New Delhi,North Indian,Casual Dining,Yes,No,350,1774.09,29,2.8,3448
+ZOM10757,New Delhi,South Indian,Cloud Kitchen,Yes,No,350,1239.56,39,3.1,3395
+ZOM10758,Kolkata,Chinese,Cloud Kitchen,Yes,No,750,599.48,37,3.9,1276
+ZOM10759,Pune,Desserts,Café,Yes,No,350,1104.16,35,4.2,3418
+ZOM10760,Bengaluru,Italian,Quick Service Restaurant (QSR),Yes,No,1500,303.93,18,3.7,1225
+ZOM10761,Mumbai,North Indian,Café,Yes,No,750,1742.61,47,4.3,3425
+ZOM10762,Bengaluru,Biryani,Cloud Kitchen,Yes,No,500,413.64,50,3.9,1758
+ZOM10763,Hyderabad,North Indian,Casual Dining,Yes,No,1000,1208.69,41,3.0,1072
+ZOM10764,Bengaluru,North Indian,Cloud Kitchen,Yes,No,200,532.36,31,3.2,733
+ZOM10765,New Delhi,South Indian,Casual Dining,No,Yes,350,1325.5,53,4.6,3184
+ZOM10766,Hyderabad,Chinese,Fine Dining,Yes,No,500,1425.06,22,4.3,2908
+ZOM10767,Kolkata,Biryani,Bakery,No,No,350,1251.35,28,4.7,2935
+ZOM10768,Mumbai,Fast Food,Cloud Kitchen,Yes,No,750,1152.36,41,3.0,707
+ZOM10769,Pune,Fast Food,Café,Yes,Yes,1000,1619.35,48,4.9,349
+ZOM10770,Bengaluru,Desserts,Fine Dining,Yes,No,350,252.09,30,3.2,1766
+ZOM10771,Pune,North Indian,Bakery,Yes,Yes,350,675.94,33,2.8,1227
+ZOM10772,Bengaluru,Street Food,Café,Yes,No,1500,537.12,41,4.9,2162
+ZOM10773,Mumbai,South Indian,Quick Service Restaurant (QSR),Yes,No,350,1779.86,30,3.4,804
+ZOM10774,Pune,Street Food,Café,Yes,No,500,774.17,41,4.2,2716
+ZOM10775,Bengaluru,South Indian,Casual Dining,Yes,No,350,1350.79,43,3.2,2420
+ZOM10776,Bengaluru,Fast Food,Casual Dining,Yes,No,1000,1270.34,19,4.0,2997
+ZOM10777,Hyderabad,Desserts,Quick Service Restaurant (QSR),Yes,Yes,500,476.3,33,4.7,960
+ZOM10778,Hyderabad,Desserts,Fine Dining,No,Yes,750,521.52,55,3.5,3051
+ZOM10779,New Delhi,Desserts,Bakery,Yes,No,750,592.56,63,4.2,1308
+ZOM10780,Hyderabad,Biryani,Café,Yes,No,350,810.69,18,3.2,1699
+ZOM10781,New Delhi,Chinese,Casual Dining,Yes,No,350,513.67,28,4.1,3110
+ZOM10782,Mumbai,Biryani,Fine Dining,Yes,Yes,750,153.01,52,3.5,2713
+ZOM10783,Mumbai,Italian,Quick Service Restaurant (QSR),Yes,No,350,1597.38,60,3.2,645
+ZOM10784,Bengaluru,Italian,Cloud Kitchen,Yes,Yes,750,1742.22,46,3.5,158
+ZOM10785,Kolkata,Street Food,Casual Dining,Yes,Yes,1000,693.84,54,3.2,2783
+ZOM10786,New Delhi,Chinese,Quick Service Restaurant (QSR),Yes,No,500,688.69,34,4.7,781
+ZOM10787,Mumbai,Fast Food,Café,Yes,No,750,131.91,56,3.6,1853
+ZOM10788,New Delhi,Chinese,Bakery,Yes,Yes,750,1262.82,59,3.3,2322
+ZOM10789,Kolkata,South Indian,Casual Dining,No,No,750,1506.74,45,3.7,3176
+ZOM10790,Bengaluru,Italian,Casual Dining,Yes,Yes,350,366.3,46,3.5,1575
+ZOM10791,New Delhi,North Indian,Café,Yes,No,200,388.24,60,4.4,695
+ZOM10792,New Delhi,North Indian,Cloud Kitchen,Yes,No,350,1447.34,20,4.8,111
+ZOM10793,New Delhi,Fast Food,Fine Dining,Yes,Yes,500,1155.37,27,3.7,1112
+ZOM10794,Bengaluru,South Indian,Bakery,No,No,500,195.37,59,4.6,56
+ZOM10795,Kolkata,Street Food,Casual Dining,Yes,No,750,1165.88,31,4.0,1807
+ZOM10796,Kolkata,Biryani,Bakery,Yes,No,350,638.98,29,3.1,2207
+ZOM10797,New Delhi,South Indian,Casual Dining,No,No,500,739.46,64,4.3,2934
+ZOM10798,Hyderabad,North Indian,Bakery,Yes,Yes,200,1413.15,59,3.9,2747
+ZOM10799,Kolkata,North Indian,Quick Service Restaurant (QSR),Yes,Yes,750,1482.37,47,4.2,1221
+ZOM10800,Hyderabad,Street Food,Casual Dining,Yes,No,500,792.6,49,4.7,1856
+ZOM10801,Bengaluru,Italian,Bakery,Yes,No,350,1711.22,49,3.7,1914
+ZOM10802,New Delhi,South Indian,Fine Dining,Yes,Yes,350,802.86,59,4.7,156
+ZOM10803,New Delhi,South Indian,Quick Service Restaurant (QSR),No,No,750,1416.68,49,4.4,2257
+ZOM10804,Mumbai,North Indian,Quick Service Restaurant (QSR),No,Yes,500,932.91,43,3.8,1683
+ZOM10805,Hyderabad,Biryani,Fine Dining,Yes,No,350,1627.85,18,4.1,2409
+ZOM10806,Kolkata,Fast Food,Bakery,Yes,No,1500,1645.04,59,3.5,1602
+ZOM10807,Kolkata,Desserts,Café,Yes,Yes,750,266.86,19,4.9,3096
+ZOM10808,New Delhi,Fast Food,Fine Dining,No,No,1500,1693.31,34,4.2,991
+ZOM10809,Bengaluru,South Indian,Bakery,Yes,No,350,1506.9,47,2.9,3348
+ZOM10810,Chennai,Fast Food,Fine Dining,Yes,No,500,1449.4,56,3.5,681
+ZOM10811,Pune,North Indian,Fine Dining,Yes,No,1000,457.53,24,4.1,2310
+ZOM10812,Bengaluru,North Indian,Casual Dining,Yes,No,500,1472.6,44,2.9,1830
+ZOM10813,Kolkata,Street Food,Bakery,Yes,No,750,1548.22,26,2.9,434
+ZOM10814,Pune,South Indian,Café,Yes,No,350,605.77,39,3.7,2774
+ZOM10815,New Delhi,Street Food,Casual Dining,Yes,No,350,1719.8,51,3.5,362
+ZOM10816,New Delhi,South Indian,Fine Dining,Yes,No,200,203.77,63,3.7,2749
+ZOM10817,Mumbai,Desserts,Cloud Kitchen,Yes,No,350,371.85,18,3.4,3470
+ZOM10818,Bengaluru,Desserts,Fine Dining,Yes,Yes,200,1023.14,26,3.1,2720
+ZOM10819,Mumbai,Italian,Fine Dining,No,No,200,1087.33,37,4.2,165
+ZOM10820,Pune,South Indian,Bakery,Yes,No,1500,1203.85,36,3.9,342
+ZOM10821,Bengaluru,Biryani,Bakery,Yes,No,350,148.51,53,3.2,2189
+ZOM10822,Mumbai,Fast Food,Casual Dining,Yes,No,500,1733.42,57,3.5,1295
+ZOM10823,Mumbai,South Indian,Café,Yes,No,750,194.91,62,4.0,1898
+ZOM10824,New Delhi,Chinese,Casual Dining,Yes,No,500,360.34,21,3.0,2378
+ZOM10825,Kolkata,Italian,Quick Service Restaurant (QSR),No,No,200,143.54,26,3.1,620
+ZOM10826,Mumbai,Chinese,Fine Dining,Yes,Yes,750,1072.32,58,3.0,494
+ZOM10827,Mumbai,North Indian,Cloud Kitchen,Yes,No,500,1686.21,39,4.5,2637
+ZOM10828,Hyderabad,Desserts,Fine Dining,Yes,No,750,1238.79,35,4.4,1535
+ZOM10829,New Delhi,Fast Food,Fine Dining,No,No,750,1502.06,29,4.4,594
+ZOM10830,Bengaluru,South Indian,Casual Dining,Yes,Yes,1500,142.31,59,4.3,366
+ZOM10831,New Delhi,Chinese,Cloud Kitchen,Yes,No,500,1030.59,60,4.2,2887
+ZOM10832,Bengaluru,Fast Food,Cloud Kitchen,Yes,No,350,892.07,56,3.8,1530
+ZOM10833,Bengaluru,North Indian,Cloud Kitchen,Yes,Yes,500,958.27,26,4.1,401
+ZOM10834,New Delhi,Desserts,Casual Dining,Yes,No,200,241.32,23,2.9,1323
+ZOM10835,Mumbai,Biryani,Fine Dining,No,No,1000,1269.85,36,4.1,91
+ZOM10836,Kolkata,Italian,Casual Dining,Yes,No,200,965.41,64,4.4,2588
+ZOM10837,Mumbai,Fast Food,Bakery,Yes,No,350,1405.45,24,3.9,3457
+ZOM10838,New Delhi,Fast Food,Bakery,Yes,No,750,935.29,33,3.6,3000
+ZOM10839,New Delhi,Biryani,Casual Dining,No,Yes,500,370.96,22,3.4,1137
+ZOM10840,Bengaluru,Fast Food,Cloud Kitchen,Yes,No,350,1209.07,33,4.1,1416
+ZOM10841,Hyderabad,North Indian,Fine Dining,Yes,No,500,409.61,18,4.3,2406
+ZOM10842,Bengaluru,North Indian,Casual Dining,Yes,No,1000,1585.62,54,4.6,1379
+ZOM10843,Chennai,Biryani,Casual Dining,Yes,Yes,350,1150.04,56,3.5,683
+ZOM10844,Bengaluru,Italian,Casual Dining,Yes,Yes,1000,384.1,36,4.4,1535
+ZOM10845,Mumbai,South Indian,Quick Service Restaurant (QSR),Yes,No,200,1736.73,54,4.0,1911
+ZOM10846,Bengaluru,Chinese,Bakery,No,No,750,990.85,34,4.7,59
+ZOM10847,Chennai,South Indian,Cloud Kitchen,Yes,No,750,242.47,43,3.9,1402
+ZOM10848,New Delhi,Fast Food,Café,Yes,No,200,1173.08,39,3.9,2050
+ZOM10849,New Delhi,Chinese,Cloud Kitchen,Yes,Yes,350,545.37,25,4.0,2641
+ZOM10850,Bengaluru,Street Food,Café,Yes,Yes,200,1470.2,50,4.4,1297
+ZOM10851,Hyderabad,Biryani,Quick Service Restaurant (QSR),Yes,No,750,1493.94,19,4.8,985
+ZOM10852,Bengaluru,Biryani,Casual Dining,Yes,No,500,1764.63,47,3.0,2648
+ZOM10853,Kolkata,Italian,Quick Service Restaurant (QSR),Yes,Yes,500,963.14,64,2.9,3489
+ZOM10854,Bengaluru,Chinese,Quick Service Restaurant (QSR),Yes,No,200,884.33,37,4.8,1920
+ZOM10855,Bengaluru,North Indian,Fine Dining,Yes,No,350,1385.84,35,3.9,2237
+ZOM10856,Bengaluru,Chinese,Bakery,Yes,No,200,342.55,60,4.1,720
+ZOM10857,New Delhi,Fast Food,Café,Yes,No,350,1038.82,27,3.8,530
+ZOM10858,New Delhi,North Indian,Casual Dining,Yes,No,500,1037.7,41,3.0,1303
+ZOM10859,Bengaluru,Desserts,Café,Yes,No,1000,270.31,21,4.4,603
+ZOM10860,Pune,Desserts,Cloud Kitchen,Yes,No,500,822.21,54,4.4,1003
+ZOM10861,New Delhi,Street Food,Café,Yes,No,350,1553.52,21,3.5,478
+ZOM10862,New Delhi,Desserts,Cloud Kitchen,Yes,No,1500,1558.34,30,3.4,2596
+ZOM10863,Mumbai,Biryani,Bakery,Yes,No,750,286.72,42,4.6,1925
+ZOM10864,Mumbai,Chinese,Cloud Kitchen,Yes,No,1000,272.41,30,3.0,2408
+ZOM10865,New Delhi,Desserts,Café,Yes,No,500,561.33,35,4.7,2124
+ZOM10866,Bengaluru,South Indian,Café,No,No,350,1589.61,41,3.3,2285
+ZOM10867,Bengaluru,Italian,Cloud Kitchen,Yes,Yes,200,336.56,19,4.0,2686
+ZOM10868,Pune,South Indian,Quick Service Restaurant (QSR),Yes,No,750,1329.59,50,4.8,835
+ZOM10869,Kolkata,Desserts,Bakery,Yes,No,200,289.96,36,4.2,2798
+ZOM10870,Mumbai,Street Food,Fine Dining,Yes,No,350,1166.87,26,3.7,2531
+ZOM10871,Mumbai,Italian,Casual Dining,Yes,No,500,718.19,45,4.2,266
+ZOM10872,New Delhi,Fast Food,Café,Yes,Yes,500,1445.38,52,3.5,749
+ZOM10873,Mumbai,South Indian,Casual Dining,Yes,No,500,512.6,56,3.4,2440
+ZOM10874,Bengaluru,Street Food,Fine Dining,Yes,Yes,200,1193.86,27,4.9,436
+ZOM10875,Bengaluru,Chinese,Casual Dining,Yes,No,350,515.95,18,4.4,1074
+ZOM10876,Hyderabad,Chinese,Fine Dining,Yes,No,500,1318.95,59,4.2,387
+ZOM10877,Hyderabad,South Indian,Cloud Kitchen,No,No,1500,1587.78,38,3.5,2626
+ZOM10878,Bengaluru,Desserts,Quick Service Restaurant (QSR),Yes,No,750,333.03,26,2.9,127
+ZOM10879,Bengaluru,Street Food,Café,Yes,No,1000,1575.88,64,2.9,2651
+ZOM10880,Bengaluru,Chinese,Fine Dining,Yes,No,750,1117.21,32,4.0,858
+ZOM10881,Hyderabad,Fast Food,Casual Dining,No,No,500,333.55,52,4.4,437
+ZOM10882,Bengaluru,North Indian,Café,Yes,No,200,838.27,22,3.9,1663
+ZOM10883,Bengaluru,Desserts,Quick Service Restaurant (QSR),Yes,No,500,390.25,58,4.6,840
+ZOM10884,Pune,Street Food,Cloud Kitchen,Yes,No,500,1296.58,39,2.9,1441
+ZOM10885,Bengaluru,Fast Food,Café,Yes,No,500,1394.9,58,3.6,3363
+ZOM10886,Hyderabad,Street Food,Fine Dining,Yes,No,500,297.74,40,3.3,702
+ZOM10887,Bengaluru,Italian,Quick Service Restaurant (QSR),Yes,No,500,970.31,24,3.7,3207
+ZOM10888,Bengaluru,Fast Food,Casual Dining,Yes,No,350,1488.57,40,3.0,275
+ZOM10889,Bengaluru,Desserts,Quick Service Restaurant (QSR),Yes,No,500,1692.75,61,4.8,3172
+ZOM10890,Hyderabad,Italian,Quick Service Restaurant (QSR),Yes,No,200,982.71,42,3.3,2847
+ZOM10891,Pune,Desserts,Bakery,Yes,No,750,1716.47,44,4.7,3219
+ZOM10892,Pune,Chinese,Quick Service Restaurant (QSR),Yes,No,200,1019.96,58,3.7,857
+ZOM10893,Mumbai,North Indian,Quick Service Restaurant (QSR),Yes,No,200,782.24,23,4.9,2982
+ZOM10894,Hyderabad,Desserts,Café,Yes,No,350,1544.98,51,4.0,2302
+ZOM10895,Bengaluru,Desserts,Casual Dining,No,Yes,500,948.21,26,4.8,572
+ZOM10896,Mumbai,Chinese,Café,Yes,No,350,912.8,50,2.8,200
+ZOM10897,Kolkata,Biryani,Café,Yes,Yes,350,943.72,23,4.4,176
+ZOM10898,Bengaluru,Chinese,Fine Dining,Yes,No,500,1542.6,54,4.7,1497
+ZOM10899,Bengaluru,Italian,Café,No,No,350,1517.66,48,3.1,590
+ZOM10900,Bengaluru,Chinese,Bakery,Yes,No,1000,797.91,51,3.0,876
+ZOM10901,Bengaluru,Chinese,Bakery,Yes,No,1000,679.94,58,3.7,1804
+ZOM10902,Bengaluru,North Indian,Fine Dining,Yes,No,500,946.44,46,4.8,1747
+ZOM10903,New Delhi,Chinese,Cloud Kitchen,Yes,No,350,1082.26,31,3.9,1067
+ZOM10904,Mumbai,Street Food,Casual Dining,Yes,No,750,520.41,53,3.9,1516
+ZOM10905,Kolkata,Desserts,Casual Dining,Yes,Yes,200,1453.84,53,3.1,1443
+ZOM10906,Pune,Street Food,Café,Yes,Yes,500,937.29,32,2.8,3015
+ZOM10907,Mumbai,North Indian,Café,No,No,350,681.2,25,4.5,611
+ZOM10908,Mumbai,South Indian,Cloud Kitchen,Yes,No,1000,299.46,43,3.0,2201
+ZOM10909,Mumbai,Biryani,Café,Yes,No,200,521.26,53,4.1,440
+ZOM10910,New Delhi,Street Food,Casual Dining,Yes,No,500,1714.79,38,4.7,2280
+ZOM10911,Mumbai,North Indian,Quick Service Restaurant (QSR),Yes,No,750,632.57,45,3.2,2967
+ZOM10912,New Delhi,Italian,Bakery,Yes,No,500,403.68,21,4.2,2549
+ZOM10913,Mumbai,South Indian,Quick Service Restaurant (QSR),Yes,No,200,893.93,33,3.0,367
+ZOM10914,New Delhi,North Indian,Quick Service Restaurant (QSR),Yes,No,1500,635.91,39,4.1,185
+ZOM10915,Mumbai,North Indian,Casual Dining,No,No,500,179.07,29,3.1,956
+ZOM10916,Mumbai,Biryani,Quick Service Restaurant (QSR),No,No,500,662.88,33,4.3,367
+ZOM10917,Kolkata,Desserts,Cloud Kitchen,Yes,No,350,1034.1,57,3.4,2916
+ZOM10918,Hyderabad,Street Food,Fine Dining,Yes,No,500,1046.88,55,3.8,417
+ZOM10919,Bengaluru,Italian,Café,No,No,350,719.02,59,4.1,602
+ZOM10920,Pune,Fast Food,Fine Dining,Yes,No,200,871.47,54,3.2,2793
+ZOM10921,New Delhi,Street Food,Bakery,No,No,200,1742.07,46,4.4,1620
+ZOM10922,Kolkata,Fast Food,Café,Yes,No,750,753.95,35,3.4,3312
+ZOM10923,Pune,North Indian,Quick Service Restaurant (QSR),Yes,No,350,553.82,27,4.2,327
+ZOM10924,Mumbai,Chinese,Bakery,Yes,No,200,529.02,59,3.1,3058
+ZOM10925,Bengaluru,Italian,Café,Yes,Yes,500,889.04,56,4.2,2865
+ZOM10926,Mumbai,South Indian,Cloud Kitchen,Yes,Yes,750,1395.99,35,3.1,2786
+ZOM10927,New Delhi,Chinese,Cloud Kitchen,Yes,No,200,466.06,18,3.7,2533
+ZOM10928,New Delhi,Chinese,Cloud Kitchen,Yes,No,500,1311.62,56,3.3,118
+ZOM10929,Mumbai,Street Food,Cloud Kitchen,Yes,Yes,200,155.53,38,4.4,1285
+ZOM10930,Bengaluru,Italian,Quick Service Restaurant (QSR),Yes,No,200,823.81,18,3.4,177
+ZOM10931,Pune,Desserts,Fine Dining,No,No,200,1423.45,32,4.7,2677
+ZOM10932,Chennai,North Indian,Café,Yes,No,750,689.07,21,4.7,573
+ZOM10933,New Delhi,North Indian,Quick Service Restaurant (QSR),Yes,No,200,1067.08,37,3.2,670
+ZOM10934,Bengaluru,North Indian,Cloud Kitchen,Yes,No,200,464.37,27,4.1,2987
+ZOM10935,Mumbai,North Indian,Fine Dining,Yes,No,350,1366.55,40,3.0,2294
+ZOM10936,Bengaluru,Street Food,Bakery,No,Yes,750,207.83,58,3.6,2490
+ZOM10937,Kolkata,Fast Food,Bakery,Yes,Yes,350,1552.27,51,4.3,3163
+ZOM10938,Bengaluru,North Indian,Bakery,Yes,No,350,452.97,63,4.2,2310
+ZOM10939,New Delhi,Fast Food,Cloud Kitchen,Yes,Yes,200,1588.99,50,4.1,2597
+ZOM10940,Mumbai,Fast Food,Bakery,Yes,No,350,712.25,51,3.4,1088
+ZOM10941,New Delhi,Desserts,Casual Dining,Yes,No,500,1334.11,56,3.6,1515
+ZOM10942,Hyderabad,North Indian,Café,No,No,500,656.3,27,3.0,2438
+ZOM10943,Pune,Biryani,Café,Yes,Yes,350,1641.93,37,4.3,1898
+ZOM10944,Bengaluru,South Indian,Cloud Kitchen,Yes,No,350,332.75,18,3.9,2719
+ZOM10945,Bengaluru,Chinese,Casual Dining,Yes,No,200,419.91,30,4.3,2756
+ZOM10946,Bengaluru,Fast Food,Quick Service Restaurant (QSR),Yes,No,350,948.29,18,3.3,753
+ZOM10947,Kolkata,Italian,Quick Service Restaurant (QSR),Yes,Yes,200,257.66,22,3.5,1970
+ZOM10948,Kolkata,Italian,Bakery,Yes,No,750,449.25,33,3.5,111
+ZOM10949,New Delhi,South Indian,Fine Dining,Yes,No,1500,1705.53,32,2.9,3113
+ZOM10950,New Delhi,Italian,Quick Service Restaurant (QSR),Yes,No,1500,1760.5,45,3.5,2239
+ZOM10951,Hyderabad,Biryani,Fine Dining,Yes,No,1000,752.12,48,4.5,1647
+ZOM10952,Bengaluru,Italian,Café,Yes,Yes,500,1671.12,40,4.7,1235
+ZOM10953,Kolkata,Chinese,Fine Dining,Yes,Yes,750,1035.31,62,3.9,1120
+ZOM10954,Mumbai,Chinese,Café,Yes,No,350,573.17,60,3.8,1324
+ZOM10955,Mumbai,Fast Food,Casual Dining,No,No,500,1300.03,34,2.9,1407
+ZOM10956,New Delhi,North Indian,Casual Dining,Yes,No,500,1226.96,51,4.6,198
+ZOM10957,Bengaluru,Desserts,Cloud Kitchen,Yes,No,500,1781.73,30,2.8,2305
+ZOM10958,Bengaluru,Biryani,Cloud Kitchen,Yes,Yes,750,565.28,31,4.8,3226
+ZOM10959,Hyderabad,Fast Food,Bakery,Yes,No,350,1249.06,28,3.8,2944
+ZOM10960,Bengaluru,Biryani,Quick Service Restaurant (QSR),Yes,No,350,207.4,45,3.5,2969
+ZOM10961,New Delhi,North Indian,Bakery,Yes,No,1000,310.93,59,4.7,299
+ZOM10962,Bengaluru,Street Food,Café,Yes,No,200,126.58,49,2.9,1062
+ZOM10963,Mumbai,Italian,Bakery,Yes,No,500,1799.09,52,4.0,1638
+ZOM10964,Mumbai,Italian,Fine Dining,Yes,No,1000,1467.82,48,4.0,2807
+ZOM10965,Mumbai,Desserts,Café,Yes,No,500,1441.69,34,3.3,390
+ZOM10966,Hyderabad,North Indian,Cloud Kitchen,Yes,No,500,976.34,64,3.7,1820
+ZOM10967,Mumbai,Fast Food,Casual Dining,Yes,No,350,624.11,26,4.2,3203
+ZOM10968,New Delhi,Desserts,Cloud Kitchen,No,No,350,374.12,27,4.3,2937
+ZOM10969,New Delhi,North Indian,Quick Service Restaurant (QSR),Yes,Yes,1000,598.25,25,2.8,1723
+ZOM10970,Hyderabad,South Indian,Café,Yes,No,500,751.63,38,4.8,3086
+ZOM10971,Kolkata,Chinese,Café,Yes,No,500,1390.6,30,3.1,2288
+ZOM10972,Hyderabad,Desserts,Fine Dining,No,No,200,1026.63,22,3.3,2987
+ZOM10973,Bengaluru,Desserts,Quick Service Restaurant (QSR),Yes,No,200,250.17,23,3.4,323
+ZOM10974,Bengaluru,Fast Food,Casual Dining,Yes,No,1500,150.29,47,2.9,1368
+ZOM10975,Mumbai,Biryani,Café,Yes,Yes,350,291.92,48,3.1,1480
+ZOM10976,New Delhi,South Indian,Café,Yes,No,500,809.64,34,4.9,2505
+ZOM10977,Bengaluru,Fast Food,Fine Dining,Yes,No,200,1687.76,28,3.5,1213
+ZOM10978,New Delhi,North Indian,Bakery,Yes,No,500,1190.84,37,3.0,2442
+ZOM10979,New Delhi,North Indian,Casual Dining,Yes,No,1000,1467.07,26,3.0,2448
+ZOM10980,Mumbai,North Indian,Cloud Kitchen,Yes,No,500,903.51,19,4.3,3053
+ZOM10981,Pune,Street Food,Quick Service Restaurant (QSR),No,Yes,200,727.6,54,4.6,2081
+ZOM10982,Bengaluru,North Indian,Café,Yes,Yes,500,302.11,18,3.3,2810
+ZOM10983,Bengaluru,Biryani,Café,Yes,No,750,1591.57,21,2.8,688
+ZOM10984,Hyderabad,South Indian,Cloud Kitchen,Yes,No,350,1435.71,53,3.3,519
+ZOM10985,New Delhi,Italian,Casual Dining,Yes,No,1000,402.44,42,2.9,1434
+ZOM10986,Hyderabad,Chinese,Bakery,No,Yes,500,980.6,20,3.0,1592
+ZOM10987,Mumbai,Biryani,Café,Yes,No,1000,938.79,26,3.7,2632
+ZOM10988,Bengaluru,Biryani,Casual Dining,Yes,No,500,1170.15,39,3.3,549
+ZOM10989,Pune,Street Food,Cloud Kitchen,Yes,No,200,1709.59,40,3.9,2026
+ZOM10990,Pune,Italian,Fine Dining,Yes,Yes,350,1094.02,29,3.3,2559
+ZOM10991,Hyderabad,Italian,Bakery,Yes,Yes,350,1027.57,27,4.8,3476
+ZOM10992,Mumbai,Chinese,Quick Service Restaurant (QSR),Yes,No,1000,204.54,51,4.7,1239
+ZOM10993,New Delhi,Chinese,Café,Yes,No,750,225.68,60,4.0,774
+ZOM10994,Mumbai,Italian,Casual Dining,Yes,No,500,434.74,27,3.5,2367
+ZOM10995,Bengaluru,North Indian,Fine Dining,Yes,Yes,350,174.55,47,3.6,834
+ZOM10996,Kolkata,Biryani,Quick Service Restaurant (QSR),No,No,200,1368.83,39,3.7,2614
+ZOM10997,Bengaluru,Fast Food,Casual Dining,Yes,No,750,1335.19,23,4.3,746
+ZOM10998,Chennai,Chinese,Casual Dining,Yes,No,500,348.57,19,3.7,750
+ZOM10999,Mumbai,Street Food,Quick Service Restaurant (QSR),Yes,No,350,1524.61,47,4.6,847
