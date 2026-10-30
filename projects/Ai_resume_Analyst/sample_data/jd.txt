@@ -1,0 +1,12 @@
+Job Title: Senior Data Scientist - AI & NLP
+
+Responsibilities:
+- Build and deploy Machine Learning and NLP models using Python, scikit-learn, PyTorch, or TensorFlow.
+- Design scalable data pipelines and perform exploratory data analysis using Pandas, NumPy, and SQL.
+- Develop vector embeddings and semantic search pipelines using Sentence-Transformers and LLM frameworks.
+- Collaborate with cross-functional software teams to integrate APIs (FastAPI/Flask) into cloud infrastructure (AWS, Docker).
+
+Required Qualifications:
+- Strong expertise in Python, SQL, Machine Learning, and Natural Language Processing (NLP).
+- Hands-on experience with spaCy, Transformers, Hugging Face, and Vector Databases (FAISS/ChromaDB).
+- Bachelor's or Master's degree in Computer Science, Data Science, or related field.
